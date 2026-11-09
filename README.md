@@ -192,6 +192,10 @@ git clone https://github.com/NExT-GPT/NExT-GPT.git
 cd NExT-GPT
 
 pip install -r requirements.txt
+
+# Note for Windows users:
+# deepspeed is skipped automatically by requirements.txt because it does not have reliable native Windows support.
+# For multi-GPU/deepspeed training, use Linux/WSL.
 ```
 
 <span id='Training on Your Own'/>
