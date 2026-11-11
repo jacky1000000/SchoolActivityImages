@@ -3,14 +3,14 @@ import torch.nn as nn
 from transformers import AutoModelForCausalLM
 
 class NextGPTImageGenModel(nn.Module):
-    def __init__(self, vicuna_path, freeze_llm=True):
+    def __init__(self, vicuna_path, freeze_llm=True, torch_dtype=None):
         super().__init__()
         # 1. 載入大語言模型核心 (Vicuna 7B)
-        self.llm = AutoModelForCausalLM.from_pretrained(vicuna_path)
+        self.llm = AutoModelForCausalLM.from_pretrained(vicuna_path, torch_dtype=torch_dtype)
         
         # 2. 圖像生成輸出連接層 (Output Projection Layer)
         # 將 Vicuna 的 4096 維隱藏向量映射到 Stable Diffusion 的 768 維 Text Embeddings 空間
-        self.to_image_diffusion = nn.Linear(self.llm.config.hidden_size, 768)
+        self.to_image_diffusion = nn.Linear(self.llm.config.hidden_size, 768, dtype=torch_dtype)
         
         # 根據下游任務需求決定是否凍結語言模型主幹
         if freeze_llm:
@@ -19,7 +19,7 @@ class NextGPTImageGenModel(nn.Module):
                 
     def forward(self, input_ids, labels=None):
         # 執行 LLM 前向傳播
-        outputs = self.llm(input_ids=input_ids, output_hidden_states=True)
+        outputs = self.llm(input_ids=input_ids, labels=labels, output_hidden_states=True)
         
         # 提取 LLM 最後一層的隱藏狀態，維度: [Batch, Sequence_Length, 4096]
         last_hidden_state = outputs.hidden_states[-1]

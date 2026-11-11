@@ -198,6 +198,11 @@ pip install -r requirements.txt
 # For multi-GPU/deepspeed training, use Linux/WSL.
 ```
 
+The `schoolactivityimages` training entry point uses BF16 model weights and
+autocasting when CUDA and BF16 are supported, and otherwise uses FP32. Epoch
+duration is printed during training. BF16 can reduce GPU memory use, but actual
+training speed depends on the hardware and available GPU memory.
+
 <span id='Training on Your Own'/>
 
 ### 3. Training/Adapting NExt-GPT on Your Own 

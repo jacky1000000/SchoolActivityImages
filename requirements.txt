@@ -18,6 +18,7 @@ pytorchvideo==0.1.5
 PyYAML==6.0.2
 regex==2024.7.24
 scipy
+sentencepiece
 timm
 # torch
 # torchaudio
