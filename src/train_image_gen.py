@@ -17,7 +17,7 @@ def train_facility_model():
     use_bfloat16 = device == "cuda" and torch.cuda.is_bf16_supported()
     model_dtype = torch.bfloat16 if use_bfloat16 else torch.float32
     print(f"Model dtype: {model_dtype}")
-    # os.makedirs("./ckpt/nextgpt_facility_output", exist_ok=True)
+    os.makedirs("../ckpt_updated/nextgpt_facility_output", exist_ok=True)
     
     vicuna_path = "../my_checkpoints/vicuna-7b-v1.5"
     
