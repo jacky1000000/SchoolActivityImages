@@ -19,7 +19,7 @@ def train_facility_model():
     print(f"Model dtype: {model_dtype}")
     # os.makedirs("./ckpt/nextgpt_facility_output", exist_ok=True)
     
-    vicuna_path = "./my_checkpoints/vicuna-7b-v1.5"
+    vicuna_path = "../my_checkpoints/vicuna-7b-v1.5"
     
     # 1. 初始化模型 (不凍結 LLM 主幹，因為稍後要外掛 LoRA)
     model = NextGPTImageGenModel(
@@ -39,7 +39,7 @@ def train_facility_model():
     
     # 3. 準備開放式設施圖像數據集
     train_dataset = CampusImageDataset(
-        json_path="./data/image_gen_train.json",
+        json_path="../data/image_gen_train.json",
         tokenizer_path=vicuna_path,
         max_length=256
     )
@@ -85,9 +85,12 @@ def train_facility_model():
         print(f"Epoch {epoch+1}/{num_epochs} | 平均訓練 Loss: {total_loss/len(train_loader):.4f} | {elapsed:.1f}s")
         
     # 6. 儲存微調後增量參數
-    torch.save(model.to_image_diffusion.state_dict(), "./ckpt/nextgpt_facility_output/image_projection.pth")
-    model.llm.save_pretrained("./ckpt/nextgpt_facility_output/vicuna_lora")
-    print("🎉 微調成功結束！權重已儲存至 ./ckpt/nextgpt_facility_output/")
+    torch.save(model.to_image_diffusion.state_dict(), "../ckpt_updated/nextgpt_facility_output/image_projection.pth")
+    model.llm.save_pretrained("../ckpt_updated/nextgpt_facility_output/vicuna_lora")
+    print("🎉 微調成功結束！權重已儲存至 ../ckpt_updated/nextgpt_facility_output/")
 
 def main() -> None:
     train_facility_model()
+
+if __name__ == "__main__":
+    main()
