@@ -29,10 +29,10 @@ def main():
     try:
         print("\n⏳ 2/2 正在下載 Stable Diffusion v1-5 結構與權重...")
         snapshot_download(
-            repo_id="runwayml/stable-diffusion-v1-5",
+            repo_id="stable-diffusion-v1-5/stable-diffusion-v1-5",
             local_dir=sd_target,
             local_dir_use_symlinks=False,
-            ignore_patterns=["*.safetensors", "*.onnx", "*.fp16.*"]
+            ignore_patterns=["*.onnx", "*.fp16.*"]
         )
         print("✅ Stable Diffusion 下載成功！")
     except Exception as e:

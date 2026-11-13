@@ -83,6 +83,26 @@ class NextGPTImageGenModelTests(unittest.TestCase):
         output = model(input_ids=self.input_ids)
         self.assertEqual(output["image_features"].dtype, torch.bfloat16)
 
+    def test_vocab_size_resize_allows_new_token_ids(self):
+        base_model = LlamaForCausalLM(
+            LlamaConfig(
+                vocab_size=32,
+                hidden_size=16,
+                intermediate_size=32,
+                num_hidden_layers=1,
+                num_attention_heads=2,
+                num_key_value_heads=2,
+            )
+        )
+        with patch(
+            "models.nextgpt_arch.AutoModelForCausalLM.from_pretrained",
+            return_value=base_model,
+        ):
+            model = NextGPTImageGenModel("unused", freeze_llm=False, vocab_size=33)
+
+        output = model(input_ids=torch.tensor([[1, 2, 32]]))
+        self.assertEqual(output["logits"].shape[-1], 33)
+
 
 if __name__ == "__main__":
     unittest.main()
