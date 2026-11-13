@@ -43,7 +43,7 @@ def train_facility_model():
         tokenizer_path=vicuna_path,
         max_length=256
     )
-    train_loader = DataLoader(train_dataset, batch_size=2, shuffle=True)
+    train_loader = DataLoader(train_dataset, batch_size=5, shuffle=True)
     print(f"訓練數據集大小: {len(train_dataset)}")
     # print('Show the content inside dataset: ')
     # for i in range(len(train_dataset)):
@@ -51,7 +51,7 @@ def train_facility_model():
     
     # 4. 優化器設定
     optimizer = AdamW(model.parameters(), lr=5e-5)
-    num_epochs = 5
+    num_epochs = 15
     num_training_steps = len(train_loader) * num_epochs
     lr_scheduler = get_scheduler(
         "linear", optimizer=optimizer, num_warmup_steps=0, num_training_steps=num_training_steps

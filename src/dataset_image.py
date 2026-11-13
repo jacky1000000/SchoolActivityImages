@@ -19,6 +19,7 @@ class CampusImageDataset(Dataset):
         conversation = item["conversations"]
         
         # 將 User 的開放式提問與 Assistant 包含 <IMG0> 的回答組裝成訓練文本
+        # full_text = f"USER: {conversation[0]['value']} ASSISTANT: {conversation[1]['value']}{self.tokenizer.eos_token}"
         full_text = f"USER: {conversation[0]['value']} ASSISTANT: {conversation[1]['value']}"
         
         inputs = self.tokenizer(
