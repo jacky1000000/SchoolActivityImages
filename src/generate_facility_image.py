@@ -85,52 +85,52 @@ def do_inference(user_prompt):
     #     final_output = f"{assistant_reply} <IMG0>"
     # print(f"💬 最終輸出: {final_output}")
     
-    # # 5. 檢測訊號標記，調用 Stable Diffusion 畫圖
+    # # 5. 調用 Stable Diffusion 畫圖
     # if "<IMG" in final_output:
-    #     print("🎨 檢測到圖像生成訊號！正在調用 Stable Diffusion 進行潛在空間特徵解碼...")
-        
-    #     # 提取最後一層中對齊校園設施特徵的隱藏特徵向量
-    #     img_embeds = outputs["image_features"][:, -1, :].unsqueeze(1)
-        
-    #     # 載入本地端的 Stable Diffusion Pipeline
-    #     sd_pipe = StableDiffusionPipeline.from_pretrained(
-    #         sd_path, 
-    #         safety_checker=None,
-    #         # use_safetensors=False,
-    #         torch_dtype=torch.float16 if device == "cuda" else torch.float32
-    #     ).to(device)
-    #     print("Stable Diffusion Pipeline loaded successfully.")
+    print("🎨 檢測到圖像生成訊號！正在調用 Stable Diffusion 進行潛在空間特徵解碼...")
+    
+    # # 提取最後一層中對齊校園設施特徵的隱藏特徵向量
+    # img_embeds = outputs["image_features"][:, -1, :].unsqueeze(1)
+    
+    # 載入本地端的 Stable Diffusion Pipeline
+    sd_pipe = StableDiffusionPipeline.from_pretrained(
+        sd_path, 
+        safety_checker=None,
+        # use_safetensors=False,
+        torch_dtype=torch.float16 if device == "cuda" else torch.float32
+    ).to(device)
+    print("Stable Diffusion Pipeline loaded successfully.")
 
-    #     expected_embed_dim = sd_pipe.text_encoder.config.hidden_size
-    #     if img_embeds.shape[-1] != expected_embed_dim:
-    #         raise ValueError(
-    #             f"Embedding dimension mismatch: got {img_embeds.shape[-1]}, expected {expected_embed_dim}."
-    #         )
-    #     if img_embeds.shape[1] == 0:
-    #         raise ValueError("Image prompt embedding sequence length is 0.")
-        
-    #     # 透過對齊後的特徵引導擴散模型繪製圖像
-    #     os.makedirs("../output", exist_ok=True)
-    #     # prompt_embeds = img_embeds.to(dtype=sd_pipe.dtype, device=device)
-    #     # negative_prompt_embeds = torch.zeros_like(prompt_embeds)
-    #     # image = sd_pipe(
-    #     #     prompt_embeds=prompt_embeds,
-    #     #     negative_prompt_embeds=negative_prompt_embeds,
-    #     #     num_inference_steps=25,
-    #     # ).images[0]
+    # expected_embed_dim = sd_pipe.text_encoder.config.hidden_size
+    # if img_embeds.shape[-1] != expected_embed_dim:
+    #     raise ValueError(
+    #         f"Embedding dimension mismatch: got {img_embeds.shape[-1]}, expected {expected_embed_dim}."
+    #     )
+    # if img_embeds.shape[1] == 0:
+    #     raise ValueError("Image prompt embedding sequence length is 0.")
+    
+    # 透過對齊後的特徵引導擴散模型繪製圖像
+    os.makedirs("../output", exist_ok=True)
+    # prompt_embeds = img_embeds.to(dtype=sd_pipe.dtype, device=device)
+    # negative_prompt_embeds = torch.zeros_like(prompt_embeds)
+    # image = sd_pipe(
+    #     prompt_embeds=prompt_embeds,
+    #     negative_prompt_embeds=negative_prompt_embeds,
+    #     num_inference_steps=25,
+    # ).images[0]
 
-    #     image = sd_pipe(    
-    #         prompt=final_output,
-    #         negative_prompt="text",
-    #         guidance_scale=7.5,
-    #         num_inference_steps=25,
-    #     ).images[0]
-        
-    #     output_filename = "../output/generated_facility.png"
-    #     image.save(output_filename)
-    #     print(f"🎉 設施圖像已成功生成並儲存至: {output_filename}")
-    # else:
-    #     print("❌ 模型在此次對話中未觸發圖像生成標記。")
+    image = sd_pipe(    
+        prompt=assistant_reply,
+        negative_prompt="text",
+        guidance_scale=7.5,
+        num_inference_steps=25,
+    ).images[0]
+    
+    output_filename = "../output/generated_facility.png"
+    image.save(output_filename)
+    print(f"🎉 設施圖像已成功生成並儲存至: {output_filename}")
+# else:
+#     print("❌ 模型在此次對話中未觸發圖像生成標記。")
 
 if __name__ == "__main__":
     # 測試一個開放式的設施生成請求
