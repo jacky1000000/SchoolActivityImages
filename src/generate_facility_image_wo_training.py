@@ -7,6 +7,7 @@ from diffusers import StableDiffusionPipeline
 from peft import PeftModel
 import os
 import re
+import random, string
 
 # 1. 定義專屬停止器：一旦檢測到 <IMG0> 出現，立刻強制停止生成
 class StopOnImgTag(StoppingCriteria):
@@ -96,7 +97,9 @@ def generate_facility_image(expanded_keywords):
         num_inference_steps=25,
     ).images[0]
 
-    output_filename = "../output/untrained/generated_facility.png"
+    # add random characters for filename
+    random_chars = ''.join(random.choices(string.ascii_lowercase + string.digits, k=6))
+    output_filename = f"../output/untrained/generated_facility_{random_chars}.png"
     image.save(output_filename)
     print(f"🎉 設施圖像已成功生成並儲存至: {output_filename}")
 
