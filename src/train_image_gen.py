@@ -30,7 +30,7 @@ def train_facility_model():
     peft_config = LoraConfig(
         task_type=TaskType.CAUSAL_LM,
         r=8,
-        lora_alpha=32,
+        lora_alpha=16,
         target_modules=["q_proj", "v_proj"],
         lora_dropout=0.1
     )
@@ -53,7 +53,7 @@ def train_facility_model():
     #     print(train_dataset[i])
     
     # 4. 優化器設定
-    optimizer = AdamW(model.parameters(), lr=3e-4)
+    optimizer = AdamW(model.parameters(), lr=2e-4)
     num_epochs = 25
     num_training_steps = len(train_loader) * num_epochs
     lr_scheduler = get_scheduler(

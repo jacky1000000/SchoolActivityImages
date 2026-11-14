@@ -4,6 +4,7 @@ from transformers import AutoTokenizer, StoppingCriteria, StoppingCriteriaList
 from diffusers import StableDiffusionPipeline
 from peft import PeftModel
 import os
+import re
 
 # 1. 定義專屬停止器：一旦檢測到 <IMG0> 出現，立刻強制停止生成
 class StopOnImgTag(StoppingCriteria):
@@ -31,6 +32,9 @@ def do_inference(user_prompt):
     tokenizer = AutoTokenizer.from_pretrained(vicuna_path, use_fast=False)
     print("Tokenizer loaded.")
     model = NextGPTImageGenModel(vicuna_path=vicuna_path, freeze_llm=False, torch_dtype=model_dtype)
+    
+    # # Try to use checkpoints before training
+    # model.llm = PeftModel.from_pretrained(model.llm, "../ckpt_updated/nextgpt_facility_output/vicuna_lora")
     
     # 2. 載入微調後的自訂校園 LoRA 與連接層權重
     model.llm = PeftModel.from_pretrained(model.llm, "../ckpt_updated/nextgpt_facility_output/vicuna_lora")
@@ -73,11 +77,17 @@ def do_inference(user_prompt):
 
     # 1. 擷取 ASSISTANT: 之後的視覺描述內容
     if "ASSISTANT:" in generated_text:
-        assistant_reply = generated_text.split("ASSISTANT:")[-1].replace("<IMG0>", "").replace("</s>", "").strip()
+        assistant_reply = generated_text.split("ASSISTANT:")[-1]
     else:
         assistant_reply = user_prompt
-
-    print(f"Assistant reply extracted: {assistant_reply}")
+    # 若模型不小心生出變形的 ASSistant:，從那裡切斷
+    raw_reply = re.split(r"assistant:|user:|<img0>", assistant_reply, flags=re.IGNORECASE)[0].strip()
+    
+    # 用正規表達式過濾掉所有奇怪的符號亂碼，只保留中英文、數字與基本標點
+    clean_description = re.sub(r"[^\u4e00-\u9fa5a-zA-Z0-9\s.,;!?，。；！？、-]", "", raw_reply).strip()
+    
+    print(f"\n💬 最終乾淨輸出:\n{clean_description}\n")
+    # print(f"Assistant reply extracted: {assistant_reply}")
 
     # if "<IMG0>" in assistant_reply:
     #     final_output = assistant_reply
@@ -110,7 +120,7 @@ def do_inference(user_prompt):
     #     raise ValueError("Image prompt embedding sequence length is 0.")
     
     # 透過對齊後的特徵引導擴散模型繪製圖像
-    os.makedirs("../output", exist_ok=True)
+    # os.makedirs("../output", exist_ok=True)
     # prompt_embeds = img_embeds.to(dtype=sd_pipe.dtype, device=device)
     # negative_prompt_embeds = torch.zeros_like(prompt_embeds)
     # image = sd_pipe(
@@ -120,13 +130,13 @@ def do_inference(user_prompt):
     # ).images[0]
 
     image = sd_pipe(    
-        prompt=assistant_reply,
+        prompt=clean_description,
         negative_prompt="text",
         guidance_scale=7.5,
         num_inference_steps=25,
     ).images[0]
     
-    output_filename = "../output/generated_facility.png"
+    output_filename = "../output/trained/generated_facility.png"
     image.save(output_filename)
     print(f"🎉 設施圖像已成功生成並儲存至: {output_filename}")
 # else:
