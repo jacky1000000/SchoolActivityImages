@@ -41,21 +41,21 @@ def do_inference(user_prompt):
     # model.llm = PeftModel.from_pretrained(model.llm, "../ckpt_updated/nextgpt_facility_output/vicuna_lora")
     model.eval()
 
-    # 使用 Vicuna 官方標準對話格式，並給予明確的建築攝影關鍵字指令
-    prompt = (
-        "A chat between a curious user and an artificial intelligence assistant. "
-        "The assistant gives helpful, detailed, and polite answers to the user's questions.\n"
-        f"USER: Act as an architectural visualizer. Convert this school facility request into a concise, "
-        f"highly detailed English image generation prompt (under 45 words, comma-separated visual keywords, "
-        f"focus on lighting, materials, and layout, no conversational filler): '{user_prompt}'\n"
-        "ASSISTANT:"
-    )
-    inputs = tokenizer(prompt, return_tensors="pt").to(device)
+    # # 使用 Vicuna 官方標準對話格式，並給予明確的建築攝影關鍵字指令
+    # prompt = (
+    #     "A chat between a curious user and an artificial intelligence assistant. "
+    #     "The assistant gives helpful, detailed, and polite answers to the user's questions.\n"
+    #     f"USER: Act as an architectural visualizer. Convert this school facility request into a concise, "
+    #     f"highly detailed English image generation prompt (under 45 words, comma-separated visual keywords, "
+    #     f"focus on lighting, materials, and layout, no conversational filler): '{user_prompt}'\n"
+    #     "ASSISTANT:"
+    # )
+    inputs = tokenizer(user_prompt, return_tensors="pt").to(device)
 
     with torch.no_grad():
         output_tokens = model.llm.generate(
             input_ids=inputs.input_ids,
-            max_new_tokens=150,
+            max_new_tokens=50000,
             eos_token_id=tokenizer.eos_token_id,
             pad_token_id=tokenizer.pad_token_id,
             do_sample=True,
