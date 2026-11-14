@@ -9,17 +9,17 @@ import os
 import re
 import random, string
 
-# 1. 定義專屬停止器：一旦檢測到 <IMG0> 出現，立刻強制停止生成
-class StopOnImgTag(StoppingCriteria):
-    def __init__(self, tokenizer):
-        self.tokenizer = tokenizer
+# # 1. 定義專屬停止器：一旦檢測到 <IMG0> 出現，立刻強制停止生成
+# class StopOnImgTag(StoppingCriteria):
+#     def __init__(self, tokenizer):
+#         self.tokenizer = tokenizer
 
-    def __call__(self, input_ids: torch.LongTensor, scores: torch.FloatTensor, **kwargs) -> bool:
-        # 只解碼每條序列最後生成的 6 個 tokens 來檢查是否包含 <IMG0>
-        tail_len = min(6, input_ids.shape[-1])
-        tail_token_ids = input_ids[:, -tail_len:].detach().tolist()
-        recent_texts = self.tokenizer.batch_decode(tail_token_ids, skip_special_tokens=False)
-        return any("<IMG0>" in text for text in recent_texts)
+#     def __call__(self, input_ids: torch.LongTensor, scores: torch.FloatTensor, **kwargs) -> bool:
+#         # 只解碼每條序列最後生成的 6 個 tokens 來檢查是否包含 <IMG0>
+#         tail_len = min(6, input_ids.shape[-1])
+#         tail_token_ids = input_ids[:, -tail_len:].detach().tolist()
+#         recent_texts = self.tokenizer.batch_decode(tail_token_ids, skip_special_tokens=False)
+#         return any("<IMG0>" in text for text in recent_texts)
 
 
 def do_inference(user_prompt):
@@ -55,7 +55,7 @@ def do_inference(user_prompt):
     with torch.no_grad():
         output_tokens = model.llm.generate(
             input_ids=inputs.input_ids,
-            max_new_tokens=50000,
+            max_new_tokens=200,
             eos_token_id=tokenizer.eos_token_id,
             pad_token_id=tokenizer.pad_token_id,
             do_sample=True,
@@ -66,8 +66,10 @@ def do_inference(user_prompt):
 
     print('output tokens:', output_tokens)
     full_text = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
-    expanded_keywords = full_text.split("ASSISTANT:")[-1].strip()
-    print(f"\n💬 原始 Vicuna 生成的視覺關鍵字:\n{expanded_keywords}\n")
+    print(f"\n💬 模型生成的完整文本:\n{full_text}\n")
+    expanded_keywords = full_text
+    # expanded_keywords = full_text.split("ASSISTANT:")[-1].strip()
+    # print(f"\n💬 原始 Vicuna 生成的視覺關鍵字:\n{expanded_keywords}\n")
 
     # 釋放 Vicuna 佔用的顯存，為後續 Stable Diffusion 騰出完整空間
     del model.llm

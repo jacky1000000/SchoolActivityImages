@@ -7,17 +7,17 @@ import os
 import re
 import random, string
 
-# 1. 定義專屬停止器：一旦檢測到 <IMG0> 出現，立刻強制停止生成
-class StopOnImgTag(StoppingCriteria):
-    def __init__(self, tokenizer):
-        self.tokenizer = tokenizer
+# # 1. 定義專屬停止器：一旦檢測到 <IMG0> 出現，立刻強制停止生成
+# class StopOnImgTag(StoppingCriteria):
+#     def __init__(self, tokenizer):
+#         self.tokenizer = tokenizer
 
-    def __call__(self, input_ids: torch.LongTensor, scores: torch.FloatTensor, **kwargs) -> bool:
-        # 只解碼每條序列最後生成的 6 個 tokens 來檢查是否包含 <IMG0>
-        tail_len = min(6, input_ids.shape[-1])
-        tail_token_ids = input_ids[:, -tail_len:].detach().tolist()
-        recent_texts = self.tokenizer.batch_decode(tail_token_ids, skip_special_tokens=False)
-        return any("<IMG0>" in text for text in recent_texts)
+#     def __call__(self, input_ids: torch.LongTensor, scores: torch.FloatTensor, **kwargs) -> bool:
+#         # 只解碼每條序列最後生成的 6 個 tokens 來檢查是否包含 <IMG0>
+#         tail_len = min(6, input_ids.shape[-1])
+#         tail_token_ids = input_ids[:, -tail_len:].detach().tolist()
+#         recent_texts = self.tokenizer.batch_decode(tail_token_ids, skip_special_tokens=False)
+#         return any("<IMG0>" in text for text in recent_texts)
 
 
 def do_inference(user_prompt):
@@ -49,45 +49,52 @@ def do_inference(user_prompt):
     
     # 3. 處理開放式輸入提示詞
     # system_instruction = "SYSTEM: 你是一個校園設施圖像生成系統。請用一句簡短的話描述畫面細節，並在結尾加上 <IMG0>，禁止條列式長篇大論。\n"
-    formatted_prompt = f"USER: {user_prompt} ASSISTANT:"
+    # formatted_prompt = f"USER: {user_prompt} ASSISTANT:"
+    formatted_prompt = user_prompt
     inputs = tokenizer(formatted_prompt, return_tensors="pt").to(device)
     print("Inputs tokenized.")
     print('EOS token ID:', tokenizer.eos_token_id)
 
-    # 2. 初始化停止條件清單
-    stop_criteria = StoppingCriteriaList([StopOnImgTag(tokenizer)])
+    # # 2. 初始化停止條件清單
+    # stop_criteria = StoppingCriteriaList([StopOnImgTag(tokenizer)])
+
+    # # 1. 建立黑名單：禁止模型生成 ID 0 (<unk>) 以及 ID 3~258 的所有底層 ASCII 控制符與亂碼字元
+    # # (保留 ID 13 換行符，避免影響正常排版)
+    # bad_token_ids = [[0]] + [[i] for i in range(3, 259) if i != 13]
 
     # 4. 前向傳播提取隱藏特徵
     with torch.no_grad():
-        outputs = model(input_ids=inputs.input_ids)
+        # outputs = model(input_ids=inputs.input_ids)
         output_tokens = model.llm.generate(
             input_ids=inputs.input_ids,
-            max_new_tokens=150,
+            max_new_tokens=200,
             eos_token_id=tokenizer.eos_token_id,
-            stopping_criteria=stop_criteria,  # 掛載停止器：看到 <IMG0> 立刻剎車！
+            pad_token_id=tokenizer.pad_token_id,
+            # stopping_criteria=stop_criteria,  # 掛載停止器：看到 <IMG0> 立刻剎車！
             do_sample=True,
             temperature=0.6,           # 降低隨機性，讓輸出更穩定
             top_p=0.9,                 # 核採樣，過濾掉低機率的奇怪詞彙
-            repetition_penalty=1.25    # 關鍵參數：大於 1.0 可強力抑制「藍色裝飾...」這類鬼打牆重複
+            repetition_penalty=1.25,   # 關鍵參數：大於 1.0 可強力抑制「藍色裝飾...」這類鬼打牆重複
+            # bad_words_ids=bad_token_ids  # 掛載黑名單，禁止生成亂碼
         )
 
         
     print('output tokens:', output_tokens)
-    generated_text = tokenizer.decode(output_tokens[0], skip_special_tokens=False)
+    generated_text = tokenizer.decode(output_tokens[0], skip_special_tokens=True)
     print(f"\n💬 模型生成對話描述:\n{generated_text}\n")
 
-    # 1. 擷取 ASSISTANT: 之後的視覺描述內容
-    if "ASSISTANT:" in generated_text:
-        assistant_reply = generated_text.split("ASSISTANT:")[-1]
-    else:
-        assistant_reply = user_prompt
-    # 若模型不小心生出變形的 ASSistant:，從那裡切斷
-    raw_reply = re.split(r"assistant:|user:|<img0>", assistant_reply, flags=re.IGNORECASE)[0].strip()
+    # # 1. 擷取 ASSISTANT: 之後的視覺描述內容
+    # if "ASSIS:" in generated_text:
+    #     assistant_reply = generated_text.split("ASSISTANT:")[-1]
+    # else:
+    #     assistant_reply = user_prompt
+    # # 若模型不小心生出變形的 ASSistant:，從那裡切斷
+    # raw_reply = re.split(r"assistant:|user:|</s>|<img0>", assistant_reply, flags=re.IGNORECASE)[0].strip()
     
-    # 用正規表達式過濾掉所有奇怪的符號亂碼，只保留中英文、數字與基本標點
-    clean_description = re.sub(r"[^\u4e00-\u9fa5a-zA-Z0-9\s.,;!?，。；！？、-]", "", raw_reply).strip()
+    # # 用正規表達式過濾掉所有奇怪的符號亂碼，只保留中英文、數字與基本標點
+    # clean_description = re.sub(r"[^\u4e00-\u9fa5a-zA-Z0-9\s.,;!?，。；！？、-]", "", raw_reply).strip()
     
-    print(f"\n💬 最終乾淨輸出:\n{clean_description}\n")
+    print(f"\n💬 最終乾淨輸出:\n{generated_text}\n")
     # print(f"Assistant reply extracted: {assistant_reply}")
 
     # if "<IMG0>" in assistant_reply:
@@ -131,7 +138,7 @@ def do_inference(user_prompt):
     # ).images[0]
 
     image = sd_pipe(    
-        prompt=clean_description,
+        prompt=generated_text,
         negative_prompt="text",
         guidance_scale=7.5,
         num_inference_steps=25,
@@ -148,4 +155,4 @@ def do_inference(user_prompt):
 if __name__ == "__main__":
     # 測試一個開放式的設施生成請求
     test_prompt = "blue computer lab"
-    do_inference(test_prompt)
+    generated_text = do_inference(test_prompt)
