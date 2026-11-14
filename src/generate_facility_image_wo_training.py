@@ -105,8 +105,8 @@ def generate_facility_image(expanded_keywords):
     image.save(output_filename)
     print(f"🎉 設施圖像已成功生成並儲存至: {output_filename}")
 
-if __name__ == "__main__":
-    # 測試一個開放式的設施生成請求
-    test_prompt = "blue computer lab"
-    expanded_keywords = do_inference(test_prompt)
-    generate_facility_image(expanded_keywords)
+# if __name__ == "__main__":
+#     # 測試一個開放式的設施生成請求
+#     test_prompt = "blue computer lab"
+#     expanded_keywords = do_inference(test_prompt)
+#     generate_facility_image(expanded_keywords)
