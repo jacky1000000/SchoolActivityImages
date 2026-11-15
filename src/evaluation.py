@@ -25,8 +25,8 @@ def evaluate_folder(gen_dir, real_dir, prompt_list, device="cuda"):
         print(f"❌ 找不到生成圖片：請確認 '{gen_dir}' 資料夾存在且內含圖片。")
         return None, None
 
-    print(f"\n🔍 正在評估資料夾: {gen_dir} (共 {len(gen_paths)} 張圖片)...")
-    print('contents inside gen_path:', gen_paths)
+    # print(f"\n🔍 正在評估資料夾: {gen_dir} (共 {len(gen_paths)} 張圖片)...")
+    # print('contents inside gen_path:', gen_paths)
 
     # ==========================================
     # 1. 計算 Text-to-Image Faithfulness (CLIP Score)
@@ -50,7 +50,7 @@ def evaluate_folder(gen_dir, real_dir, prompt_list, device="cuda"):
     clip_scores = []
     # 計算每組提示詞對應幾張圖（例如 50 張圖對應 10 個提示詞，則每 5 張換一題）
     imgs_per_prompt = max(1, len(gen_paths) // len(prompt_list))
-    print(f"每個提示詞對應的圖片數量: {imgs_per_prompt}")
+    # print(f"每個提示詞對應的圖片數量: {imgs_per_prompt}")
 
     for idx, img_path in enumerate(gen_paths):
         print(f"正在處理圖片 {idx+1}/{len(gen_paths)}: {img_path}")
@@ -70,44 +70,50 @@ def evaluate_folder(gen_dir, real_dir, prompt_list, device="cuda"):
     avg_clip = sum(clip_scores) / len(clip_scores) if clip_scores else 0
     print('Average CLIP Score:', avg_clip)
 
-    # del clip_metric
-    # if device == "cuda":
-    #     torch.cuda.empty_cache()
+    del clip_metric
+    if device == "cuda":
+        torch.cuda.empty_cache()
 
-    # # ==========================================
-    # # 2. 計算 Fréchet Inception Distance (FID)
-    # # ==========================================
-    # fid_score = None
-    # real_paths = load_image_paths(real_dir)
+    # ==========================================
+    # 2. 計算 Fréchet Inception Distance (FID)
+    # ==========================================
+    fid_score = None
+    real_paths = load_image_paths(real_dir)
+    # print("contents of real_paths:", real_paths)
 
-    # if len(real_paths) >= 2 and len(gen_paths) >= 2:
-    #     fid_transform = transforms.Compose([
-    #         transforms.Resize((299, 299)),
-    #         transforms.ToTensor(),
-    #         transforms.ConvertImageDtype(torch.uint8)
-    #     ])
+    if len(real_paths) >= 2 and len(gen_paths) >= 2:
+        fid_transform = transforms.Compose([
+            transforms.Resize((299, 299)),
+            transforms.ToTensor(),
+            transforms.ConvertImageDtype(torch.uint8)
+        ])
 
-    #     real_tensors = torch.stack([fid_transform(Image.open(p).convert("RGB")) for p in real_paths])
-    #     fake_tensors = torch.stack([fid_transform(Image.open(p).convert("RGB")) for p in gen_paths])
+        real_tensors = torch.stack([fid_transform(Image.open(p).convert("RGB")) for p in real_paths])
+        # print('length of real_tensors:', len(real_tensors))
+        fake_tensors = torch.stack([fid_transform(Image.open(p).convert("RGB")) for p in gen_paths])
+        # print('length of fake_tensors:', len(fake_tensors))
 
-    #     fid = FrechetInceptionDistance(feature=2048).to(device)
-    #     # 分批送入以避免單次顯存過高
-    #     batch_size = 16
-    #     for i in range(0, len(real_tensors), batch_size):
-    #         fid.update(real_tensors[i:i+batch_size].to(device), real=True)
-    #     for i in range(0, len(fake_tensors), batch_size):
-    #         fid.update(fake_tensors[i:i+batch_size].to(device), real=False)
+        fid = FrechetInceptionDistance(feature=2048).to(device)
+        # # 分批送入以避免單次顯存過高
+        batch_size = 10
+        for i in range(0, len(real_tensors), batch_size):
+            print(f"Processing real tensors batch {i // batch_size + 1}")
+            fid.update(real_tensors[i:i+batch_size].to(device), real=True)
+        for i in range(0, len(fake_tensors), batch_size):
+            print(f"Processing fake tensors batch {i // batch_size + 1}")
+            fid.update(fake_tensors[i:i+batch_size].to(device), real=False)
 
-    #     fid_score = fid.compute().item()
+        fid_score = fid.compute().item()
+        print('FID Score:', fid_score)
 
-    #     del fid
-    #     if device == "cuda":
-    #         torch.cuda.empty_cache()
-    # else:
-    #     print(f"⚠️ 真實圖片資料夾 '{real_dir}' 圖片不足（目前 {len(real_paths)} 張，至少需 2 張），跳過 FID 計算。")
+        del fid
+        if device == "cuda":
+            torch.cuda.empty_cache()
+    else:
+        print(f"⚠️ 真實圖片資料夾 '{real_dir}' 圖片不足（目前 {len(real_paths)} 張，至少需 2 張），跳過 FID 計算。")
 
     # return avg_clip, fid_score
-    return avg_clip, 0
+    return avg_clip, fid_score
 
 if __name__ == "__main__":
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -155,18 +161,18 @@ if __name__ == "__main__":
     base_clip, base_fid = evaluate_folder(not_trained_dir, real_facilities_dir, test_prompts, device)
     tuned_clip, tuned_fid = evaluate_folder(trained_dir, real_facilities_dir, test_prompts, device)
 
-    # # 4. 列印最終對比成績表
-    # print("\n" + "="*72)
-    # print("📊 NExT-GPT 校園設施圖像生成：量化評估對比報告")
-    # print("="*72)
-    # print(f"{'模型配置 (Model Setup)':<32} | {'CLIP Score (越高越好)':<20} | {'FID (越低越好)':<15}")
-    # print("-"*72)
+    # 4. 列印最終對比成績表
+    print("\n" + "="*72)
+    print("📊 NExT-GPT 校園設施圖像生成：量化評估對比報告")
+    print("="*72)
+    print(f"{'模型配置 (Model Setup)':<32} | {'CLIP Score (越高越好)':<20} | {'FID (越低越好)':<15}")
+    print("-"*72)
     
-    # base_clip_str = f"{base_clip:.2f}" if base_clip is not None else "N/A"
-    # base_fid_str = f"{base_fid:.2f}" if base_fid is not None else "N/A"
-    # print(f"{'Not Trained (Base Vicuna + SD)':<32} | {base_clip_str:<20} | {base_fid_str:<15}")
+    base_clip_str = f"{base_clip:.2f}" if base_clip is not None else "N/A"
+    base_fid_str = f"{base_fid:.2f}" if base_fid is not None else "N/A"
+    print(f"{'Not Trained (Base Vicuna + SD)':<32} | {base_clip_str:<20} | {base_fid_str:<15}")
 
-    # tuned_clip_str = f"{tuned_clip:.2f}" if tuned_clip is not None else "N/A"
-    # tuned_fid_str = f"{tuned_fid:.2f}" if tuned_fid is not None else "N/A"
-    # print(f"{'Trained (LoRA Vicuna + SD)':<32} | {tuned_clip_str:<20} | {tuned_fid_str:<15}")
-    # print("="*72)
+    tuned_clip_str = f"{tuned_clip:.2f}" if tuned_clip is not None else "N/A"
+    tuned_fid_str = f"{tuned_fid:.2f}" if tuned_fid is not None else "N/A"
+    print(f"{'Trained (LoRA Vicuna + SD)':<32} | {tuned_clip_str:<20} | {tuned_fid_str:<15}")
+    print("="*72)
