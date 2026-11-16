@@ -66,25 +66,25 @@ def search_photos(input_prompt, top_k=10, photo_dir="../../data/activity_photos"
     top_image_titles = [os.path.basename(all_paths[idx.item()]) for idx in top_indices]
     print(f"top_image_titles: {top_image_titles}")
 
-    # # 4. 印出結果並自動複製匹配圖片到輸出資料夾
-    # if os.path.exists(save_dir):
-    #     shutil.rmtree(save_dir)  # 清空上一次搜尋的舊圖
-    # os.makedirs(save_dir, exist_ok=True)
+    # 4. 印出結果並自動複製匹配圖片到輸出資料夾
+    if os.path.exists(save_dir):
+        shutil.rmtree(save_dir)  # 清空上一次搜尋的舊圖
+    os.makedirs(save_dir, exist_ok=True)
 
-    # print(f"\n🔎 活動描述: 「{input_prompt}」")
-    # print(f"🎯 最匹配的前 {top_k} 張相片：")
-    # matched_paths = []
-    # for rank, (score, idx) in enumerate(zip(top_scores, top_indices), start=1):
-    #     img_path = all_paths[idx.item()]
-    #     sim = score.item()
-    #     matched_paths.append(img_path)
-    #     print(f"  第 {rank} 名 | 相似度: {sim:.4f} | 檔案: {img_path}")
-    #     shutil.copy(img_path, os.path.join(save_dir, f"top{rank}_{sim:.3f}_{os.path.basename(img_path)}"))
+    print(f"\n🔎 活動描述: 「{input_prompt}」")
+    print(f"🎯 最匹配的前 {top_k} 張相片：")
+    matched_paths = []
+    for rank, (score, idx) in enumerate(zip(top_scores, top_indices), start=1):
+        img_path = all_paths[idx.item()]
+        sim = score.item()
+        matched_paths.append(img_path)
+        print(f"  第 {rank} 名 | 相似度: {sim:.4f} | 檔案: {img_path}")
+        shutil.copy(img_path, os.path.join(save_dir, f"top{rank}_{sim:.3f}_{os.path.basename(img_path)}"))
 
-    # print(f"\n📂 已將找到的相片複製到 '{save_dir}'，可直接打開檢視！")
-    # return matched_paths
+    print(f"\n📂 已將找到的相片複製到 '{save_dir}'，可直接打開檢視！")
+    return matched_paths
 
 if __name__ == "__main__":
     # 直接在這裡修改您想搜尋的校園活動描述
-    prompt = "drawing lesson"
+    prompt = "swimming lesson"
     search_photos(input_prompt=prompt, top_k=10)
