@@ -1,0 +1,36 @@
+{
+  "activities": [
+    {
+      "label": "校慶運動會",
+      "prompt": "students running on a red athletics track during a school sports day, cheering crowd, outdoor stadium"
+    },
+    {
+      "label": "科學實驗室開放日",
+      "prompt": "high school students conducting chemistry experiments with microscopes and test tubes in a science laboratory"
+    },
+    {
+      "label": "畢業典禮",
+      "prompt": "students wearing graduation gowns and caps on stage receiving diplomas during a school graduation ceremony"
+    },
+    {
+      "label": "校園音樂會",
+      "prompt": "school orchestra and students playing violins, flutes, and instruments on a concert hall stage"
+    },
+    {
+      "label": "全校防災演習",
+      "prompt": "students lining up orderly in the school playground during an emergency fire drill with teachers"
+    }
+  ],
+  "photos_to_match": [
+    {
+      "photo_id": "img_0001",
+      "file_path": "./activity_photos/image-0001.jpeg",
+      "ground_truth": "Opening Ceremony"
+    },
+    {
+      "photo_id": "img_0002",
+      "file_path": "./activity_photos/image-0002.jpeg",
+      "ground_truth": "Adventure Day"
+    }
+  ]
+}
