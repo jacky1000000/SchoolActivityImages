@@ -14,7 +14,7 @@ numpy==1.26.4
 pandas==2.2.2
 peft==0.10.0
 Pillow==10.2.0
-pytorchvideo==0.1.5
+pytorchvideo @ git+https://github.com/facebookresearch/pytorchvideo.git@6cdc929315aab1b5674b6dcf73b16ec99147735f
 PyYAML==6.0.2
 regex==2024.7.24
 scipy
@@ -28,3 +28,4 @@ transformers==4.42.0
 tensorboard==2.17.1
 hf_xet
 torch-fidelity
+imagebind @ git+https://github.com/facebookresearch/ImageBind.git@53680b02d7e37b19b124fa37bae4b6c98c38f5be

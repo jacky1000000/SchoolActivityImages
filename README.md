@@ -198,6 +198,11 @@ pip install -r requirements.txt
 # For multi-GPU/deepspeed training, use Linux/WSL.
 ```
 
+Photo matching uses Meta's ImageBind and its required PyTorchVideo revision, both
+installed from Git by `requirements.txt`; Git must be available during installation.
+Use compatible PyTorch, torchvision, and torchaudio builds for your platform and
+CUDA version.
+
 The `schoolactivityimages` training entry point uses BF16 model weights and
 autocasting when CUDA and BF16 are supported, and otherwise uses FP32. Epoch
 duration is printed during training. BF16 can reduce GPU memory use, but actual
