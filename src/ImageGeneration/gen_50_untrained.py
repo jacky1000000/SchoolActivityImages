@@ -38,10 +38,10 @@ def SD_usage(expanded_keywords, category, index, use_trained, sd_pipe):
     # if using untrained
     if not use_trained:
         # os.makedirs("../output/untrained", exist_ok=True)
-        output_filename = f"../output/untrained/generated_facility_{category}_{index_str}.jpg"
+        output_filename = f"../../output/untrained/generated_facility_{category}_{index_str}.jpg"
     else:
         # os.makedirs("../output/trained", exist_ok=True)
-        output_filename = f"../output/trained/generated_facility_{category}_{index_str}.jpg"
+        output_filename = f"../../output/trained/generated_facility_{category}_{index_str}.jpg"
     image.save(output_filename)
     print(f"🎉 設施圖像已成功生成並儲存至: {output_filename}")
 
@@ -115,8 +115,8 @@ def main():
     use_bfloat16 = device == "cuda" and torch.cuda.is_bf16_supported()
     model_dtype = torch.bfloat16 if use_bfloat16 else torch.float32
     print(f"Model dtype: {model_dtype}")
-    vicuna_path = "../my_checkpoints/vicuna-7b-v1.5"
-    sd_path = "../my_checkpoints/stable-diffusion-v1-5"
+    vicuna_path = "../../my_checkpoints/vicuna-7b-v1.5"
+    sd_path = "../../my_checkpoints/stable-diffusion-v1-5"
 
     tokenizer = AutoTokenizer.from_pretrained(vicuna_path, use_fast=False)
     print("Tokenizer loaded.")

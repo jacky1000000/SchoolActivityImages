@@ -28,8 +28,8 @@ def do_inference(user_prompt):
     use_bfloat16 = device == "cuda" and torch.cuda.is_bf16_supported()
     model_dtype = torch.bfloat16 if use_bfloat16 else torch.float32
     print(f"Model dtype: {model_dtype}")
-    vicuna_path = "../my_checkpoints/vicuna-7b-v1.5"
-    sd_path = "../my_checkpoints/stable-diffusion-v1-5"
+    vicuna_path = "../../my_checkpoints/vicuna-7b-v1.5"
+    sd_path = "../../my_checkpoints/stable-diffusion-v1-5"
     
     # 1. 載入基礎模型架構
     tokenizer = AutoTokenizer.from_pretrained(vicuna_path, use_fast=False)
@@ -81,7 +81,7 @@ def do_inference(user_prompt):
 
 def generate_facility_image(expanded_keywords):
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    sd_path = "../my_checkpoints/stable-diffusion-v1-5"
+    sd_path = "../../my_checkpoints/stable-diffusion-v1-5"
 
     # 載入本地端的 Stable Diffusion Pipeline
     sd_pipe = StableDiffusionPipeline.from_pretrained(
@@ -101,7 +101,7 @@ def generate_facility_image(expanded_keywords):
 
     # add random characters for filename
     random_chars = ''.join(random.choices(string.ascii_lowercase + string.digits, k=6))
-    output_filename = f"../output/untrained/generated_facility_{random_chars}.png"
+    output_filename = f"../../output/untrained/generated_facility_{random_chars}.png"
     image.save(output_filename)
     print(f"🎉 設施圖像已成功生成並儲存至: {output_filename}")
 

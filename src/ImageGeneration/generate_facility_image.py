@@ -26,8 +26,8 @@ def do_inference(user_prompt):
     use_bfloat16 = device == "cuda" and torch.cuda.is_bf16_supported()
     model_dtype = torch.bfloat16 if use_bfloat16 else torch.float32
     print(f"Model dtype: {model_dtype}")
-    vicuna_path = "../my_checkpoints/vicuna-7b-v1.5"
-    sd_path = "../my_checkpoints/stable-diffusion-v1-5"
+    vicuna_path = "../../my_checkpoints/vicuna-7b-v1.5"
+    sd_path = "../../my_checkpoints/stable-diffusion-v1-5"
     
     # 1. 載入基礎模型架構
     tokenizer = AutoTokenizer.from_pretrained(vicuna_path, use_fast=False)
@@ -38,8 +38,8 @@ def do_inference(user_prompt):
     # model.llm = PeftModel.from_pretrained(model.llm, "../ckpt_updated/nextgpt_facility_output/vicuna_lora")
     
     # 2. 載入微調後的自訂校園 LoRA 與連接層權重
-    model.llm = PeftModel.from_pretrained(model.llm, "../ckpt_updated/nextgpt_facility_output/vicuna_lora")
-    model.to_image_diffusion.load_state_dict(torch.load("../ckpt_updated/nextgpt_facility_output/image_projection.pth"))
+    model.llm = PeftModel.from_pretrained(model.llm, "../../ckpt_updated/nextgpt_facility_output/vicuna_lora")
+    model.to_image_diffusion.load_state_dict(torch.load("../../ckpt_updated/nextgpt_facility_output/image_projection.pth"))
     model.to(device)
     model.eval()
     
@@ -146,7 +146,7 @@ def do_inference(user_prompt):
 
     # add random characters for filename
     random_chars = ''.join(random.choices(string.ascii_lowercase + string.digits, k=6))
-    output_filename = f"../output/trained/generated_facility_{random_chars}.png"
+    output_filename = f"../../output/trained/generated_facility_{random_chars}.png"
     image.save(output_filename)
     print(f"🎉 設施圖像已成功生成並儲存至: {output_filename}")
 # else:

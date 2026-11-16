@@ -17,8 +17,8 @@ def main():
     use_bfloat16 = device == "cuda" and torch.cuda.is_bf16_supported()
     model_dtype = torch.bfloat16 if use_bfloat16 else torch.float32
     print(f"Model dtype: {model_dtype}")
-    vicuna_path = "../my_checkpoints/vicuna-7b-v1.5"
-    sd_path = "../my_checkpoints/stable-diffusion-v1-5"
+    vicuna_path = "../../my_checkpoints/vicuna-7b-v1.5"
+    sd_path = "../../my_checkpoints/stable-diffusion-v1-5"
 
     # 1. 載入基礎模型架構
     tokenizer = AutoTokenizer.from_pretrained(vicuna_path, use_fast=False)
@@ -26,13 +26,13 @@ def main():
     model = NextGPTImageGenModel(vicuna_path=vicuna_path, freeze_llm=False, torch_dtype=model_dtype)
 
     # 2. 載入微調後的自訂校園 LoRA 與連接層權重
-    model.llm = PeftModel.from_pretrained(model.llm, "../ckpt_updated/nextgpt_facility_output/vicuna_lora")
-    model.to_image_diffusion.load_state_dict(torch.load("../ckpt_updated/nextgpt_facility_output/image_projection.pth"))
+    model.llm = PeftModel.from_pretrained(model.llm, "../../ckpt_updated/nextgpt_facility_output/vicuna_lora")
+    model.to_image_diffusion.load_state_dict(torch.load("../../ckpt_updated/nextgpt_facility_output/image_projection.pth"))
     model.to(device)
     model.eval()
 
     # 載入本地端的 Stable Diffusion Pipeline once only
-    sd_path = "../my_checkpoints/stable-diffusion-v1-5"
+    sd_path = "../../my_checkpoints/stable-diffusion-v1-5"
     sd_pipe = StableDiffusionPipeline.from_pretrained(
         sd_path, 
         safety_checker=None,

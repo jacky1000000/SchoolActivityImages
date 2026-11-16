@@ -17,9 +17,9 @@ def train_facility_model():
     use_bfloat16 = device == "cuda" and torch.cuda.is_bf16_supported()
     model_dtype = torch.bfloat16 if use_bfloat16 else torch.float32
     print(f"Model dtype: {model_dtype}")
-    os.makedirs("../ckpt_updated/nextgpt_facility_output", exist_ok=True)
+    os.makedirs("../../ckpt_updated/nextgpt_facility_output", exist_ok=True)
     
-    vicuna_path = "../my_checkpoints/vicuna-7b-v1.5"
+    vicuna_path = "../../my_checkpoints/vicuna-7b-v1.5"
     
     # 1. 初始化模型 (不凍結 LLM 主幹，因為稍後要外掛 LoRA)
     model = NextGPTImageGenModel(
@@ -42,7 +42,7 @@ def train_facility_model():
     
     # 3. 準備開放式設施圖像數據集
     train_dataset = CampusImageDataset(
-        json_path="../data/image_gen_train.json",
+        json_path="../../data/image_gen_train.json",
         tokenizer_path=vicuna_path,
         max_length=128
     )
@@ -96,14 +96,14 @@ def train_facility_model():
 
         # 只要 Loss 已經降到 0.6 以下，每輪自動覆蓋儲存最新權重，隨時可停下來測試
         if total_loss/len(train_loader) < 0.6:
-            torch.save(model.to_image_diffusion.state_dict(), "../ckpt_updated/nextgpt_facility_output/image_projection.pth")
-            model.llm.save_pretrained("../ckpt_updated/nextgpt_facility_output/vicuna_lora")
+            torch.save(model.to_image_diffusion.state_dict(), "../../ckpt_updated/nextgpt_facility_output/image_projection.pth")
+            model.llm.save_pretrained("../../ckpt_updated/nextgpt_facility_output/vicuna_lora")
             print(f"💾 已自動備份第 {epoch+1} 輪有效權重！")
         
     # 6. 儲存微調後增量參數
-    torch.save(model.to_image_diffusion.state_dict(), "../ckpt_updated/nextgpt_facility_output/image_projection.pth")
-    model.llm.save_pretrained("../ckpt_updated/nextgpt_facility_output/vicuna_lora")
-    print("🎉 微調成功結束！權重已儲存至 ../ckpt_updated/nextgpt_facility_output/")
+    torch.save(model.to_image_diffusion.state_dict(), "../../ckpt_updated/nextgpt_facility_output/image_projection.pth")
+    model.llm.save_pretrained("../../ckpt_updated/nextgpt_facility_output/vicuna_lora")
+    print("🎉 微調成功結束！權重已儲存至 ../../ckpt_updated/nextgpt_facility_output/")
 
 def main() -> None:
     train_facility_model()

@@ -120,9 +120,9 @@ if __name__ == "__main__":
     print('device:', device)
 
     # 1. 設定各資料夾路徑（請依您的實際目錄名稱調整）
-    real_facilities_dir = "../data/facility_images"
-    not_trained_dir = "../output/untrained"
-    trained_dir = "../output/trained"
+    real_facilities_dir = "../../data/facility_images"
+    not_trained_dir = "../../output/untrained"
+    trained_dir = "../../output/trained"
 
     # 2. 對應的英文測試主題清單（若資料夾內無 generation_log.json，則依序自動配對）
     test_prompts = [
