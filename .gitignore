@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 data/activity_photos/
 data/facility_images/
+data/corrupted_activity_photos/
 ckpt/
 my_checkpoints/
 tests/

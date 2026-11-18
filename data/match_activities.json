@@ -31,6 +31,6641 @@
       "photo_id": "img_0002",
       "file_path": "./activity_photos/image-0002.jpeg",
       "ground_truth": "Adventure Day"
+    },
+    {
+      "photo_id": "img_0003",
+      "file_path": "./activity_photos/image-0003.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0004",
+      "file_path": "./activity_photos/image-0004.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0005",
+      "file_path": "./activity_photos/image-0005.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0006",
+      "file_path": "./activity_photos/image-0006.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0007",
+      "file_path": "./activity_photos/image-0007.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0008",
+      "file_path": "./activity_photos/image-0008.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0009",
+      "file_path": "./activity_photos/image-0009.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0010",
+      "file_path": "./activity_photos/image-0010.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0011",
+      "file_path": "./activity_photos/image-0011.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0012",
+      "file_path": "./activity_photos/image-0012.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0013",
+      "file_path": "./activity_photos/image-0013.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0014",
+      "file_path": "./activity_photos/image-0014.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0015",
+      "file_path": "./activity_photos/image-0015.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0016",
+      "file_path": "./activity_photos/image-0016.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0017",
+      "file_path": "./activity_photos/image-0017.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0018",
+      "file_path": "./activity_photos/image-0018.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0019",
+      "file_path": "./activity_photos/image-0019.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0020",
+      "file_path": "./activity_photos/image-0020.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0021",
+      "file_path": "./activity_photos/image-0021.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0022",
+      "file_path": "./activity_photos/image-0022.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0023",
+      "file_path": "./activity_photos/image-0023.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0024",
+      "file_path": "./activity_photos/image-0024.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0025",
+      "file_path": "./activity_photos/image-0025.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0026",
+      "file_path": "./activity_photos/image-0026.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0027",
+      "file_path": "./activity_photos/image-0027.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0028",
+      "file_path": "./activity_photos/image-0028.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0029",
+      "file_path": "./activity_photos/image-0029.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0030",
+      "file_path": "./activity_photos/image-0030.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0031",
+      "file_path": "./activity_photos/image-0031.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0032",
+      "file_path": "./activity_photos/image-0032.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0033",
+      "file_path": "./activity_photos/image-0033.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0034",
+      "file_path": "./activity_photos/image-0034.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0035",
+      "file_path": "./activity_photos/image-0035.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0036",
+      "file_path": "./activity_photos/image-0036.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0037",
+      "file_path": "./activity_photos/image-0037.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0038",
+      "file_path": "./activity_photos/image-0038.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0039",
+      "file_path": "./activity_photos/image-0039.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0040",
+      "file_path": "./activity_photos/image-0040.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0041",
+      "file_path": "./activity_photos/image-0041.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0042",
+      "file_path": "./activity_photos/image-0042.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0043",
+      "file_path": "./activity_photos/image-0043.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0044",
+      "file_path": "./activity_photos/image-0044.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0045",
+      "file_path": "./activity_photos/image-0045.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0046",
+      "file_path": "./activity_photos/image-0046.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0047",
+      "file_path": "./activity_photos/image-0047.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0048",
+      "file_path": "./activity_photos/image-0048.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0049",
+      "file_path": "./activity_photos/image-0049.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0050",
+      "file_path": "./activity_photos/image-0050.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0051",
+      "file_path": "./activity_photos/image-0051.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0052",
+      "file_path": "./activity_photos/image-0052.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0053",
+      "file_path": "./activity_photos/image-0053.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0054",
+      "file_path": "./activity_photos/image-0054.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0055",
+      "file_path": "./activity_photos/image-0055.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0056",
+      "file_path": "./activity_photos/image-0056.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0057",
+      "file_path": "./activity_photos/image-0057.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0058",
+      "file_path": "./activity_photos/image-0058.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0059",
+      "file_path": "./activity_photos/image-0059.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0060",
+      "file_path": "./activity_photos/image-0060.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0061",
+      "file_path": "./activity_photos/image-0061.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0062",
+      "file_path": "./activity_photos/image-0062.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0063",
+      "file_path": "./activity_photos/image-0063.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0064",
+      "file_path": "./activity_photos/image-0064.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0065",
+      "file_path": "./activity_photos/image-0065.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0066",
+      "file_path": "./activity_photos/image-0066.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0067",
+      "file_path": "./activity_photos/image-0067.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0068",
+      "file_path": "./activity_photos/image-0068.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0069",
+      "file_path": "./activity_photos/image-0069.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0070",
+      "file_path": "./activity_photos/image-0070.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0071",
+      "file_path": "./activity_photos/image-0071.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0072",
+      "file_path": "./activity_photos/image-0072.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0073",
+      "file_path": "./activity_photos/image-0073.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0074",
+      "file_path": "./activity_photos/image-0074.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0075",
+      "file_path": "./activity_photos/image-0075.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0076",
+      "file_path": "./activity_photos/image-0076.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0077",
+      "file_path": "./activity_photos/image-0077.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0078",
+      "file_path": "./activity_photos/image-0078.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0079",
+      "file_path": "./activity_photos/image-0079.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0080",
+      "file_path": "./activity_photos/image-0080.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0081",
+      "file_path": "./activity_photos/image-0081.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0082",
+      "file_path": "./activity_photos/image-0082.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0083",
+      "file_path": "./activity_photos/image-0083.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0084",
+      "file_path": "./activity_photos/image-0084.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0085",
+      "file_path": "./activity_photos/image-0085.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0086",
+      "file_path": "./activity_photos/image-0086.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0087",
+      "file_path": "./activity_photos/image-0087.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0088",
+      "file_path": "./activity_photos/image-0088.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0089",
+      "file_path": "./activity_photos/image-0089.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0090",
+      "file_path": "./activity_photos/image-0090.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0091",
+      "file_path": "./activity_photos/image-0091.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0092",
+      "file_path": "./activity_photos/image-0092.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0093",
+      "file_path": "./activity_photos/image-0093.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0094",
+      "file_path": "./activity_photos/image-0094.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0095",
+      "file_path": "./activity_photos/image-0095.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0096",
+      "file_path": "./activity_photos/image-0096.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0097",
+      "file_path": "./activity_photos/image-0097.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0098",
+      "file_path": "./activity_photos/image-0098.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0099",
+      "file_path": "./activity_photos/image-0099.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0100",
+      "file_path": "./activity_photos/image-0100.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0101",
+      "file_path": "./activity_photos/image-0101.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0102",
+      "file_path": "./activity_photos/image-0102.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0103",
+      "file_path": "./activity_photos/image-0103.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0104",
+      "file_path": "./activity_photos/image-0104.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0105",
+      "file_path": "./activity_photos/image-0105.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0106",
+      "file_path": "./activity_photos/image-0106.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0107",
+      "file_path": "./activity_photos/image-0107.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0108",
+      "file_path": "./activity_photos/image-0108.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0109",
+      "file_path": "./activity_photos/image-0109.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0110",
+      "file_path": "./activity_photos/image-0110.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0111",
+      "file_path": "./activity_photos/image-0111.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0112",
+      "file_path": "./activity_photos/image-0112.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0113",
+      "file_path": "./activity_photos/image-0113.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0114",
+      "file_path": "./activity_photos/image-0114.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0115",
+      "file_path": "./activity_photos/image-0115.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0116",
+      "file_path": "./activity_photos/image-0116.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0117",
+      "file_path": "./activity_photos/image-0117.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0118",
+      "file_path": "./activity_photos/image-0118.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0119",
+      "file_path": "./activity_photos/image-0119.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0120",
+      "file_path": "./activity_photos/image-0120.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0121",
+      "file_path": "./activity_photos/image-0121.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0122",
+      "file_path": "./activity_photos/image-0122.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0123",
+      "file_path": "./activity_photos/image-0123.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0124",
+      "file_path": "./activity_photos/image-0124.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0125",
+      "file_path": "./activity_photos/image-0125.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0126",
+      "file_path": "./activity_photos/image-0126.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0127",
+      "file_path": "./activity_photos/image-0127.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0128",
+      "file_path": "./activity_photos/image-0128.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0129",
+      "file_path": "./activity_photos/image-0129.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0130",
+      "file_path": "./activity_photos/image-0130.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0131",
+      "file_path": "./activity_photos/image-0131.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0132",
+      "file_path": "./activity_photos/image-0132.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0133",
+      "file_path": "./activity_photos/image-0133.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0134",
+      "file_path": "./activity_photos/image-0134.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0135",
+      "file_path": "./activity_photos/image-0135.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0136",
+      "file_path": "./activity_photos/image-0136.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0137",
+      "file_path": "./activity_photos/image-0137.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0138",
+      "file_path": "./activity_photos/image-0138.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0139",
+      "file_path": "./activity_photos/image-0139.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0140",
+      "file_path": "./activity_photos/image-0140.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0141",
+      "file_path": "./activity_photos/image-0141.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0142",
+      "file_path": "./activity_photos/image-0142.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0143",
+      "file_path": "./activity_photos/image-0143.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0144",
+      "file_path": "./activity_photos/image-0144.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0145",
+      "file_path": "./activity_photos/image-0145.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0146",
+      "file_path": "./activity_photos/image-0146.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0147",
+      "file_path": "./activity_photos/image-0147.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0148",
+      "file_path": "./activity_photos/image-0148.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0149",
+      "file_path": "./activity_photos/image-0149.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0150",
+      "file_path": "./activity_photos/image-0150.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0151",
+      "file_path": "./activity_photos/image-0151.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0152",
+      "file_path": "./activity_photos/image-0152.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0153",
+      "file_path": "./activity_photos/image-0153.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0154",
+      "file_path": "./activity_photos/image-0154.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0155",
+      "file_path": "./activity_photos/image-0155.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0156",
+      "file_path": "./activity_photos/image-0156.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0157",
+      "file_path": "./activity_photos/image-0157.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0158",
+      "file_path": "./activity_photos/image-0158.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0159",
+      "file_path": "./activity_photos/image-0159.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0160",
+      "file_path": "./activity_photos/image-0160.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0161",
+      "file_path": "./activity_photos/image-0161.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0162",
+      "file_path": "./activity_photos/image-0162.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0163",
+      "file_path": "./activity_photos/image-0163.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0164",
+      "file_path": "./activity_photos/image-0164.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0165",
+      "file_path": "./activity_photos/image-0165.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0166",
+      "file_path": "./activity_photos/image-0166.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0167",
+      "file_path": "./activity_photos/image-0167.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0168",
+      "file_path": "./activity_photos/image-0168.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0169",
+      "file_path": "./activity_photos/image-0169.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0170",
+      "file_path": "./activity_photos/image-0170.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0171",
+      "file_path": "./activity_photos/image-0171.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0172",
+      "file_path": "./activity_photos/image-0172.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0173",
+      "file_path": "./activity_photos/image-0173.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0174",
+      "file_path": "./activity_photos/image-0174.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0175",
+      "file_path": "./activity_photos/image-0175.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0176",
+      "file_path": "./activity_photos/image-0176.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0177",
+      "file_path": "./activity_photos/image-0177.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0178",
+      "file_path": "./activity_photos/image-0178.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0179",
+      "file_path": "./activity_photos/image-0179.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0180",
+      "file_path": "./activity_photos/image-0180.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0181",
+      "file_path": "./activity_photos/image-0181.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0182",
+      "file_path": "./activity_photos/image-0182.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0183",
+      "file_path": "./activity_photos/image-0183.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0184",
+      "file_path": "./activity_photos/image-0184.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0185",
+      "file_path": "./activity_photos/image-0185.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0186",
+      "file_path": "./activity_photos/image-0186.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0187",
+      "file_path": "./activity_photos/image-0187.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0188",
+      "file_path": "./activity_photos/image-0188.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0189",
+      "file_path": "./activity_photos/image-0189.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0190",
+      "file_path": "./activity_photos/image-0190.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0191",
+      "file_path": "./activity_photos/image-0191.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0192",
+      "file_path": "./activity_photos/image-0192.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0193",
+      "file_path": "./activity_photos/image-0193.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0194",
+      "file_path": "./activity_photos/image-0194.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0195",
+      "file_path": "./activity_photos/image-0195.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0196",
+      "file_path": "./activity_photos/image-0196.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0197",
+      "file_path": "./activity_photos/image-0197.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0198",
+      "file_path": "./activity_photos/image-0198.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0199",
+      "file_path": "./activity_photos/image-0199.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0200",
+      "file_path": "./activity_photos/image-0200.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0201",
+      "file_path": "./activity_photos/image-0201.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0202",
+      "file_path": "./activity_photos/image-0202.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0203",
+      "file_path": "./activity_photos/image-0203.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0204",
+      "file_path": "./activity_photos/image-0204.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0205",
+      "file_path": "./activity_photos/image-0205.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0206",
+      "file_path": "./activity_photos/image-0206.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0207",
+      "file_path": "./activity_photos/image-0207.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0208",
+      "file_path": "./activity_photos/image-0208.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0209",
+      "file_path": "./activity_photos/image-0209.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0210",
+      "file_path": "./activity_photos/image-0210.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0211",
+      "file_path": "./activity_photos/image-0211.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0212",
+      "file_path": "./activity_photos/image-0212.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0213",
+      "file_path": "./activity_photos/image-0213.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0214",
+      "file_path": "./activity_photos/image-0214.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0215",
+      "file_path": "./activity_photos/image-0215.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0216",
+      "file_path": "./activity_photos/image-0216.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0217",
+      "file_path": "./activity_photos/image-0217.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0218",
+      "file_path": "./activity_photos/image-0218.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0219",
+      "file_path": "./activity_photos/image-0219.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0220",
+      "file_path": "./activity_photos/image-0220.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0221",
+      "file_path": "./activity_photos/image-0221.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0222",
+      "file_path": "./activity_photos/image-0222.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0223",
+      "file_path": "./activity_photos/image-0223.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0224",
+      "file_path": "./activity_photos/image-0224.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0225",
+      "file_path": "./activity_photos/image-0225.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0226",
+      "file_path": "./activity_photos/image-0226.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0227",
+      "file_path": "./activity_photos/image-0227.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0228",
+      "file_path": "./activity_photos/image-0228.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0229",
+      "file_path": "./activity_photos/image-0229.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0230",
+      "file_path": "./activity_photos/image-0230.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0231",
+      "file_path": "./activity_photos/image-0231.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0232",
+      "file_path": "./activity_photos/image-0232.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0233",
+      "file_path": "./activity_photos/image-0233.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0234",
+      "file_path": "./activity_photos/image-0234.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0235",
+      "file_path": "./activity_photos/image-0235.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0236",
+      "file_path": "./activity_photos/image-0236.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0237",
+      "file_path": "./activity_photos/image-0237.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0238",
+      "file_path": "./activity_photos/image-0238.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0239",
+      "file_path": "./activity_photos/image-0239.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0240",
+      "file_path": "./activity_photos/image-0240.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0241",
+      "file_path": "./activity_photos/image-0241.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0242",
+      "file_path": "./activity_photos/image-0242.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0243",
+      "file_path": "./activity_photos/image-0243.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0244",
+      "file_path": "./activity_photos/image-0244.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0245",
+      "file_path": "./activity_photos/image-0245.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0246",
+      "file_path": "./activity_photos/image-0246.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0247",
+      "file_path": "./activity_photos/image-0247.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0248",
+      "file_path": "./activity_photos/image-0248.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0249",
+      "file_path": "./activity_photos/image-0249.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0250",
+      "file_path": "./activity_photos/image-0250.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0251",
+      "file_path": "./activity_photos/image-0251.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0252",
+      "file_path": "./activity_photos/image-0252.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0253",
+      "file_path": "./activity_photos/image-0253.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0254",
+      "file_path": "./activity_photos/image-0254.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0255",
+      "file_path": "./activity_photos/image-0255.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0256",
+      "file_path": "./activity_photos/image-0256.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0257",
+      "file_path": "./activity_photos/image-0257.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0258",
+      "file_path": "./activity_photos/image-0258.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0259",
+      "file_path": "./activity_photos/image-0259.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0260",
+      "file_path": "./activity_photos/image-0260.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0261",
+      "file_path": "./activity_photos/image-0261.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0262",
+      "file_path": "./activity_photos/image-0262.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0263",
+      "file_path": "./activity_photos/image-0263.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0264",
+      "file_path": "./activity_photos/image-0264.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0265",
+      "file_path": "./activity_photos/image-0265.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0266",
+      "file_path": "./activity_photos/image-0266.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0267",
+      "file_path": "./activity_photos/image-0267.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0268",
+      "file_path": "./activity_photos/image-0268.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0269",
+      "file_path": "./activity_photos/image-0269.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0270",
+      "file_path": "./activity_photos/image-0270.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0271",
+      "file_path": "./activity_photos/image-0271.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0272",
+      "file_path": "./activity_photos/image-0272.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0273",
+      "file_path": "./activity_photos/image-0273.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0274",
+      "file_path": "./activity_photos/image-0274.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0275",
+      "file_path": "./activity_photos/image-0275.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0276",
+      "file_path": "./activity_photos/image-0276.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0277",
+      "file_path": "./activity_photos/image-0277.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0278",
+      "file_path": "./activity_photos/image-0278.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0279",
+      "file_path": "./activity_photos/image-0279.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0280",
+      "file_path": "./activity_photos/image-0280.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0281",
+      "file_path": "./activity_photos/image-0281.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0282",
+      "file_path": "./activity_photos/image-0282.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0283",
+      "file_path": "./activity_photos/image-0283.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0284",
+      "file_path": "./activity_photos/image-0284.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0285",
+      "file_path": "./activity_photos/image-0285.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0286",
+      "file_path": "./activity_photos/image-0286.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0287",
+      "file_path": "./activity_photos/image-0287.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0288",
+      "file_path": "./activity_photos/image-0288.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0289",
+      "file_path": "./activity_photos/image-0289.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0290",
+      "file_path": "./activity_photos/image-0290.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0291",
+      "file_path": "./activity_photos/image-0291.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0292",
+      "file_path": "./activity_photos/image-0292.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0293",
+      "file_path": "./activity_photos/image-0293.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0294",
+      "file_path": "./activity_photos/image-0294.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0295",
+      "file_path": "./activity_photos/image-0295.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0296",
+      "file_path": "./activity_photos/image-0296.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0297",
+      "file_path": "./activity_photos/image-0297.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0298",
+      "file_path": "./activity_photos/image-0298.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0299",
+      "file_path": "./activity_photos/image-0299.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0300",
+      "file_path": "./activity_photos/image-0300.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0301",
+      "file_path": "./activity_photos/image-0301.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0302",
+      "file_path": "./activity_photos/image-0302.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0303",
+      "file_path": "./activity_photos/image-0303.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0304",
+      "file_path": "./activity_photos/image-0304.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0305",
+      "file_path": "./activity_photos/image-0305.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0306",
+      "file_path": "./activity_photos/image-0306.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0307",
+      "file_path": "./activity_photos/image-0307.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0308",
+      "file_path": "./activity_photos/image-0308.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0309",
+      "file_path": "./activity_photos/image-0309.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0310",
+      "file_path": "./activity_photos/image-0310.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0311",
+      "file_path": "./activity_photos/image-0311.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0312",
+      "file_path": "./activity_photos/image-0312.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0313",
+      "file_path": "./activity_photos/image-0313.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0314",
+      "file_path": "./activity_photos/image-0314.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0315",
+      "file_path": "./activity_photos/image-0315.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0316",
+      "file_path": "./activity_photos/image-0316.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0317",
+      "file_path": "./activity_photos/image-0317.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0318",
+      "file_path": "./activity_photos/image-0318.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0319",
+      "file_path": "./activity_photos/image-0319.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0320",
+      "file_path": "./activity_photos/image-0320.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0321",
+      "file_path": "./activity_photos/image-0321.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0322",
+      "file_path": "./activity_photos/image-0322.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0323",
+      "file_path": "./activity_photos/image-0323.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0324",
+      "file_path": "./activity_photos/image-0324.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0325",
+      "file_path": "./activity_photos/image-0325.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0326",
+      "file_path": "./activity_photos/image-0326.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0327",
+      "file_path": "./activity_photos/image-0327.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0328",
+      "file_path": "./activity_photos/image-0328.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0329",
+      "file_path": "./activity_photos/image-0329.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0330",
+      "file_path": "./activity_photos/image-0330.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0331",
+      "file_path": "./activity_photos/image-0331.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0332",
+      "file_path": "./activity_photos/image-0332.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0333",
+      "file_path": "./activity_photos/image-0333.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0334",
+      "file_path": "./activity_photos/image-0334.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0335",
+      "file_path": "./activity_photos/image-0335.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0336",
+      "file_path": "./activity_photos/image-0336.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0337",
+      "file_path": "./activity_photos/image-0337.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0338",
+      "file_path": "./activity_photos/image-0338.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0339",
+      "file_path": "./activity_photos/image-0339.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0340",
+      "file_path": "./activity_photos/image-0340.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0341",
+      "file_path": "./activity_photos/image-0341.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0342",
+      "file_path": "./activity_photos/image-0342.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0343",
+      "file_path": "./activity_photos/image-0343.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0344",
+      "file_path": "./activity_photos/image-0344.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0345",
+      "file_path": "./activity_photos/image-0345.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0346",
+      "file_path": "./activity_photos/image-0346.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0347",
+      "file_path": "./activity_photos/image-0347.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0348",
+      "file_path": "./activity_photos/image-0348.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0349",
+      "file_path": "./activity_photos/image-0349.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0350",
+      "file_path": "./activity_photos/image-0350.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0351",
+      "file_path": "./activity_photos/image-0351.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0352",
+      "file_path": "./activity_photos/image-0352.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0353",
+      "file_path": "./activity_photos/image-0353.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0354",
+      "file_path": "./activity_photos/image-0354.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0355",
+      "file_path": "./activity_photos/image-0355.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0356",
+      "file_path": "./activity_photos/image-0356.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0357",
+      "file_path": "./activity_photos/image-0357.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0358",
+      "file_path": "./activity_photos/image-0358.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0359",
+      "file_path": "./activity_photos/image-0359.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0360",
+      "file_path": "./activity_photos/image-0360.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0361",
+      "file_path": "./activity_photos/image-0361.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0362",
+      "file_path": "./activity_photos/image-0362.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0363",
+      "file_path": "./activity_photos/image-0363.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0364",
+      "file_path": "./activity_photos/image-0364.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0365",
+      "file_path": "./activity_photos/image-0365.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0366",
+      "file_path": "./activity_photos/image-0366.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0367",
+      "file_path": "./activity_photos/image-0367.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0368",
+      "file_path": "./activity_photos/image-0368.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0369",
+      "file_path": "./activity_photos/image-0369.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0370",
+      "file_path": "./activity_photos/image-0370.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0371",
+      "file_path": "./activity_photos/image-0371.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0372",
+      "file_path": "./activity_photos/image-0372.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0373",
+      "file_path": "./activity_photos/image-0373.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0374",
+      "file_path": "./activity_photos/image-0374.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0375",
+      "file_path": "./activity_photos/image-0375.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0376",
+      "file_path": "./activity_photos/image-0376.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0377",
+      "file_path": "./activity_photos/image-0377.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0378",
+      "file_path": "./activity_photos/image-0378.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0379",
+      "file_path": "./activity_photos/image-0379.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0380",
+      "file_path": "./activity_photos/image-0380.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0381",
+      "file_path": "./activity_photos/image-0381.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0382",
+      "file_path": "./activity_photos/image-0382.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0383",
+      "file_path": "./activity_photos/image-0383.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0384",
+      "file_path": "./activity_photos/image-0384.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0385",
+      "file_path": "./activity_photos/image-0385.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0386",
+      "file_path": "./activity_photos/image-0386.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0387",
+      "file_path": "./activity_photos/image-0387.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0388",
+      "file_path": "./activity_photos/image-0388.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0389",
+      "file_path": "./activity_photos/image-0389.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0390",
+      "file_path": "./activity_photos/image-0390.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0391",
+      "file_path": "./activity_photos/image-0391.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0392",
+      "file_path": "./activity_photos/image-0392.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0393",
+      "file_path": "./activity_photos/image-0393.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0394",
+      "file_path": "./activity_photos/image-0394.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0395",
+      "file_path": "./activity_photos/image-0395.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0396",
+      "file_path": "./activity_photos/image-0396.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0397",
+      "file_path": "./activity_photos/image-0397.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0398",
+      "file_path": "./activity_photos/image-0398.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0399",
+      "file_path": "./activity_photos/image-0399.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0400",
+      "file_path": "./activity_photos/image-0400.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0401",
+      "file_path": "./activity_photos/image-0401.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0402",
+      "file_path": "./activity_photos/image-0402.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0403",
+      "file_path": "./activity_photos/image-0403.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0404",
+      "file_path": "./activity_photos/image-0404.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0405",
+      "file_path": "./activity_photos/image-0405.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0406",
+      "file_path": "./activity_photos/image-0406.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0407",
+      "file_path": "./activity_photos/image-0407.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0408",
+      "file_path": "./activity_photos/image-0408.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0409",
+      "file_path": "./activity_photos/image-0409.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0410",
+      "file_path": "./activity_photos/image-0410.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0411",
+      "file_path": "./activity_photos/image-0411.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0412",
+      "file_path": "./activity_photos/image-0412.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0413",
+      "file_path": "./activity_photos/image-0413.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0414",
+      "file_path": "./activity_photos/image-0414.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0415",
+      "file_path": "./activity_photos/image-0415.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0416",
+      "file_path": "./activity_photos/image-0416.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0417",
+      "file_path": "./activity_photos/image-0417.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0418",
+      "file_path": "./activity_photos/image-0418.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0419",
+      "file_path": "./activity_photos/image-0419.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0420",
+      "file_path": "./activity_photos/image-0420.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0421",
+      "file_path": "./activity_photos/image-0421.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0422",
+      "file_path": "./activity_photos/image-0422.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0423",
+      "file_path": "./activity_photos/image-0423.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0424",
+      "file_path": "./activity_photos/image-0424.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0425",
+      "file_path": "./activity_photos/image-0425.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0426",
+      "file_path": "./activity_photos/image-0426.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0427",
+      "file_path": "./activity_photos/image-0427.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0428",
+      "file_path": "./activity_photos/image-0428.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0429",
+      "file_path": "./activity_photos/image-0429.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0430",
+      "file_path": "./activity_photos/image-0430.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0431",
+      "file_path": "./activity_photos/image-0431.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0432",
+      "file_path": "./activity_photos/image-0432.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0433",
+      "file_path": "./activity_photos/image-0433.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0434",
+      "file_path": "./activity_photos/image-0434.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0435",
+      "file_path": "./activity_photos/image-0435.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0436",
+      "file_path": "./activity_photos/image-0436.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0437",
+      "file_path": "./activity_photos/image-0437.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0438",
+      "file_path": "./activity_photos/image-0438.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0439",
+      "file_path": "./activity_photos/image-0439.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0440",
+      "file_path": "./activity_photos/image-0440.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0441",
+      "file_path": "./activity_photos/image-0441.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0442",
+      "file_path": "./activity_photos/image-0442.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0443",
+      "file_path": "./activity_photos/image-0443.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0444",
+      "file_path": "./activity_photos/image-0444.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0445",
+      "file_path": "./activity_photos/image-0445.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0446",
+      "file_path": "./activity_photos/image-0446.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0447",
+      "file_path": "./activity_photos/image-0447.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0448",
+      "file_path": "./activity_photos/image-0448.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0449",
+      "file_path": "./activity_photos/image-0449.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0450",
+      "file_path": "./activity_photos/image-0450.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0451",
+      "file_path": "./activity_photos/image-0451.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0452",
+      "file_path": "./activity_photos/image-0452.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0453",
+      "file_path": "./activity_photos/image-0453.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0454",
+      "file_path": "./activity_photos/image-0454.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0455",
+      "file_path": "./activity_photos/image-0455.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0456",
+      "file_path": "./activity_photos/image-0456.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0457",
+      "file_path": "./activity_photos/image-0457.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0458",
+      "file_path": "./activity_photos/image-0458.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0459",
+      "file_path": "./activity_photos/image-0459.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0460",
+      "file_path": "./activity_photos/image-0460.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0461",
+      "file_path": "./activity_photos/image-0461.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0462",
+      "file_path": "./activity_photos/image-0462.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0463",
+      "file_path": "./activity_photos/image-0463.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0464",
+      "file_path": "./activity_photos/image-0464.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0465",
+      "file_path": "./activity_photos/image-0465.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0466",
+      "file_path": "./activity_photos/image-0466.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0467",
+      "file_path": "./activity_photos/image-0467.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0468",
+      "file_path": "./activity_photos/image-0468.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0469",
+      "file_path": "./activity_photos/image-0469.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0470",
+      "file_path": "./activity_photos/image-0470.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0471",
+      "file_path": "./activity_photos/image-0471.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0472",
+      "file_path": "./activity_photos/image-0472.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0473",
+      "file_path": "./activity_photos/image-0473.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0474",
+      "file_path": "./activity_photos/image-0474.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0475",
+      "file_path": "./activity_photos/image-0475.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0476",
+      "file_path": "./activity_photos/image-0476.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0477",
+      "file_path": "./activity_photos/image-0477.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0478",
+      "file_path": "./activity_photos/image-0478.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0479",
+      "file_path": "./activity_photos/image-0479.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0480",
+      "file_path": "./activity_photos/image-0480.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0481",
+      "file_path": "./activity_photos/image-0481.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0482",
+      "file_path": "./activity_photos/image-0482.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0483",
+      "file_path": "./activity_photos/image-0483.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0484",
+      "file_path": "./activity_photos/image-0484.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0485",
+      "file_path": "./activity_photos/image-0485.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0486",
+      "file_path": "./activity_photos/image-0486.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0487",
+      "file_path": "./activity_photos/image-0487.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0488",
+      "file_path": "./activity_photos/image-0488.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0489",
+      "file_path": "./activity_photos/image-0489.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0490",
+      "file_path": "./activity_photos/image-0490.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0491",
+      "file_path": "./activity_photos/image-0491.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0492",
+      "file_path": "./activity_photos/image-0492.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0493",
+      "file_path": "./activity_photos/image-0493.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0494",
+      "file_path": "./activity_photos/image-0494.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0495",
+      "file_path": "./activity_photos/image-0495.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0496",
+      "file_path": "./activity_photos/image-0496.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0497",
+      "file_path": "./activity_photos/image-0497.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0498",
+      "file_path": "./activity_photos/image-0498.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0499",
+      "file_path": "./activity_photos/image-0499.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0500",
+      "file_path": "./activity_photos/image-0500.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0501",
+      "file_path": "./activity_photos/image-0501.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0502",
+      "file_path": "./activity_photos/image-0502.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0503",
+      "file_path": "./activity_photos/image-0503.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0504",
+      "file_path": "./activity_photos/image-0504.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0505",
+      "file_path": "./activity_photos/image-0505.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0506",
+      "file_path": "./activity_photos/image-0506.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0507",
+      "file_path": "./activity_photos/image-0507.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0508",
+      "file_path": "./activity_photos/image-0508.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0509",
+      "file_path": "./activity_photos/image-0509.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0510",
+      "file_path": "./activity_photos/image-0510.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0511",
+      "file_path": "./activity_photos/image-0511.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0512",
+      "file_path": "./activity_photos/image-0512.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0513",
+      "file_path": "./activity_photos/image-0513.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0514",
+      "file_path": "./activity_photos/image-0514.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0515",
+      "file_path": "./activity_photos/image-0515.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0516",
+      "file_path": "./activity_photos/image-0516.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0517",
+      "file_path": "./activity_photos/image-0517.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0518",
+      "file_path": "./activity_photos/image-0518.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0519",
+      "file_path": "./activity_photos/image-0519.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0520",
+      "file_path": "./activity_photos/image-0520.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0521",
+      "file_path": "./activity_photos/image-0521.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0522",
+      "file_path": "./activity_photos/image-0522.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0523",
+      "file_path": "./activity_photos/image-0523.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0524",
+      "file_path": "./activity_photos/image-0524.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0525",
+      "file_path": "./activity_photos/image-0525.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0526",
+      "file_path": "./activity_photos/image-0526.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0527",
+      "file_path": "./activity_photos/image-0527.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0528",
+      "file_path": "./activity_photos/image-0528.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0529",
+      "file_path": "./activity_photos/image-0529.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0530",
+      "file_path": "./activity_photos/image-0530.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0531",
+      "file_path": "./activity_photos/image-0531.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0532",
+      "file_path": "./activity_photos/image-0532.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0533",
+      "file_path": "./activity_photos/image-0533.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0534",
+      "file_path": "./activity_photos/image-0534.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0535",
+      "file_path": "./activity_photos/image-0535.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0536",
+      "file_path": "./activity_photos/image-0536.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0537",
+      "file_path": "./activity_photos/image-0537.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0538",
+      "file_path": "./activity_photos/image-0538.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0539",
+      "file_path": "./activity_photos/image-0539.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0540",
+      "file_path": "./activity_photos/image-0540.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0541",
+      "file_path": "./activity_photos/image-0541.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0542",
+      "file_path": "./activity_photos/image-0542.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0543",
+      "file_path": "./activity_photos/image-0543.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0544",
+      "file_path": "./activity_photos/image-0544.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0545",
+      "file_path": "./activity_photos/image-0545.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0546",
+      "file_path": "./activity_photos/image-0546.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0547",
+      "file_path": "./activity_photos/image-0547.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0548",
+      "file_path": "./activity_photos/image-0548.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0549",
+      "file_path": "./activity_photos/image-0549.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0550",
+      "file_path": "./activity_photos/image-0550.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0551",
+      "file_path": "./activity_photos/image-0551.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0552",
+      "file_path": "./activity_photos/image-0552.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0553",
+      "file_path": "./activity_photos/image-0553.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0554",
+      "file_path": "./activity_photos/image-0554.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0555",
+      "file_path": "./activity_photos/image-0555.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0556",
+      "file_path": "./activity_photos/image-0556.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0557",
+      "file_path": "./activity_photos/image-0557.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0558",
+      "file_path": "./activity_photos/image-0558.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0559",
+      "file_path": "./activity_photos/image-0559.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0560",
+      "file_path": "./activity_photos/image-0560.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0561",
+      "file_path": "./activity_photos/image-0561.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0562",
+      "file_path": "./activity_photos/image-0562.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0563",
+      "file_path": "./activity_photos/image-0563.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0564",
+      "file_path": "./activity_photos/image-0564.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0565",
+      "file_path": "./activity_photos/image-0565.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0566",
+      "file_path": "./activity_photos/image-0566.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0567",
+      "file_path": "./activity_photos/image-0567.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0568",
+      "file_path": "./activity_photos/image-0568.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0569",
+      "file_path": "./activity_photos/image-0569.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0570",
+      "file_path": "./activity_photos/image-0570.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0571",
+      "file_path": "./activity_photos/image-0571.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0572",
+      "file_path": "./activity_photos/image-0572.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0573",
+      "file_path": "./activity_photos/image-0573.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0574",
+      "file_path": "./activity_photos/image-0574.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0575",
+      "file_path": "./activity_photos/image-0575.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0576",
+      "file_path": "./activity_photos/image-0576.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0577",
+      "file_path": "./activity_photos/image-0577.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0578",
+      "file_path": "./activity_photos/image-0578.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0579",
+      "file_path": "./activity_photos/image-0579.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0580",
+      "file_path": "./activity_photos/image-0580.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0581",
+      "file_path": "./activity_photos/image-0581.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0582",
+      "file_path": "./activity_photos/image-0582.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0583",
+      "file_path": "./activity_photos/image-0583.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0584",
+      "file_path": "./activity_photos/image-0584.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0585",
+      "file_path": "./activity_photos/image-0585.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0586",
+      "file_path": "./activity_photos/image-0586.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0587",
+      "file_path": "./activity_photos/image-0587.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0588",
+      "file_path": "./activity_photos/image-0588.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0589",
+      "file_path": "./activity_photos/image-0589.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0590",
+      "file_path": "./activity_photos/image-0590.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0591",
+      "file_path": "./activity_photos/image-0591.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0592",
+      "file_path": "./activity_photos/image-0592.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0593",
+      "file_path": "./activity_photos/image-0593.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0594",
+      "file_path": "./activity_photos/image-0594.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0595",
+      "file_path": "./activity_photos/image-0595.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0596",
+      "file_path": "./activity_photos/image-0596.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0597",
+      "file_path": "./activity_photos/image-0597.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0598",
+      "file_path": "./activity_photos/image-0598.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0599",
+      "file_path": "./activity_photos/image-0599.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0600",
+      "file_path": "./activity_photos/image-0600.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0601",
+      "file_path": "./activity_photos/image-0601.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0602",
+      "file_path": "./activity_photos/image-0602.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0603",
+      "file_path": "./activity_photos/image-0603.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0604",
+      "file_path": "./activity_photos/image-0604.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0605",
+      "file_path": "./activity_photos/image-0605.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0606",
+      "file_path": "./activity_photos/image-0606.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0607",
+      "file_path": "./activity_photos/image-0607.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0608",
+      "file_path": "./activity_photos/image-0608.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0609",
+      "file_path": "./activity_photos/image-0609.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0610",
+      "file_path": "./activity_photos/image-0610.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0611",
+      "file_path": "./activity_photos/image-0611.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0612",
+      "file_path": "./activity_photos/image-0612.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0613",
+      "file_path": "./activity_photos/image-0613.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0614",
+      "file_path": "./activity_photos/image-0614.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0615",
+      "file_path": "./activity_photos/image-0615.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0616",
+      "file_path": "./activity_photos/image-0616.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0617",
+      "file_path": "./activity_photos/image-0617.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0618",
+      "file_path": "./activity_photos/image-0618.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0619",
+      "file_path": "./activity_photos/image-0619.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0620",
+      "file_path": "./activity_photos/image-0620.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0621",
+      "file_path": "./activity_photos/image-0621.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0622",
+      "file_path": "./activity_photos/image-0622.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0623",
+      "file_path": "./activity_photos/image-0623.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0624",
+      "file_path": "./activity_photos/image-0624.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0625",
+      "file_path": "./activity_photos/image-0625.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0626",
+      "file_path": "./activity_photos/image-0626.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0627",
+      "file_path": "./activity_photos/image-0627.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0628",
+      "file_path": "./activity_photos/image-0628.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0629",
+      "file_path": "./activity_photos/image-0629.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0630",
+      "file_path": "./activity_photos/image-0630.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0631",
+      "file_path": "./activity_photos/image-0631.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0632",
+      "file_path": "./activity_photos/image-0632.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0633",
+      "file_path": "./activity_photos/image-0633.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0634",
+      "file_path": "./activity_photos/image-0634.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0635",
+      "file_path": "./activity_photos/image-0635.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0636",
+      "file_path": "./activity_photos/image-0636.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0637",
+      "file_path": "./activity_photos/image-0637.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0638",
+      "file_path": "./activity_photos/image-0638.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0639",
+      "file_path": "./activity_photos/image-0639.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0640",
+      "file_path": "./activity_photos/image-0640.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0641",
+      "file_path": "./activity_photos/image-0641.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0642",
+      "file_path": "./activity_photos/image-0642.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0643",
+      "file_path": "./activity_photos/image-0643.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0644",
+      "file_path": "./activity_photos/image-0644.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0645",
+      "file_path": "./activity_photos/image-0645.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0646",
+      "file_path": "./activity_photos/image-0646.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0647",
+      "file_path": "./activity_photos/image-0647.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0648",
+      "file_path": "./activity_photos/image-0648.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0649",
+      "file_path": "./activity_photos/image-0649.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0650",
+      "file_path": "./activity_photos/image-0650.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0651",
+      "file_path": "./activity_photos/image-0651.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0652",
+      "file_path": "./activity_photos/image-0652.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0653",
+      "file_path": "./activity_photos/image-0653.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0654",
+      "file_path": "./activity_photos/image-0654.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0655",
+      "file_path": "./activity_photos/image-0655.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0656",
+      "file_path": "./activity_photos/image-0656.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0657",
+      "file_path": "./activity_photos/image-0657.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0658",
+      "file_path": "./activity_photos/image-0658.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0659",
+      "file_path": "./activity_photos/image-0659.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0660",
+      "file_path": "./activity_photos/image-0660.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0661",
+      "file_path": "./activity_photos/image-0661.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0662",
+      "file_path": "./activity_photos/image-0662.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0663",
+      "file_path": "./activity_photos/image-0663.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0664",
+      "file_path": "./activity_photos/image-0664.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0665",
+      "file_path": "./activity_photos/image-0665.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0666",
+      "file_path": "./activity_photos/image-0666.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0667",
+      "file_path": "./activity_photos/image-0667.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0668",
+      "file_path": "./activity_photos/image-0668.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0669",
+      "file_path": "./activity_photos/image-0669.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0670",
+      "file_path": "./activity_photos/image-0670.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0671",
+      "file_path": "./activity_photos/image-0671.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0672",
+      "file_path": "./activity_photos/image-0672.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0673",
+      "file_path": "./activity_photos/image-0673.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0674",
+      "file_path": "./activity_photos/image-0674.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0675",
+      "file_path": "./activity_photos/image-0675.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0676",
+      "file_path": "./activity_photos/image-0676.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0677",
+      "file_path": "./activity_photos/image-0677.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0678",
+      "file_path": "./activity_photos/image-0678.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0679",
+      "file_path": "./activity_photos/image-0679.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0680",
+      "file_path": "./activity_photos/image-0680.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0681",
+      "file_path": "./activity_photos/image-0681.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0682",
+      "file_path": "./activity_photos/image-0682.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0683",
+      "file_path": "./activity_photos/image-0683.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0684",
+      "file_path": "./activity_photos/image-0684.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0685",
+      "file_path": "./activity_photos/image-0685.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0686",
+      "file_path": "./activity_photos/image-0686.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0687",
+      "file_path": "./activity_photos/image-0687.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0688",
+      "file_path": "./activity_photos/image-0688.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0689",
+      "file_path": "./activity_photos/image-0689.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0690",
+      "file_path": "./activity_photos/image-0690.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0691",
+      "file_path": "./activity_photos/image-0691.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0692",
+      "file_path": "./activity_photos/image-0692.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0693",
+      "file_path": "./activity_photos/image-0693.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0694",
+      "file_path": "./activity_photos/image-0694.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0695",
+      "file_path": "./activity_photos/image-0695.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0696",
+      "file_path": "./activity_photos/image-0696.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0697",
+      "file_path": "./activity_photos/image-0697.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0698",
+      "file_path": "./activity_photos/image-0698.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0699",
+      "file_path": "./activity_photos/image-0699.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0700",
+      "file_path": "./activity_photos/image-0700.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0701",
+      "file_path": "./activity_photos/image-0701.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0702",
+      "file_path": "./activity_photos/image-0702.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0703",
+      "file_path": "./activity_photos/image-0703.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0704",
+      "file_path": "./activity_photos/image-0704.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0705",
+      "file_path": "./activity_photos/image-0705.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0706",
+      "file_path": "./activity_photos/image-0706.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0707",
+      "file_path": "./activity_photos/image-0707.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0708",
+      "file_path": "./activity_photos/image-0708.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0709",
+      "file_path": "./activity_photos/image-0709.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0710",
+      "file_path": "./activity_photos/image-0710.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0711",
+      "file_path": "./activity_photos/image-0711.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0712",
+      "file_path": "./activity_photos/image-0712.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0713",
+      "file_path": "./activity_photos/image-0713.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0714",
+      "file_path": "./activity_photos/image-0714.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0715",
+      "file_path": "./activity_photos/image-0715.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0716",
+      "file_path": "./activity_photos/image-0716.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0717",
+      "file_path": "./activity_photos/image-0717.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0718",
+      "file_path": "./activity_photos/image-0718.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0719",
+      "file_path": "./activity_photos/image-0719.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0720",
+      "file_path": "./activity_photos/image-0720.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0721",
+      "file_path": "./activity_photos/image-0721.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0722",
+      "file_path": "./activity_photos/image-0722.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0723",
+      "file_path": "./activity_photos/image-0723.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0724",
+      "file_path": "./activity_photos/image-0724.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0725",
+      "file_path": "./activity_photos/image-0725.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0726",
+      "file_path": "./activity_photos/image-0726.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0727",
+      "file_path": "./activity_photos/image-0727.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0728",
+      "file_path": "./activity_photos/image-0728.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0729",
+      "file_path": "./activity_photos/image-0729.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0730",
+      "file_path": "./activity_photos/image-0730.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0731",
+      "file_path": "./activity_photos/image-0731.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0732",
+      "file_path": "./activity_photos/image-0732.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0733",
+      "file_path": "./activity_photos/image-0733.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0734",
+      "file_path": "./activity_photos/image-0734.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0735",
+      "file_path": "./activity_photos/image-0735.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0736",
+      "file_path": "./activity_photos/image-0736.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0737",
+      "file_path": "./activity_photos/image-0737.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0738",
+      "file_path": "./activity_photos/image-0738.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0739",
+      "file_path": "./activity_photos/image-0739.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0740",
+      "file_path": "./activity_photos/image-0740.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0741",
+      "file_path": "./activity_photos/image-0741.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0742",
+      "file_path": "./activity_photos/image-0742.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0743",
+      "file_path": "./activity_photos/image-0743.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0744",
+      "file_path": "./activity_photos/image-0744.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0745",
+      "file_path": "./activity_photos/image-0745.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0746",
+      "file_path": "./activity_photos/image-0746.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0747",
+      "file_path": "./activity_photos/image-0747.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0748",
+      "file_path": "./activity_photos/image-0748.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0749",
+      "file_path": "./activity_photos/image-0749.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0750",
+      "file_path": "./activity_photos/image-0750.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0751",
+      "file_path": "./activity_photos/image-0751.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0752",
+      "file_path": "./activity_photos/image-0752.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0753",
+      "file_path": "./activity_photos/image-0753.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0754",
+      "file_path": "./activity_photos/image-0754.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0755",
+      "file_path": "./activity_photos/image-0755.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0756",
+      "file_path": "./activity_photos/image-0756.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0757",
+      "file_path": "./activity_photos/image-0757.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0758",
+      "file_path": "./activity_photos/image-0758.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0759",
+      "file_path": "./activity_photos/image-0759.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0760",
+      "file_path": "./activity_photos/image-0760.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0761",
+      "file_path": "./activity_photos/image-0761.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0762",
+      "file_path": "./activity_photos/image-0762.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0763",
+      "file_path": "./activity_photos/image-0763.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0764",
+      "file_path": "./activity_photos/image-0764.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0765",
+      "file_path": "./activity_photos/image-0765.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0766",
+      "file_path": "./activity_photos/image-0766.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0767",
+      "file_path": "./activity_photos/image-0767.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0768",
+      "file_path": "./activity_photos/image-0768.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0769",
+      "file_path": "./activity_photos/image-0769.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0770",
+      "file_path": "./activity_photos/image-0770.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0771",
+      "file_path": "./activity_photos/image-0771.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0772",
+      "file_path": "./activity_photos/image-0772.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0773",
+      "file_path": "./activity_photos/image-0773.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0774",
+      "file_path": "./activity_photos/image-0774.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0775",
+      "file_path": "./activity_photos/image-0775.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0776",
+      "file_path": "./activity_photos/image-0776.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0777",
+      "file_path": "./activity_photos/image-0777.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0778",
+      "file_path": "./activity_photos/image-0778.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0779",
+      "file_path": "./activity_photos/image-0779.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0780",
+      "file_path": "./activity_photos/image-0780.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0781",
+      "file_path": "./activity_photos/image-0781.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0782",
+      "file_path": "./activity_photos/image-0782.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0783",
+      "file_path": "./activity_photos/image-0783.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0784",
+      "file_path": "./activity_photos/image-0784.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0785",
+      "file_path": "./activity_photos/image-0785.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0786",
+      "file_path": "./activity_photos/image-0786.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0787",
+      "file_path": "./activity_photos/image-0787.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0788",
+      "file_path": "./activity_photos/image-0788.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0789",
+      "file_path": "./activity_photos/image-0789.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0790",
+      "file_path": "./activity_photos/image-0790.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0791",
+      "file_path": "./activity_photos/image-0791.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0792",
+      "file_path": "./activity_photos/image-0792.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0793",
+      "file_path": "./activity_photos/image-0793.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0794",
+      "file_path": "./activity_photos/image-0794.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0795",
+      "file_path": "./activity_photos/image-0795.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0796",
+      "file_path": "./activity_photos/image-0796.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0797",
+      "file_path": "./activity_photos/image-0797.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0798",
+      "file_path": "./activity_photos/image-0798.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0799",
+      "file_path": "./activity_photos/image-0799.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0800",
+      "file_path": "./activity_photos/image-0800.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0801",
+      "file_path": "./activity_photos/image-0801.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0802",
+      "file_path": "./activity_photos/image-0802.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0803",
+      "file_path": "./activity_photos/image-0803.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0804",
+      "file_path": "./activity_photos/image-0804.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0805",
+      "file_path": "./activity_photos/image-0805.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0806",
+      "file_path": "./activity_photos/image-0806.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0807",
+      "file_path": "./activity_photos/image-0807.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0808",
+      "file_path": "./activity_photos/image-0808.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0809",
+      "file_path": "./activity_photos/image-0809.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0810",
+      "file_path": "./activity_photos/image-0810.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0811",
+      "file_path": "./activity_photos/image-0811.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0812",
+      "file_path": "./activity_photos/image-0812.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0813",
+      "file_path": "./activity_photos/image-0813.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0814",
+      "file_path": "./activity_photos/image-0814.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0815",
+      "file_path": "./activity_photos/image-0815.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0816",
+      "file_path": "./activity_photos/image-0816.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0817",
+      "file_path": "./activity_photos/image-0817.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0818",
+      "file_path": "./activity_photos/image-0818.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0819",
+      "file_path": "./activity_photos/image-0819.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0820",
+      "file_path": "./activity_photos/image-0820.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0821",
+      "file_path": "./activity_photos/image-0821.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0822",
+      "file_path": "./activity_photos/image-0822.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0823",
+      "file_path": "./activity_photos/image-0823.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0824",
+      "file_path": "./activity_photos/image-0824.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0825",
+      "file_path": "./activity_photos/image-0825.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0826",
+      "file_path": "./activity_photos/image-0826.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0827",
+      "file_path": "./activity_photos/image-0827.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0828",
+      "file_path": "./activity_photos/image-0828.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0829",
+      "file_path": "./activity_photos/image-0829.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0830",
+      "file_path": "./activity_photos/image-0830.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0831",
+      "file_path": "./activity_photos/image-0831.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0832",
+      "file_path": "./activity_photos/image-0832.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0833",
+      "file_path": "./activity_photos/image-0833.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0834",
+      "file_path": "./activity_photos/image-0834.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0835",
+      "file_path": "./activity_photos/image-0835.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0836",
+      "file_path": "./activity_photos/image-0836.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0837",
+      "file_path": "./activity_photos/image-0837.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0838",
+      "file_path": "./activity_photos/image-0838.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0839",
+      "file_path": "./activity_photos/image-0839.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0840",
+      "file_path": "./activity_photos/image-0840.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0841",
+      "file_path": "./activity_photos/image-0841.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0842",
+      "file_path": "./activity_photos/image-0842.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0843",
+      "file_path": "./activity_photos/image-0843.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0844",
+      "file_path": "./activity_photos/image-0844.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0845",
+      "file_path": "./activity_photos/image-0845.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0846",
+      "file_path": "./activity_photos/image-0846.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0847",
+      "file_path": "./activity_photos/image-0847.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0848",
+      "file_path": "./activity_photos/image-0848.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0849",
+      "file_path": "./activity_photos/image-0849.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0850",
+      "file_path": "./activity_photos/image-0850.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0851",
+      "file_path": "./activity_photos/image-0851.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0852",
+      "file_path": "./activity_photos/image-0852.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0853",
+      "file_path": "./activity_photos/image-0853.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0854",
+      "file_path": "./activity_photos/image-0854.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0855",
+      "file_path": "./activity_photos/image-0855.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0856",
+      "file_path": "./activity_photos/image-0856.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0857",
+      "file_path": "./activity_photos/image-0857.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0858",
+      "file_path": "./activity_photos/image-0858.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0859",
+      "file_path": "./activity_photos/image-0859.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0860",
+      "file_path": "./activity_photos/image-0860.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0861",
+      "file_path": "./activity_photos/image-0861.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0862",
+      "file_path": "./activity_photos/image-0862.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0863",
+      "file_path": "./activity_photos/image-0863.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0864",
+      "file_path": "./activity_photos/image-0864.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0865",
+      "file_path": "./activity_photos/image-0865.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0866",
+      "file_path": "./activity_photos/image-0866.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0867",
+      "file_path": "./activity_photos/image-0867.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0868",
+      "file_path": "./activity_photos/image-0868.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0869",
+      "file_path": "./activity_photos/image-0869.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0870",
+      "file_path": "./activity_photos/image-0870.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0871",
+      "file_path": "./activity_photos/image-0871.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0872",
+      "file_path": "./activity_photos/image-0872.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0873",
+      "file_path": "./activity_photos/image-0873.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0874",
+      "file_path": "./activity_photos/image-0874.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0875",
+      "file_path": "./activity_photos/image-0875.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0876",
+      "file_path": "./activity_photos/image-0876.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0877",
+      "file_path": "./activity_photos/image-0877.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0878",
+      "file_path": "./activity_photos/image-0878.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0879",
+      "file_path": "./activity_photos/image-0879.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0880",
+      "file_path": "./activity_photos/image-0880.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0881",
+      "file_path": "./activity_photos/image-0881.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0882",
+      "file_path": "./activity_photos/image-0882.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0883",
+      "file_path": "./activity_photos/image-0883.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0884",
+      "file_path": "./activity_photos/image-0884.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0885",
+      "file_path": "./activity_photos/image-0885.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0886",
+      "file_path": "./activity_photos/image-0886.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0887",
+      "file_path": "./activity_photos/image-0887.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0888",
+      "file_path": "./activity_photos/image-0888.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0889",
+      "file_path": "./activity_photos/image-0889.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0890",
+      "file_path": "./activity_photos/image-0890.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0891",
+      "file_path": "./activity_photos/image-0891.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0892",
+      "file_path": "./activity_photos/image-0892.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0893",
+      "file_path": "./activity_photos/image-0893.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0894",
+      "file_path": "./activity_photos/image-0894.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0895",
+      "file_path": "./activity_photos/image-0895.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0896",
+      "file_path": "./activity_photos/image-0896.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0897",
+      "file_path": "./activity_photos/image-0897.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0898",
+      "file_path": "./activity_photos/image-0898.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0899",
+      "file_path": "./activity_photos/image-0899.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0900",
+      "file_path": "./activity_photos/image-0900.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0901",
+      "file_path": "./activity_photos/image-0901.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0902",
+      "file_path": "./activity_photos/image-0902.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0903",
+      "file_path": "./activity_photos/image-0903.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0904",
+      "file_path": "./activity_photos/image-0904.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0905",
+      "file_path": "./activity_photos/image-0905.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0906",
+      "file_path": "./activity_photos/image-0906.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0907",
+      "file_path": "./activity_photos/image-0907.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0908",
+      "file_path": "./activity_photos/image-0908.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0909",
+      "file_path": "./activity_photos/image-0909.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0910",
+      "file_path": "./activity_photos/image-0910.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0911",
+      "file_path": "./activity_photos/image-0911.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0912",
+      "file_path": "./activity_photos/image-0912.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0913",
+      "file_path": "./activity_photos/image-0913.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0914",
+      "file_path": "./activity_photos/image-0914.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0915",
+      "file_path": "./activity_photos/image-0915.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0916",
+      "file_path": "./activity_photos/image-0916.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0917",
+      "file_path": "./activity_photos/image-0917.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0918",
+      "file_path": "./activity_photos/image-0918.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0919",
+      "file_path": "./activity_photos/image-0919.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0920",
+      "file_path": "./activity_photos/image-0920.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0921",
+      "file_path": "./activity_photos/image-0921.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0922",
+      "file_path": "./activity_photos/image-0922.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0923",
+      "file_path": "./activity_photos/image-0923.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0924",
+      "file_path": "./activity_photos/image-0924.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0925",
+      "file_path": "./activity_photos/image-0925.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0926",
+      "file_path": "./activity_photos/image-0926.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0927",
+      "file_path": "./activity_photos/image-0927.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0928",
+      "file_path": "./activity_photos/image-0928.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0929",
+      "file_path": "./activity_photos/image-0929.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0930",
+      "file_path": "./activity_photos/image-0930.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0931",
+      "file_path": "./activity_photos/image-0931.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0932",
+      "file_path": "./activity_photos/image-0932.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0933",
+      "file_path": "./activity_photos/image-0933.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0934",
+      "file_path": "./activity_photos/image-0934.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0935",
+      "file_path": "./activity_photos/image-0935.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0936",
+      "file_path": "./activity_photos/image-0936.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0937",
+      "file_path": "./activity_photos/image-0937.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0938",
+      "file_path": "./activity_photos/image-0938.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0939",
+      "file_path": "./activity_photos/image-0939.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0940",
+      "file_path": "./activity_photos/image-0940.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0941",
+      "file_path": "./activity_photos/image-0941.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0942",
+      "file_path": "./activity_photos/image-0942.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0943",
+      "file_path": "./activity_photos/image-0943.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0944",
+      "file_path": "./activity_photos/image-0944.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0945",
+      "file_path": "./activity_photos/image-0945.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0946",
+      "file_path": "./activity_photos/image-0946.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0947",
+      "file_path": "./activity_photos/image-0947.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0948",
+      "file_path": "./activity_photos/image-0948.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0949",
+      "file_path": "./activity_photos/image-0949.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0950",
+      "file_path": "./activity_photos/image-0950.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0951",
+      "file_path": "./activity_photos/image-0951.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0952",
+      "file_path": "./activity_photos/image-0952.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0953",
+      "file_path": "./activity_photos/image-0953.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0954",
+      "file_path": "./activity_photos/image-0954.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0955",
+      "file_path": "./activity_photos/image-0955.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0956",
+      "file_path": "./activity_photos/image-0956.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0957",
+      "file_path": "./activity_photos/image-0957.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0958",
+      "file_path": "./activity_photos/image-0958.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0959",
+      "file_path": "./activity_photos/image-0959.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0960",
+      "file_path": "./activity_photos/image-0960.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0961",
+      "file_path": "./activity_photos/image-0961.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0962",
+      "file_path": "./activity_photos/image-0962.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0963",
+      "file_path": "./activity_photos/image-0963.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0964",
+      "file_path": "./activity_photos/image-0964.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0965",
+      "file_path": "./activity_photos/image-0965.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0966",
+      "file_path": "./activity_photos/image-0966.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0967",
+      "file_path": "./activity_photos/image-0967.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0968",
+      "file_path": "./activity_photos/image-0968.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0969",
+      "file_path": "./activity_photos/image-0969.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0970",
+      "file_path": "./activity_photos/image-0970.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0971",
+      "file_path": "./activity_photos/image-0971.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0972",
+      "file_path": "./activity_photos/image-0972.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0973",
+      "file_path": "./activity_photos/image-0973.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0974",
+      "file_path": "./activity_photos/image-0974.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0975",
+      "file_path": "./activity_photos/image-0975.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0976",
+      "file_path": "./activity_photos/image-0976.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0977",
+      "file_path": "./activity_photos/image-0977.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0978",
+      "file_path": "./activity_photos/image-0978.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0979",
+      "file_path": "./activity_photos/image-0979.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0980",
+      "file_path": "./activity_photos/image-0980.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0981",
+      "file_path": "./activity_photos/image-0981.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0982",
+      "file_path": "./activity_photos/image-0982.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0983",
+      "file_path": "./activity_photos/image-0983.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0984",
+      "file_path": "./activity_photos/image-0984.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0985",
+      "file_path": "./activity_photos/image-0985.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0986",
+      "file_path": "./activity_photos/image-0986.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0987",
+      "file_path": "./activity_photos/image-0987.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0988",
+      "file_path": "./activity_photos/image-0988.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0989",
+      "file_path": "./activity_photos/image-0989.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0990",
+      "file_path": "./activity_photos/image-0990.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0991",
+      "file_path": "./activity_photos/image-0991.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0992",
+      "file_path": "./activity_photos/image-0992.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0993",
+      "file_path": "./activity_photos/image-0993.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0994",
+      "file_path": "./activity_photos/image-0994.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0995",
+      "file_path": "./activity_photos/image-0995.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0996",
+      "file_path": "./activity_photos/image-0996.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0997",
+      "file_path": "./activity_photos/image-0997.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0998",
+      "file_path": "./activity_photos/image-0998.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_0999",
+      "file_path": "./activity_photos/image-0999.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1000",
+      "file_path": "./activity_photos/image-1000.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1001",
+      "file_path": "./activity_photos/image-1001.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1002",
+      "file_path": "./activity_photos/image-1002.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1003",
+      "file_path": "./activity_photos/image-1003.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1004",
+      "file_path": "./activity_photos/image-1004.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1005",
+      "file_path": "./activity_photos/image-1005.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1006",
+      "file_path": "./activity_photos/image-1006.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1007",
+      "file_path": "./activity_photos/image-1007.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1008",
+      "file_path": "./activity_photos/image-1008.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1009",
+      "file_path": "./activity_photos/image-1009.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1010",
+      "file_path": "./activity_photos/image-1010.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1011",
+      "file_path": "./activity_photos/image-1011.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1012",
+      "file_path": "./activity_photos/image-1012.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1013",
+      "file_path": "./activity_photos/image-1013.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1014",
+      "file_path": "./activity_photos/image-1014.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1015",
+      "file_path": "./activity_photos/image-1015.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1016",
+      "file_path": "./activity_photos/image-1016.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1017",
+      "file_path": "./activity_photos/image-1017.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1018",
+      "file_path": "./activity_photos/image-1018.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1019",
+      "file_path": "./activity_photos/image-1019.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1020",
+      "file_path": "./activity_photos/image-1020.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1021",
+      "file_path": "./activity_photos/image-1021.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1022",
+      "file_path": "./activity_photos/image-1022.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1023",
+      "file_path": "./activity_photos/image-1023.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1024",
+      "file_path": "./activity_photos/image-1024.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1025",
+      "file_path": "./activity_photos/image-1025.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1026",
+      "file_path": "./activity_photos/image-1026.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1027",
+      "file_path": "./activity_photos/image-1027.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1028",
+      "file_path": "./activity_photos/image-1028.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1029",
+      "file_path": "./activity_photos/image-1029.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1030",
+      "file_path": "./activity_photos/image-1030.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1031",
+      "file_path": "./activity_photos/image-1031.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1032",
+      "file_path": "./activity_photos/image-1032.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1033",
+      "file_path": "./activity_photos/image-1033.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1034",
+      "file_path": "./activity_photos/image-1034.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1035",
+      "file_path": "./activity_photos/image-1035.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1036",
+      "file_path": "./activity_photos/image-1036.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1037",
+      "file_path": "./activity_photos/image-1037.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1038",
+      "file_path": "./activity_photos/image-1038.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1039",
+      "file_path": "./activity_photos/image-1039.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1040",
+      "file_path": "./activity_photos/image-1040.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1041",
+      "file_path": "./activity_photos/image-1041.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1042",
+      "file_path": "./activity_photos/image-1042.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1043",
+      "file_path": "./activity_photos/image-1043.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1044",
+      "file_path": "./activity_photos/image-1044.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1045",
+      "file_path": "./activity_photos/image-1045.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1046",
+      "file_path": "./activity_photos/image-1046.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1047",
+      "file_path": "./activity_photos/image-1047.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1048",
+      "file_path": "./activity_photos/image-1048.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1049",
+      "file_path": "./activity_photos/image-1049.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1050",
+      "file_path": "./activity_photos/image-1050.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1051",
+      "file_path": "./activity_photos/image-1051.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1052",
+      "file_path": "./activity_photos/image-1052.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1053",
+      "file_path": "./activity_photos/image-1053.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1054",
+      "file_path": "./activity_photos/image-1054.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1055",
+      "file_path": "./activity_photos/image-1055.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1057",
+      "file_path": "./activity_photos/image-1057.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1058",
+      "file_path": "./activity_photos/image-1058.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1059",
+      "file_path": "./activity_photos/image-1059.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1060",
+      "file_path": "./activity_photos/image-1060.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1061",
+      "file_path": "./activity_photos/image-1061.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1062",
+      "file_path": "./activity_photos/image-1062.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1063",
+      "file_path": "./activity_photos/image-1063.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1064",
+      "file_path": "./activity_photos/image-1064.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1065",
+      "file_path": "./activity_photos/image-1065.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1066",
+      "file_path": "./activity_photos/image-1066.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1067",
+      "file_path": "./activity_photos/image-1067.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1068",
+      "file_path": "./activity_photos/image-1068.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1069",
+      "file_path": "./activity_photos/image-1069.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1070",
+      "file_path": "./activity_photos/image-1070.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1071",
+      "file_path": "./activity_photos/image-1071.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1072",
+      "file_path": "./activity_photos/image-1072.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1073",
+      "file_path": "./activity_photos/image-1073.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1074",
+      "file_path": "./activity_photos/image-1074.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1075",
+      "file_path": "./activity_photos/image-1075.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1076",
+      "file_path": "./activity_photos/image-1076.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1077",
+      "file_path": "./activity_photos/image-1077.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1078",
+      "file_path": "./activity_photos/image-1078.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1079",
+      "file_path": "./activity_photos/image-1079.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1080",
+      "file_path": "./activity_photos/image-1080.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1081",
+      "file_path": "./activity_photos/image-1081.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1082",
+      "file_path": "./activity_photos/image-1082.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1083",
+      "file_path": "./activity_photos/image-1083.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1084",
+      "file_path": "./activity_photos/image-1084.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1085",
+      "file_path": "./activity_photos/image-1085.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1086",
+      "file_path": "./activity_photos/image-1086.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1087",
+      "file_path": "./activity_photos/image-1087.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1088",
+      "file_path": "./activity_photos/image-1088.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1089",
+      "file_path": "./activity_photos/image-1089.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1090",
+      "file_path": "./activity_photos/image-1090.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1091",
+      "file_path": "./activity_photos/image-1091.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1092",
+      "file_path": "./activity_photos/image-1092.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1093",
+      "file_path": "./activity_photos/image-1093.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1094",
+      "file_path": "./activity_photos/image-1094.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1095",
+      "file_path": "./activity_photos/image-1095.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1096",
+      "file_path": "./activity_photos/image-1096.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1097",
+      "file_path": "./activity_photos/image-1097.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1098",
+      "file_path": "./activity_photos/image-1098.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1099",
+      "file_path": "./activity_photos/image-1099.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1100",
+      "file_path": "./activity_photos/image-1100.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1101",
+      "file_path": "./activity_photos/image-1101.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1102",
+      "file_path": "./activity_photos/image-1102.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1103",
+      "file_path": "./activity_photos/image-1103.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1104",
+      "file_path": "./activity_photos/image-1104.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1105",
+      "file_path": "./activity_photos/image-1105.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1106",
+      "file_path": "./activity_photos/image-1106.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1107",
+      "file_path": "./activity_photos/image-1107.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1108",
+      "file_path": "./activity_photos/image-1108.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1109",
+      "file_path": "./activity_photos/image-1109.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1110",
+      "file_path": "./activity_photos/image-1110.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1111",
+      "file_path": "./activity_photos/image-1111.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1112",
+      "file_path": "./activity_photos/image-1112.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1113",
+      "file_path": "./activity_photos/image-1113.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1114",
+      "file_path": "./activity_photos/image-1114.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1115",
+      "file_path": "./activity_photos/image-1115.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1116",
+      "file_path": "./activity_photos/image-1116.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1117",
+      "file_path": "./activity_photos/image-1117.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1118",
+      "file_path": "./activity_photos/image-1118.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1119",
+      "file_path": "./activity_photos/image-1119.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1120",
+      "file_path": "./activity_photos/image-1120.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1121",
+      "file_path": "./activity_photos/image-1121.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1122",
+      "file_path": "./activity_photos/image-1122.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1123",
+      "file_path": "./activity_photos/image-1123.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1124",
+      "file_path": "./activity_photos/image-1124.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1125",
+      "file_path": "./activity_photos/image-1125.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1126",
+      "file_path": "./activity_photos/image-1126.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1127",
+      "file_path": "./activity_photos/image-1127.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1128",
+      "file_path": "./activity_photos/image-1128.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1129",
+      "file_path": "./activity_photos/image-1129.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1130",
+      "file_path": "./activity_photos/image-1130.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1131",
+      "file_path": "./activity_photos/image-1131.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1132",
+      "file_path": "./activity_photos/image-1132.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1133",
+      "file_path": "./activity_photos/image-1133.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1134",
+      "file_path": "./activity_photos/image-1134.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1135",
+      "file_path": "./activity_photos/image-1135.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1136",
+      "file_path": "./activity_photos/image-1136.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1137",
+      "file_path": "./activity_photos/image-1137.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1138",
+      "file_path": "./activity_photos/image-1138.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1139",
+      "file_path": "./activity_photos/image-1139.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1140",
+      "file_path": "./activity_photos/image-1140.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1141",
+      "file_path": "./activity_photos/image-1141.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1142",
+      "file_path": "./activity_photos/image-1142.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1143",
+      "file_path": "./activity_photos/image-1143.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1144",
+      "file_path": "./activity_photos/image-1144.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1145",
+      "file_path": "./activity_photos/image-1145.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1146",
+      "file_path": "./activity_photos/image-1146.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1147",
+      "file_path": "./activity_photos/image-1147.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1148",
+      "file_path": "./activity_photos/image-1148.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1149",
+      "file_path": "./activity_photos/image-1149.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1150",
+      "file_path": "./activity_photos/image-1150.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1151",
+      "file_path": "./activity_photos/image-1151.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1152",
+      "file_path": "./activity_photos/image-1152.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1153",
+      "file_path": "./activity_photos/image-1153.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1154",
+      "file_path": "./activity_photos/image-1154.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1155",
+      "file_path": "./activity_photos/image-1155.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1156",
+      "file_path": "./activity_photos/image-1156.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1157",
+      "file_path": "./activity_photos/image-1157.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1158",
+      "file_path": "./activity_photos/image-1158.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1159",
+      "file_path": "./activity_photos/image-1159.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1160",
+      "file_path": "./activity_photos/image-1160.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1161",
+      "file_path": "./activity_photos/image-1161.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1162",
+      "file_path": "./activity_photos/image-1162.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1163",
+      "file_path": "./activity_photos/image-1163.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1164",
+      "file_path": "./activity_photos/image-1164.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1165",
+      "file_path": "./activity_photos/image-1165.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1166",
+      "file_path": "./activity_photos/image-1166.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1167",
+      "file_path": "./activity_photos/image-1167.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1168",
+      "file_path": "./activity_photos/image-1168.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1169",
+      "file_path": "./activity_photos/image-1169.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1170",
+      "file_path": "./activity_photos/image-1170.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1171",
+      "file_path": "./activity_photos/image-1171.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1172",
+      "file_path": "./activity_photos/image-1172.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1173",
+      "file_path": "./activity_photos/image-1173.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1174",
+      "file_path": "./activity_photos/image-1174.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1175",
+      "file_path": "./activity_photos/image-1175.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1176",
+      "file_path": "./activity_photos/image-1176.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1177",
+      "file_path": "./activity_photos/image-1177.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1178",
+      "file_path": "./activity_photos/image-1178.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1179",
+      "file_path": "./activity_photos/image-1179.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1180",
+      "file_path": "./activity_photos/image-1180.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1181",
+      "file_path": "./activity_photos/image-1181.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1182",
+      "file_path": "./activity_photos/image-1182.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1183",
+      "file_path": "./activity_photos/image-1183.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1184",
+      "file_path": "./activity_photos/image-1184.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1185",
+      "file_path": "./activity_photos/image-1185.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1186",
+      "file_path": "./activity_photos/image-1186.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1187",
+      "file_path": "./activity_photos/image-1187.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1188",
+      "file_path": "./activity_photos/image-1188.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1189",
+      "file_path": "./activity_photos/image-1189.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1190",
+      "file_path": "./activity_photos/image-1190.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1191",
+      "file_path": "./activity_photos/image-1191.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1192",
+      "file_path": "./activity_photos/image-1192.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1193",
+      "file_path": "./activity_photos/image-1193.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1194",
+      "file_path": "./activity_photos/image-1194.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1195",
+      "file_path": "./activity_photos/image-1195.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1196",
+      "file_path": "./activity_photos/image-1196.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1197",
+      "file_path": "./activity_photos/image-1197.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1198",
+      "file_path": "./activity_photos/image-1198.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1199",
+      "file_path": "./activity_photos/image-1199.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1200",
+      "file_path": "./activity_photos/image-1200.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1201",
+      "file_path": "./activity_photos/image-1201.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1202",
+      "file_path": "./activity_photos/image-1202.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1203",
+      "file_path": "./activity_photos/image-1203.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1204",
+      "file_path": "./activity_photos/image-1204.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1205",
+      "file_path": "./activity_photos/image-1205.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1206",
+      "file_path": "./activity_photos/image-1206.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1207",
+      "file_path": "./activity_photos/image-1207.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1208",
+      "file_path": "./activity_photos/image-1208.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1209",
+      "file_path": "./activity_photos/image-1209.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1210",
+      "file_path": "./activity_photos/image-1210.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1211",
+      "file_path": "./activity_photos/image-1211.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1212",
+      "file_path": "./activity_photos/image-1212.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1213",
+      "file_path": "./activity_photos/image-1213.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1214",
+      "file_path": "./activity_photos/image-1214.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1215",
+      "file_path": "./activity_photos/image-1215.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1216",
+      "file_path": "./activity_photos/image-1216.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1217",
+      "file_path": "./activity_photos/image-1217.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1218",
+      "file_path": "./activity_photos/image-1218.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1219",
+      "file_path": "./activity_photos/image-1219.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1220",
+      "file_path": "./activity_photos/image-1220.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1221",
+      "file_path": "./activity_photos/image-1221.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1222",
+      "file_path": "./activity_photos/image-1222.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1223",
+      "file_path": "./activity_photos/image-1223.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1224",
+      "file_path": "./activity_photos/image-1224.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1225",
+      "file_path": "./activity_photos/image-1225.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1226",
+      "file_path": "./activity_photos/image-1226.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1227",
+      "file_path": "./activity_photos/image-1227.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1228",
+      "file_path": "./activity_photos/image-1228.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1229",
+      "file_path": "./activity_photos/image-1229.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1230",
+      "file_path": "./activity_photos/image-1230.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1231",
+      "file_path": "./activity_photos/image-1231.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1232",
+      "file_path": "./activity_photos/image-1232.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1233",
+      "file_path": "./activity_photos/image-1233.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1234",
+      "file_path": "./activity_photos/image-1234.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1235",
+      "file_path": "./activity_photos/image-1235.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1236",
+      "file_path": "./activity_photos/image-1236.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1237",
+      "file_path": "./activity_photos/image-1237.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1238",
+      "file_path": "./activity_photos/image-1238.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1239",
+      "file_path": "./activity_photos/image-1239.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1240",
+      "file_path": "./activity_photos/image-1240.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1241",
+      "file_path": "./activity_photos/image-1241.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1242",
+      "file_path": "./activity_photos/image-1242.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1243",
+      "file_path": "./activity_photos/image-1243.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1244",
+      "file_path": "./activity_photos/image-1244.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1245",
+      "file_path": "./activity_photos/image-1245.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1246",
+      "file_path": "./activity_photos/image-1246.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1247",
+      "file_path": "./activity_photos/image-1247.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1248",
+      "file_path": "./activity_photos/image-1248.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1249",
+      "file_path": "./activity_photos/image-1249.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1250",
+      "file_path": "./activity_photos/image-1250.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1251",
+      "file_path": "./activity_photos/image-1251.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1252",
+      "file_path": "./activity_photos/image-1252.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1253",
+      "file_path": "./activity_photos/image-1253.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1254",
+      "file_path": "./activity_photos/image-1254.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1255",
+      "file_path": "./activity_photos/image-1255.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1256",
+      "file_path": "./activity_photos/image-1256.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1257",
+      "file_path": "./activity_photos/image-1257.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1258",
+      "file_path": "./activity_photos/image-1258.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1259",
+      "file_path": "./activity_photos/image-1259.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1260",
+      "file_path": "./activity_photos/image-1260.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1261",
+      "file_path": "./activity_photos/image-1261.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1262",
+      "file_path": "./activity_photos/image-1262.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1263",
+      "file_path": "./activity_photos/image-1263.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1264",
+      "file_path": "./activity_photos/image-1264.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1265",
+      "file_path": "./activity_photos/image-1265.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1266",
+      "file_path": "./activity_photos/image-1266.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1267",
+      "file_path": "./activity_photos/image-1267.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1268",
+      "file_path": "./activity_photos/image-1268.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1269",
+      "file_path": "./activity_photos/image-1269.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1270",
+      "file_path": "./activity_photos/image-1270.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1271",
+      "file_path": "./activity_photos/image-1271.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1272",
+      "file_path": "./activity_photos/image-1272.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1273",
+      "file_path": "./activity_photos/image-1273.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1274",
+      "file_path": "./activity_photos/image-1274.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1275",
+      "file_path": "./activity_photos/image-1275.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1276",
+      "file_path": "./activity_photos/image-1276.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1277",
+      "file_path": "./activity_photos/image-1277.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1278",
+      "file_path": "./activity_photos/image-1278.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1279",
+      "file_path": "./activity_photos/image-1279.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1280",
+      "file_path": "./activity_photos/image-1280.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1281",
+      "file_path": "./activity_photos/image-1281.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1282",
+      "file_path": "./activity_photos/image-1282.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1283",
+      "file_path": "./activity_photos/image-1283.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1284",
+      "file_path": "./activity_photos/image-1284.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1285",
+      "file_path": "./activity_photos/image-1285.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1286",
+      "file_path": "./activity_photos/image-1286.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1287",
+      "file_path": "./activity_photos/image-1287.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1288",
+      "file_path": "./activity_photos/image-1288.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1289",
+      "file_path": "./activity_photos/image-1289.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1290",
+      "file_path": "./activity_photos/image-1290.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1291",
+      "file_path": "./activity_photos/image-1291.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1292",
+      "file_path": "./activity_photos/image-1292.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1293",
+      "file_path": "./activity_photos/image-1293.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1294",
+      "file_path": "./activity_photos/image-1294.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1295",
+      "file_path": "./activity_photos/image-1295.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1296",
+      "file_path": "./activity_photos/image-1296.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1297",
+      "file_path": "./activity_photos/image-1297.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1298",
+      "file_path": "./activity_photos/image-1298.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1299",
+      "file_path": "./activity_photos/image-1299.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1300",
+      "file_path": "./activity_photos/image-1300.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1301",
+      "file_path": "./activity_photos/image-1301.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1302",
+      "file_path": "./activity_photos/image-1302.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1303",
+      "file_path": "./activity_photos/image-1303.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1304",
+      "file_path": "./activity_photos/image-1304.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1305",
+      "file_path": "./activity_photos/image-1305.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1306",
+      "file_path": "./activity_photos/image-1306.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1307",
+      "file_path": "./activity_photos/image-1307.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1308",
+      "file_path": "./activity_photos/image-1308.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1309",
+      "file_path": "./activity_photos/image-1309.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1310",
+      "file_path": "./activity_photos/image-1310.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1311",
+      "file_path": "./activity_photos/image-1311.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1312",
+      "file_path": "./activity_photos/image-1312.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1313",
+      "file_path": "./activity_photos/image-1313.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1314",
+      "file_path": "./activity_photos/image-1314.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1315",
+      "file_path": "./activity_photos/image-1315.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1316",
+      "file_path": "./activity_photos/image-1316.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1317",
+      "file_path": "./activity_photos/image-1317.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1318",
+      "file_path": "./activity_photos/image-1318.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1319",
+      "file_path": "./activity_photos/image-1319.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1320",
+      "file_path": "./activity_photos/image-1320.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1321",
+      "file_path": "./activity_photos/image-1321.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1322",
+      "file_path": "./activity_photos/image-1322.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1323",
+      "file_path": "./activity_photos/image-1323.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1324",
+      "file_path": "./activity_photos/image-1324.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1325",
+      "file_path": "./activity_photos/image-1325.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1326",
+      "file_path": "./activity_photos/image-1326.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1327",
+      "file_path": "./activity_photos/image-1327.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1328",
+      "file_path": "./activity_photos/image-1328.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1329",
+      "file_path": "./activity_photos/image-1329.jpeg",
+      "ground_truth": null
+    },
+    {
+      "photo_id": "img_1330",
+      "file_path": "./activity_photos/image-1330.jpeg",
+      "ground_truth": null
     }
   ]
 }
