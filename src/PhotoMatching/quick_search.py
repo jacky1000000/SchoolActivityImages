@@ -6,9 +6,9 @@ from imagebind.models import imagebind_model
 from imagebind.models.imagebind_model import ModalityType
 from imagebind import data as imagebind_data
 
-def search_photos(input_prompt, top_k=10, photo_dir="../../data/activity_photos", 
+def search_photos(input_prompt, top_k=10, photo_dir="../../data/test_photos", 
                   checkpoint_path="../../my_checkpoints/imagebind_huge.pth",
-                  cache_path="../../data/photo_embeddings.pt",
+                  cache_path="../../data/test_photo_embeddings.pt",
                   save_dir="../../output/search_results"):
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"Using device: {device}")
@@ -20,7 +20,7 @@ def search_photos(input_prompt, top_k=10, photo_dir="../../data/activity_photos"
     model.to(device)
     print("✅ ImageBind 模型載入完成")
 
-    # 2. 載入或建立 1,330 張相片的向量特徵庫
+    # 2. 載入或建立 266 張相片的向量特徵庫
     if os.path.exists(cache_path):
         print(f"📦 載入相片特徵索引: {cache_path}")
         cache = torch.load(cache_path, map_location=device)

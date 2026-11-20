@@ -55,7 +55,7 @@ def train_imagebind():
     device = "cuda" if torch.cuda.is_available() else "cpu"
     checkpoint_path = "../../my_checkpoints/imagebind_huge.pth"
     train_json = "../../data/imagebind_train.json"
-    output_dir = "../../ckpt/imagebind_campus_tuned"
+    output_dir = "../../ckpt_updated/imagebind_campus_tuned"
     os.makedirs(output_dir, exist_ok=True)
 
     model = imagebind_model.imagebind_huge(pretrained=False)

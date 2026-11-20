@@ -9,7 +9,7 @@ from imagebind import data as imagebind_data
 
 def build_pooling_dataset(
     pooling_tasks,
-    cache_path="../../data/photo_embeddings.pt",
+    cache_path="../../data/test_photo_embeddings.pt",
     checkpoint_path="../../my_checkpoints/imagebind_huge.pth",
     preview_root="../../output/pooling_preview",
     draft_json_path="../../data/eval_queries_draft.json",
