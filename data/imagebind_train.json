@@ -1,0 +1,4254 @@
+[
+  {
+    "image_path": "../../data/train_photos/image-0001.jpeg",
+    "text": "a school photo of children jumping in a dance studio stock photo"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0003.jpeg",
+    "text": "a school photo of a group of children in a bamboo hut"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0004.jpeg",
+    "text": "a school photo of two students studying at a desk in the library"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0006.jpeg",
+    "text": "a school photo of a group of boys in white uniforms standing in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0008.jpeg",
+    "text": "a school photo of a basketball court with people sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0009.jpeg",
+    "text": "a school photo of a father and son studying together at home"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0010.jpeg",
+    "text": "a school photo of two girls sitting at a table with books and pencils"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0011.jpeg",
+    "text": "a school photo of a table full of books at an event"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0012.jpeg",
+    "text": "a school photo of a group of children sitting around a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0013.jpeg",
+    "text": "a school photo of graduates throwing their mortars in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0016.jpeg",
+    "text": "a school photo of the interior of the museum of modern art in beijing, china"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0017.jpeg",
+    "text": "a school photo of two boys in uniform holding up a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0018.jpeg",
+    "text": "a school photo of a group of boys sitting in the woods"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0019.jpeg",
+    "text": "a school photo of a teacher and her students in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0020.jpeg",
+    "text": "a school photo of a father playing guitar with his son in the living room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0021.jpeg",
+    "text": "a school photo of a teacher helping a student with her homework"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0022.jpeg",
+    "text": "a school photo of a crowd of people sitting in the blea"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0023.jpeg",
+    "text": "a school photo of a toy helicopter on a pile of books"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0025.jpeg",
+    "text": "a school photo of a softball player about to throw the ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0026.jpeg",
+    "text": "a school photo of a basketball court with people playing basketball in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0027.jpeg",
+    "text": "a school photo of two girls sitting on the stairs playing guitar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0028.jpeg",
+    "text": "a school photo of a young girl playing with a huor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0029.jpeg",
+    "text": "a school photo of a father playing guitar with his son in the living room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0030.jpeg",
+    "text": "a school photo of the remains of the fort on the top of the hill"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0032.jpeg",
+    "text": "a school photo of three boys sitting on a bench in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0033.jpeg",
+    "text": "a school photo of a group of children at a school in thailand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0034.jpeg",
+    "text": "a school photo of students performing a traditional dance at the festival"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0035.jpeg",
+    "text": "a school photo of two people riding bikes with balloons on the back"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0036.jpeg",
+    "text": "a school photo of girls performing a traditional dance in a school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0037.jpeg",
+    "text": "a school photo of two boys jumping in the air in front of a school building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0038.jpeg",
+    "text": "a school photo of a group of children performing a traditional dance in front of a school building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0039.jpeg",
+    "text": "a school photo of a girl standing in a classroom with her classmates in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0041.jpeg",
+    "text": "a school photo of a group of children performing a fire dance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0042.jpeg",
+    "text": "a school photo of a group of young men practicing martial in a courtyard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0043.jpeg",
+    "text": "a school photo of a boy running on a track with a coach in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0045.jpeg",
+    "text": "a school photo of a group of children in blue and white uniforms standing in front of a school building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0046.jpeg",
+    "text": "a school photo of a boy playing bola bola bola bola bola bola bola bola bola bola bo"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0047.jpeg",
+    "text": "a school photo of the mural on the side of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0048.jpeg",
+    "text": "a school photo of a photographer taking a picture of a child"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0049.jpeg",
+    "text": "a school photo of two female students working on a computer in a science lab"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0050.jpeg",
+    "text": "a school photo of two young girls smiling and giving the peace sign"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0051.jpeg",
+    "text": "a school photo of a group of children looking at a poster on a wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0053.jpeg",
+    "text": "a school photo of boys playing basketball in a school sports ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0054.jpeg",
+    "text": "a school photo of a young boy eating a sandwich in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0056.jpeg",
+    "text": "a school photo of a young girl drawing with her mother in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0057.jpeg",
+    "text": "a school photo of a group of children in a school in the philippines"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0058.jpeg",
+    "text": "a school photo of a teacher teaching a class of children in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0059.jpeg",
+    "text": "a school photo of girls singing in front of the school building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0060.jpeg",
+    "text": "a school photo of two girls sitting at a table working on a project"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0061.jpeg",
+    "text": "a school photo of two young girls running on a race track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0063.jpeg",
+    "text": "a school photo of a boy and girl playing a game on a computer"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0064.jpeg",
+    "text": "a school photo of the aftermath of a school in manila, philippines"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0067.jpeg",
+    "text": "a school photo of a group of young girls performing a traditional dance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0068.jpeg",
+    "text": "a school photo of boys running on a track in a sports field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0069.jpeg",
+    "text": "a school photo of a classroom full of students in motion motion blurs"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0070.jpeg",
+    "text": "a school photo of a mother and her child using a tablet"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0071.jpeg",
+    "text": "a school photo of a young boy with his head in his hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0072.jpeg",
+    "text": "a school photo of a group of children sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0073.jpeg",
+    "text": "a school photo of a group of people standing around a blue, orange and yellow blanket"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0074.jpeg",
+    "text": "a school photo of a group of children lying on the grass"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0075.jpeg",
+    "text": "a school photo of a young girl writing in a classroom setting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0076.jpeg",
+    "text": "a school photo of boys playing football in a playground in mumbai, india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0077.jpeg",
+    "text": "a school photo of a young girl with glasses and a white t - shirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0078.jpeg",
+    "text": "a school photo of two children sitting at a table in a library"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0079.jpeg",
+    "text": "a school photo of two young children playing with wooden slices on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0080.jpeg",
+    "text": "a school photo of boys running on a track in a sports field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0081.jpeg",
+    "text": "a school photo of students wearing face masks to protect the spread of the coronavirus"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0082.jpeg",
+    "text": "a school photo of a group of young indian schoolchilds with their hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0083.jpeg",
+    "text": "a school photo of a group of young girls sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0084.jpeg",
+    "text": "a school photo of three young girls holding a globe and smiling at the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0085.jpeg",
+    "text": "a school photo of a group of young boys in school uniforms posing for the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0086.jpeg",
+    "text": "a school photo of a group of children marching in a parade"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0087.jpeg",
+    "text": "a school photo of two young boys talking to each other boys"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0088.jpeg",
+    "text": "a school photo of students in a classroom at a school in india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0090.jpeg",
+    "text": "a school photo of two boys sitting on the grass and drawing with crayo pencils"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0091.jpeg",
+    "text": "a school photo of a teacher helping a group of children to draw at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0092.jpeg",
+    "text": "a school photo of a child's handprinted hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0093.jpeg",
+    "text": "a school photo of two boys running on a track with trees in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0095.jpeg",
+    "text": "a school photo of students in the swimming pool at the school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0096.jpeg",
+    "text": "a school photo of legos on the floor in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0098.jpeg",
+    "text": "a school photo of a father and son studying together at home"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0099.jpeg",
+    "text": "a school photo of a group of students in white t - shirts"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0100.jpeg",
+    "text": "a school photo of two girls lying on a bed and writing in a notebook"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0101.jpeg",
+    "text": "a school photo of a group of children in a forest setting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0102.jpeg",
+    "text": "a school photo of two young girls making pottery pots in a pottery workshop"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0103.jpeg",
+    "text": "a school photo of a large white tent with tables and chairs in the middle of a city square"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0105.jpeg",
+    "text": "a school photo of a group of children sitting around a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0106.jpeg",
+    "text": "a school photo of a group of children playing in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0107.jpeg",
+    "text": "a school photo of a group of children sitting around a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0108.jpeg",
+    "text": "a school photo of a group of children sitting at a table doing their homeworks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0109.jpeg",
+    "text": "a school photo of the great hall at the natural history museum in london"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0110.jpeg",
+    "text": "a school photo of soldiers marching in a field during a graduation ceremony"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0112.jpeg",
+    "text": "a school photo of a girl swinging a bat at home plate"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0113.jpeg",
+    "text": "a school photo of two girls sitting on a bed and playing guitar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0114.jpeg",
+    "text": "a school photo of a desk with lots of books and pencils"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0116.jpeg",
+    "text": "a school photo of a group of children reading books on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0117.jpeg",
+    "text": "a school photo of a poster on a wall in berlin, germany"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0118.jpeg",
+    "text": "a school photo of a boy raising his hand in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0122.jpeg",
+    "text": "a school photo of a little girl in the kitchen making a dough"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0123.jpeg",
+    "text": "a school photo of a group of young girls in pink uniforms sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0124.jpeg",
+    "text": "a school photo of a group of young boys walking down the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0126.jpeg",
+    "text": "a school photo of women walking down a street in dhaka, bangladesh"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0127.jpeg",
+    "text": "a school photo of girls performing a folk dance at a school in india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0128.jpeg",
+    "text": "a school photo of students playing basketball in the school's playground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0129.jpeg",
+    "text": "a school photo of a young boy playing the drums in a school in india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0130.jpeg",
+    "text": "a school photo of a group of young girls walking down a dirt road"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0133.jpeg",
+    "text": "a school photo of a young boy smiling at the camera, with other children in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0134.jpeg",
+    "text": "a school photo of a group of children playing in a playground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0135.jpeg",
+    "text": "a school photo of two young men with their faces covered in ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho ho"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0137.jpeg",
+    "text": "a school photo of a group of children standing in front of a door"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0138.jpeg",
+    "text": "a school photo of a group of people sitting on the ground in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0140.jpeg",
+    "text": "a school photo of a young boy getting his hair cut by his mother"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0141.jpeg",
+    "text": "a school photo of a group of young men playing soccer in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0144.jpeg",
+    "text": "a school photo of a group of young boys playing soccer in front of a school building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0145.jpeg",
+    "text": "a school photo of two boys sitting on a rock reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0148.jpeg",
+    "text": "a school photo of two boys playing soccer on a soccer field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0149.jpeg",
+    "text": "a school photo of children working on their homeworks at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0150.jpeg",
+    "text": "a school photo of two young boys playing soccer in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0151.jpeg",
+    "text": "a school photo of a young boy eating a piece of fruit"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0152.jpeg",
+    "text": "a school photo of a group of children in a classroom at a primary school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0153.jpeg",
+    "text": "a school photo of a group of young boys practicing karate in a village in china"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0154.jpeg",
+    "text": "a school photo of children in a classroom at a primary school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0156.jpeg",
+    "text": "a school photo of a man standing on a stage with a microphone in front of him"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0157.jpeg",
+    "text": "a school photo of a group of children sitting in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0158.jpeg",
+    "text": "a school photo of polo players playing polo on the polo field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0159.jpeg",
+    "text": "a school photo of a young girl drawing with a pencil while other children look on"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0160.jpeg",
+    "text": "a school photo of a young boy playing soccer in the park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0161.jpeg",
+    "text": "a school photo of a teacher reading a book to a group of children"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0163.jpeg",
+    "text": "a school photo of a young girl playing with a toy at a school in india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0165.jpeg",
+    "text": "a school photo of a young girl in a red, white and blue dress"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0166.jpeg",
+    "text": "a school photo of a group of children in a classroom setting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0167.jpeg",
+    "text": "a school photo of students jumping on blocks in the middle school's courtyard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0168.jpeg",
+    "text": "a school photo of two young girls sitting at a table with a tablet"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0169.jpeg",
+    "text": "a school photo of a child playing with blocks and toys at a preschool center"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0170.jpeg",
+    "text": "a school photo of a little boy playing with a toy car"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0171.jpeg",
+    "text": "a school photo of a mural of a man with a beard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0172.jpeg",
+    "text": "a school photo of a group of students sitting on the ground and raising their hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0173.jpeg",
+    "text": "a school photo of a girl holding a piece of paper in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0174.jpeg",
+    "text": "a school photo of a group of students walking through a field of flowers"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0175.jpeg",
+    "text": "a school photo of a girl and her sister in the garden"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0177.jpeg",
+    "text": "a school photo of the girls in white robes standing in front of their classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0178.jpeg",
+    "text": "a school photo of a teacher and her students in a classroom setting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0180.jpeg",
+    "text": "a school photo of two young girls sitting at a desk smiling"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0181.jpeg",
+    "text": "a school photo of a boy looking at a bag of food"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0182.jpeg",
+    "text": "a school photo of children running on a track in the city"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0183.jpeg",
+    "text": "a school photo of a group of children eating food at a street fair"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0184.jpeg",
+    "text": "a school photo of children playing in the sand at the beach"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0185.jpeg",
+    "text": "a school photo of a young boy playing with a bell in the courtyard of a school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0186.jpeg",
+    "text": "a school photo of a young girl writing in a classroom setting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0188.jpeg",
+    "text": "a school photo of a group of children wearing red and white uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0189.jpeg",
+    "text": "a school photo of a group of children working on art projects"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0191.jpeg",
+    "text": "a school photo of a group of children sitting on the floor and raising their hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0193.jpeg",
+    "text": "a school photo of children playing basketball in the school's courtyard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0195.jpeg",
+    "text": "a school photo of a girl reading a book at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0196.jpeg",
+    "text": "a school photo of a soccer ball surrounded by school supplies on a wooden table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0197.jpeg",
+    "text": "a school photo of a little girl in a pink apron and white gloves painting on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0198.jpeg",
+    "text": "a school photo of a group of children playing in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0200.jpeg",
+    "text": "a school photo of a mother and her child playing with blocks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0203.jpeg",
+    "text": "a school photo of a mother helping her son to do homework"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0204.jpeg",
+    "text": "a school photo of surfboards and surfboards on the beach"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0205.jpeg",
+    "text": "a school photo of a group of children running in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0206.jpeg",
+    "text": "a school photo of a group of young boys playing baseball in a fenced area"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0208.jpeg",
+    "text": "a school photo of a young girl holding up a piece of chocolate"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0209.jpeg",
+    "text": "a school photo of two young girls in the kitchen preparing a healthy meal"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0211.jpeg",
+    "text": "a school photo of the ordination of person at the altar of the church of our lady of the angels"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0212.jpeg",
+    "text": "a school photo of a marching band at a parade in the streets of phnoi, phnoi, phnoi, phnoi, thailand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0213.jpeg",
+    "text": "a school photo of children in a classroom at a school in the philippines"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0214.jpeg",
+    "text": "a school photo of a group of young men performing acinos on a pole"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0215.jpeg",
+    "text": "a school photo of students performing a traditional dance at the event"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0216.jpeg",
+    "text": "a school photo of a group of students walking in front of a school bus"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0217.jpeg",
+    "text": "a school photo of a boy holding a book in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0219.jpeg",
+    "text": "a school photo of two young girls sitting on the floor reading books"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0220.jpeg",
+    "text": "a school photo of a young girl writing on a blackboard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0221.jpeg",
+    "text": "a school photo of a group of students performing a traditional dance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0222.jpeg",
+    "text": "a school photo of a group of people playing basketball on a court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0223.jpeg",
+    "text": "a school photo of a young girl dancing in the street during the festival"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0226.jpeg",
+    "text": "a school photo of children playing on a playground in the city"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0227.jpeg",
+    "text": "a school photo of young girls playing soccer on a sports field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0228.jpeg",
+    "text": "a school photo of a young girl dressed in a traditional indian costume holding the indian flag"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0231.jpeg",
+    "text": "a school photo of students performing a dance routine in a dance studio"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0232.jpeg",
+    "text": "a school photo of a girl with a cell in her hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0233.jpeg",
+    "text": "a school photo of two young boys playing soccer in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0234.jpeg",
+    "text": "a school photo of a group of women sitting on the steps in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0236.jpeg",
+    "text": "a school photo of a group of children dressed in traditional chinese costumes"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0237.jpeg",
+    "text": "a school photo of a group of people running in a marathon"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0238.jpeg",
+    "text": "a school photo of a parade in the streets of yangyangan, china"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0239.jpeg",
+    "text": "a school photo of a group of children eating lunches in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0240.jpeg",
+    "text": "a school photo of two girls with their hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0241.jpeg",
+    "text": "a school photo of a group of students in a classroom setting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0242.jpeg",
+    "text": "a school photo of a young boy in a graduation gown and cap"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0243.jpeg",
+    "text": "a school photo of a group of children dressed in traditional costumes dancing on a road"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0244.jpeg",
+    "text": "a school photo of a young boy playing tennis in the courtyard of the school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0245.jpeg",
+    "text": "a school photo of two girls sitting on a window ledge in a school building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0246.jpeg",
+    "text": "a school photo of a group of children sitting around a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0247.jpeg",
+    "text": "a school photo of a young girl in a classroom surrounded by her parents"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0249.jpeg",
+    "text": "a school photo of a boy writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0250.jpeg",
+    "text": "a school photo of children riding in a rick cart in india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0251.jpeg",
+    "text": "a school photo of three young girls looking at a computer screen"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0252.jpeg",
+    "text": "a school photo of a group of children dancing in the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0253.jpeg",
+    "text": "a school photo of two boys in brown robes walking down a street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0254.jpeg",
+    "text": "a school photo of a group of children playing kites in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0255.jpeg",
+    "text": "a school photo of two young girls playing flute together in a courtyard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0257.jpeg",
+    "text": "a school photo of a teacher reading to children in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0259.jpeg",
+    "text": "a school photo of students jumping into the water at a swimming pool"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0260.jpeg",
+    "text": "a school photo of a young boy playing with a tennis ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0261.jpeg",
+    "text": "a school photo of a group of boys in bangladesh, where they are not allowed to the school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0262.jpeg",
+    "text": "a school photo of a group of kids climbing on a wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0264.jpeg",
+    "text": "a school photo of a group of children sitting at desks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0265.jpeg",
+    "text": "a school photo of a group of young children in red uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0266.jpeg",
+    "text": "a school photo of a group of young boys in white uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0267.jpeg",
+    "text": "a school photo of a group of young people standing in a line"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0268.jpeg",
+    "text": "a school photo of a group of young children dancing in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0269.jpeg",
+    "text": "a school photo of a group of children sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0270.jpeg",
+    "text": "a school photo of a group of girls writing in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0272.jpeg",
+    "text": "a school photo of a person sitting at a table with a book and pencils"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0273.jpeg",
+    "text": "a school photo of a group of children in a dance class"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0274.jpeg",
+    "text": "a school photo of two people sitting at a table with books and a cup of coffee"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0275.jpeg",
+    "text": "a school photo of two children sitting at desks, one writing and the other writing"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0276.jpeg",
+    "text": "a school photo of a group of people in a swimming pool"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0277.jpeg",
+    "text": "a school photo of a little girl with her hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0278.jpeg",
+    "text": "a school photo of a group of people sitting on a basketball court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0279.jpeg",
+    "text": "a school photo of a group of young children sitting at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0280.jpeg",
+    "text": "a school photo of three girls sitting on the floor with their hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0281.jpeg",
+    "text": "a school photo of a group of people flying kites in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0282.jpeg",
+    "text": "a school photo of a group of children in uniform sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0283.jpeg",
+    "text": "a school photo of a bench in the middle of a pond"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0285.jpeg",
+    "text": "a school photo of a woman standing at a podium in a courtroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0287.jpeg",
+    "text": "a school photo of a young girl making a dough with her hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0289.jpeg",
+    "text": "a school photo of a man playing a game of checkers"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0290.jpeg",
+    "text": "a school photo of a girl holding a paper fan in front of a group of people"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0291.jpeg",
+    "text": "a school photo of a group of people sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0292.jpeg",
+    "text": "a school photo of a group of people sitting around a fire pit"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0294.jpeg",
+    "text": "a school photo of a group of people climbing up a rock"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0295.jpeg",
+    "text": "a school photo of a group of people in a swimming pool"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0296.jpeg",
+    "text": "a school photo of a group of people playing a game of tennis"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0297.jpeg",
+    "text": "a school photo of a girl sitting on a bench reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0298.jpeg",
+    "text": "a school photo of children's handprints on a bulletin board"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0299.jpeg",
+    "text": "a school photo of a group of children working on art projects"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0300.jpeg",
+    "text": "a school photo of a young girl sitting on the floor with her hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0301.jpeg",
+    "text": "a school photo of a group of people playing basketball on a court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0302.jpeg",
+    "text": "a school photo of a man and a young boy sitting at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0303.jpeg",
+    "text": "a school photo of a group of children picking fruit from a tree"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0304.jpeg",
+    "text": "a school photo of a bunch of colorful braids on a piece of wood"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0305.jpeg",
+    "text": "a school photo of a group of young children working on art projects"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0306.jpeg",
+    "text": "a school photo of a refrigerator with sticky notes on the door"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0307.jpeg",
+    "text": "a school photo of a young boy looking at a bottle of wine"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0308.jpeg",
+    "text": "a school photo of a group of people sitting at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0309.jpeg",
+    "text": "a school photo of a young girl holding a baseball bat in front of a group of people"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0310.jpeg",
+    "text": "a school photo of a little girl using a computer keyboard and mouse"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0311.jpeg",
+    "text": "a school photo of a little girl looking through a microscope lens"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0312.jpeg",
+    "text": "a school photo of a person writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0313.jpeg",
+    "text": "a school photo of a person holding a tooth brush in their hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0315.jpeg",
+    "text": "a school photo of a man riding a bike down the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0316.jpeg",
+    "text": "a school photo of a young boy and girl drawing with colored pencils"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0317.jpeg",
+    "text": "a school photo of a table full of books at an outdoor event"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0320.jpeg",
+    "text": "a school photo of wooden blocks spelling the word necessary on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0321.jpeg",
+    "text": "a school photo of a young girl sitting on a wooden floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0322.jpeg",
+    "text": "a school photo of a person standing on a railing looking at a group of people"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0323.jpeg",
+    "text": "a school photo of a table with a bunch of candis on it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0325.jpeg",
+    "text": "a school photo of graduates throwing their caps in the air at graduation"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0326.jpeg",
+    "text": "a school photo of a young boy looking out the window at a group of people"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0329.jpeg",
+    "text": "a school photo of a group of students in a lecture hall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0330.jpeg",
+    "text": "a school photo of a little girl playing with a cardboard board"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0332.jpeg",
+    "text": "a school photo of a group of children playing with their bikes"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0333.jpeg",
+    "text": "a school photo of coloring books and pencils on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0336.jpeg",
+    "text": "a school photo of a child's hand holding a toilet"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0337.jpeg",
+    "text": "a school photo of a young boy sitting on a step ladder"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0340.jpeg",
+    "text": "a school photo of a young girl in a blue suit and red bow tie holding a camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0342.jpeg",
+    "text": "a school photo of a group of women walking in the woods"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0343.jpeg",
+    "text": "a school photo of two boys dressed in uniform and holding a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0344.jpeg",
+    "text": "a school photo of a woman reading a book in a library"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0345.jpeg",
+    "text": "a school photo of a group of young men walking in the woods"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0346.jpeg",
+    "text": "a school photo of a little girl painting on a table with a paintbrush"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0347.jpeg",
+    "text": "a school photo of a young boy playing with a cell phone"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0348.jpeg",
+    "text": "a school photo of a little girl painting on a table in a living room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0349.jpeg",
+    "text": "a school photo of a young girl painting a picture of herself"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0350.jpeg",
+    "text": "a school photo of a group of boys sitting on the ground in the woods"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0352.jpeg",
+    "text": "a school photo of a young girl getting her hair done by a female hairdresser"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0353.jpeg",
+    "text": "a school photo of a young boy playing basketball on a court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0354.jpeg",
+    "text": "a school photo of a little girl drawing on the sidewalk with chalk"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0355.jpeg",
+    "text": "a school photo of two young boys playing in the mud hole"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0356.jpeg",
+    "text": "a school photo of a group of people playing a game of soccer"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0357.jpeg",
+    "text": "a school photo of a group of people on a street corner"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0358.jpeg",
+    "text": "a school photo of a group of people watching a polar bear"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0359.jpeg",
+    "text": "a school photo of a young girl looking at a glass ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0360.jpeg",
+    "text": "a school photo of a little girl sitting at a table painting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0361.jpeg",
+    "text": "a school photo of a man sitting in a chair with a baseball bat in his hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0362.jpeg",
+    "text": "a school photo of a group of children playing chess in a living room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0363.jpeg",
+    "text": "a school photo of the inside of a building with paintings on the walls"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0364.jpeg",
+    "text": "a school photo of a bottle of beer on a football field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0365.jpeg",
+    "text": "a school photo of a young boy running down a walkway in a school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0367.jpeg",
+    "text": "a school photo of a female baseball player throwing a pitch ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0368.jpeg",
+    "text": "a school photo of a little girl in a room with a laptop"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0369.jpeg",
+    "text": "a school photo of a group of people sitting around a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0370.jpeg",
+    "text": "a school photo of a little boy wearing a hat and jacket"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0371.jpeg",
+    "text": "a school photo of a young girl feeding a gifet"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0372.jpeg",
+    "text": "a school photo of a group of people cooking in a kitchen"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0373.jpeg",
+    "text": "a school photo of a young girl in a kitchen preparing doughs"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0374.jpeg",
+    "text": "a school photo of a little girl taking a picture of her father"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0375.jpeg",
+    "text": "a school photo of a book with a leaf and butterflies on it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0377.jpeg",
+    "text": "a school photo of a group of people standing in a room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0378.jpeg",
+    "text": "a school photo of people working in a large room filled with tables and benches"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0379.jpeg",
+    "text": "a school photo of two little girls playing with blocks on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0380.jpeg",
+    "text": "a school photo of a group of students walking through a hallway"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0381.jpeg",
+    "text": "a school photo of a group of people playing soccer in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0382.jpeg",
+    "text": "a school photo of a group of people playing instruments in a music class"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0383.jpeg",
+    "text": "a school photo of a young girl in a red t - shirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0384.jpeg",
+    "text": "a school photo of a group of students studying in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0385.jpeg",
+    "text": "a school photo of a young girl and her mother reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0386.jpeg",
+    "text": "a school photo of a person pouring liquid into a jar on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0387.jpeg",
+    "text": "a school photo of a goat and a goat in a pen"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0388.jpeg",
+    "text": "a school photo of a crowd of people sitting in the stands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0391.jpeg",
+    "text": "a school photo of a woman playing a guitar with a young girl"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0392.jpeg",
+    "text": "a school photo of a city with mountains in the background and trees in the fore"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0395.jpeg",
+    "text": "a school photo of a young girl and her mother reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0396.jpeg",
+    "text": "a school photo of a black and white crossword with a pencil resting on it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0397.jpeg",
+    "text": "a school photo of students studying in the atrium of a high school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0398.jpeg",
+    "text": "a school photo of an old man and a young boy sitting on a rock by the water"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0399.jpeg",
+    "text": "a school photo of a young girl sitting in a chair reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0400.jpeg",
+    "text": "a school photo of a softball player about to hit the ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0401.jpeg",
+    "text": "a school photo of a group of people in a field with mountains in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0402.jpeg",
+    "text": "a school photo of a baseball game in progress with the pitcher ready to throw the ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0403.jpeg",
+    "text": "a school photo of a group of people in a music class"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0404.jpeg",
+    "text": "a school photo of a young boy reading a book surrounded by colorful blocks on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0405.jpeg",
+    "text": "a school photo of a boy playing a drum on the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0406.jpeg",
+    "text": "a school photo of a little girl sitting at a table with a cake in front of her"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0407.jpeg",
+    "text": "a school photo of a group of young men playing a video game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0409.jpeg",
+    "text": "a school photo of two girls sitting on the grass in front of a house"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0410.jpeg",
+    "text": "a school photo of a young boy painting on a paper plate"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0411.jpeg",
+    "text": "a school photo of a man and a woman playing a guitar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0413.jpeg",
+    "text": "a school photo of a basketball game being played in a gym"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0414.jpeg",
+    "text": "a school photo of a sculpture in the middle of a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0415.jpeg",
+    "text": "a school photo of a basketball player trying to pass the ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0416.jpeg",
+    "text": "a school photo of a small butterfly on a green leafy plant"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0417.jpeg",
+    "text": "a school photo of a mother and her daughter preparing a meal"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0418.jpeg",
+    "text": "a school photo of a group of people sitting on a bus"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0419.jpeg",
+    "text": "a school photo of a man shooting a gun at a target"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0420.jpeg",
+    "text": "a school photo of a group of people watching a basketball game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0421.jpeg",
+    "text": "a school photo of a group of young men playing a video game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0422.jpeg",
+    "text": "a school photo of two girls in a pool with a life raft"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0423.jpeg",
+    "text": "a school photo of a baby in the kitchen with flour on his hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0424.jpeg",
+    "text": "a school photo of a group of children playing in the grass"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0425.jpeg",
+    "text": "a school photo of a woman playing a guitar while a young girl plays the guitar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0426.jpeg",
+    "text": "a school photo of a woman and two young girls making cupcakes"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0427.jpeg",
+    "text": "a school photo of a skateboarder doing tricks on a ramp"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0428.jpeg",
+    "text": "a school photo of colored crayo pencils arranged in a circle"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0429.jpeg",
+    "text": "a school photo of a little girl holding a husaw"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0431.jpeg",
+    "text": "a school photo of a man and a woman playing a guitar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0432.jpeg",
+    "text": "a school photo of a person looking at artwork in a dark room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0435.jpeg",
+    "text": "a school photo of a group of people standing on a hill"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0437.jpeg",
+    "text": "a school photo of a mother reading a book to her daughter"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0440.jpeg",
+    "text": "a school photo of a plane in a museum with people looking at it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0442.jpeg",
+    "text": "a school photo of a female basketball player taking a shot at the hoop"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0443.jpeg",
+    "text": "a school photo of a little girl in a building made out of blocks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0444.jpeg",
+    "text": "a school photo of an older man painting a young girl's face"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0445.jpeg",
+    "text": "a school photo of a young boy riding a horse on the beach"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0447.jpeg",
+    "text": "a school photo of a football player getting ready to throw the ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0449.jpeg",
+    "text": "a school photo of a man and a young boy doing homework"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0451.jpeg",
+    "text": "a school photo of a football game being played in a stadium"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0453.jpeg",
+    "text": "a school photo of a group of girls playing a game with a pink cherry blossom tree"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0454.jpeg",
+    "text": "a school photo of a man playing a guitar with a young boy"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0455.jpeg",
+    "text": "a school photo of a young boy sitting on the ground with a group of people in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0456.jpeg",
+    "text": "a school photo of a street scene with a sign that says amsab com on it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0457.jpeg",
+    "text": "a school photo of a bunch of cards on a table in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0459.jpeg",
+    "text": "a school photo of a person's hand holding a wallet full of money"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0460.jpeg",
+    "text": "a school photo of a man standing in front of a map"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0462.jpeg",
+    "text": "a school photo of a man with a beard looking at his phone"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0463.jpeg",
+    "text": "a school photo of a person's foot stepping in a stream"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0464.jpeg",
+    "text": "a school photo of a boy and a girl in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0465.jpeg",
+    "text": "a school photo of ping pos in a room with windows"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0466.jpeg",
+    "text": "a school photo of a woman holding a globe in her hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0468.jpeg",
+    "text": "a school photo of chairs and tables in a room with a project projected on the wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0471.jpeg",
+    "text": "a school photo of the remains of the fort on the top of the hill"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0473.jpeg",
+    "text": "a school photo of an older man and a young boy sitting on a couch"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0474.jpeg",
+    "text": "a school photo of a table with a bunch of fruit on it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0475.jpeg",
+    "text": "a school photo of a boy playing the trumpet with his dog"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0476.jpeg",
+    "text": "a school photo of a woman's hands on a potter's wheel"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0478.jpeg",
+    "text": "a school photo of a group of young girls in a dance class"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0479.jpeg",
+    "text": "a school photo of a group of people on stage with instruments"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0480.jpeg",
+    "text": "a school photo of a football player wearing a helmet and holding a football"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0481.jpeg",
+    "text": "a school photo of a girl playing a guitar on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0482.jpeg",
+    "text": "a school photo of a group of young boys playing soccer on a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0483.jpeg",
+    "text": "a school photo of a young girl and her mother making a salad"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0484.jpeg",
+    "text": "a school photo of a group of people standing on a bridge"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0486.jpeg",
+    "text": "a school photo of a group of children sitting at a desk in front of a blackboard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0487.jpeg",
+    "text": "a school photo of three boys sitting on a bench eating food"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0489.jpeg",
+    "text": "a school photo of a group of children in school uniforms and hats"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0490.jpeg",
+    "text": "a school photo of two young boys looking at a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0492.jpeg",
+    "text": "a school photo of a group of young girls performing a traditional dance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0493.jpeg",
+    "text": "a school photo of a group of young girls taking a picture"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0495.jpeg",
+    "text": "a school photo of a group of boys in uniform writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0496.jpeg",
+    "text": "a school photo of two people riding bikes with balloons on their heads"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0497.jpeg",
+    "text": "a school photo of a group of children sitting in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0499.jpeg",
+    "text": "a school photo of three boys blowing straws on a cake"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0500.jpeg",
+    "text": "a school photo of a group of people running on a track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0501.jpeg",
+    "text": "a school photo of a group of children standing on a red carpet"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0503.jpeg",
+    "text": "a school photo of a group of people walking down a walkway"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0504.jpeg",
+    "text": "a school photo of a group of children holding up paper hearts"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0505.jpeg",
+    "text": "a school photo of a group of girls sitting in a row"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0507.jpeg",
+    "text": "a school photo of a girl in a yellow dress dancing with her hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0509.jpeg",
+    "text": "a school photo of children in blue uniforms posing for the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0511.jpeg",
+    "text": "a school photo of a boy playing with a building block toy"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0513.jpeg",
+    "text": "a school photo of a group of young girls sitting on the sidewalk"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0514.jpeg",
+    "text": "a school photo of a group of children dressed in colorful costumes"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0516.jpeg",
+    "text": "a school photo of a young boy wearing a tie and suspends"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0517.jpeg",
+    "text": "a school photo of a group of young girls in red uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0518.jpeg",
+    "text": "a school photo of two young girls in school uniforms, one wearing a tie and the other wearing a blue shirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0519.jpeg",
+    "text": "a school photo of a group of children sitting on the grass"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0520.jpeg",
+    "text": "a school photo of a group of young girls in school uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0521.jpeg",
+    "text": "a school photo of two young boys sitting on the grass in front of a crowd"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0522.jpeg",
+    "text": "a school photo of a young boy playing with a fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0523.jpeg",
+    "text": "a school photo of a group of young children performing a dance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0524.jpeg",
+    "text": "a school photo of a young girl standing in front of her classmates"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0525.jpeg",
+    "text": "a school photo of a group of young boys in uniform standing in a line"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0526.jpeg",
+    "text": "a school photo of a group of children walking down a dirt road"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0527.jpeg",
+    "text": "a school photo of a group of children standing around a red casket"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0528.jpeg",
+    "text": "a school photo of a group of people dancing in the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0529.jpeg",
+    "text": "a school photo of a group of people sitting in a row"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0530.jpeg",
+    "text": "a school photo of a girl wearing a face mask and writing in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0531.jpeg",
+    "text": "a school photo of a young boy wearing a face mask and reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0532.jpeg",
+    "text": "a school photo of two young boys sitting at a desk writing"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0533.jpeg",
+    "text": "a school photo of a group of children playing in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0534.jpeg",
+    "text": "a school photo of a young girl holding a wooden stick and smiling at the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0535.jpeg",
+    "text": "a school photo of a group of children sitting in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0536.jpeg",
+    "text": "a school photo of a young boy wearing a safety vest and hard hat"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0537.jpeg",
+    "text": "a school photo of a young boy smiling and reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0538.jpeg",
+    "text": "a school photo of a young boy playing a drum with a group of people in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0541.jpeg",
+    "text": "a school photo of children sitting at desks with their hands on their head"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0545.jpeg",
+    "text": "a school photo of a group of young girls playing a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0546.jpeg",
+    "text": "a school photo of a group of young men practicing karate in a courtyard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0548.jpeg",
+    "text": "a school photo of a group of children dancing in the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0550.jpeg",
+    "text": "a school photo of a young girl writing on a blackboard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0551.jpeg",
+    "text": "a school photo of a young boy holding a yellow frth"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0552.jpeg",
+    "text": "a school photo of two girls in yellow shirts looking at a cell"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0554.jpeg",
+    "text": "a school photo of a man throwing a baseball ball at a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0555.jpeg",
+    "text": "a school photo of a group of students in their desks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0556.jpeg",
+    "text": "a school photo of two young boys playing baseball in the grass"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0557.jpeg",
+    "text": "a school photo of a group of children sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0558.jpeg",
+    "text": "a school photo of a group of young boys playing a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0559.jpeg",
+    "text": "a school photo of two girls sitting at a table with a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0560.jpeg",
+    "text": "a school photo of young men playing soccer on the grass in front of a stone wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0561.jpeg",
+    "text": "a school photo of a boy playing with a soccer ball in the grass"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0562.jpeg",
+    "text": "a school photo of a boy using a cell phone in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0563.jpeg",
+    "text": "a school photo of a group of children climbing up a hill"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0565.jpeg",
+    "text": "a school photo of two young girls dressed in bright yellow dresses"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0566.jpeg",
+    "text": "a school photo of a girl with her hands folded in prayer"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0567.jpeg",
+    "text": "a school photo of a group of young boys in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0568.jpeg",
+    "text": "a school photo of a group of girls sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0569.jpeg",
+    "text": "a school photo of a little girl in a red shirt and blue shorts"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0572.jpeg",
+    "text": "a school photo of a group of young soccer players in blue and white uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0573.jpeg",
+    "text": "a school photo of young girls performing a folk dance at a school in india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0574.jpeg",
+    "text": "a school photo of a group of children marching in a parade"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0575.jpeg",
+    "text": "a school photo of two young girls standing on a bench in front of a tree"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0576.jpeg",
+    "text": "a school photo of a group of children sitting on a bench"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0577.jpeg",
+    "text": "a school photo of a man working on a piece of art"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0578.jpeg",
+    "text": "a school photo of a group of girls walking down the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0579.jpeg",
+    "text": "a school photo of a group of young children sitting around a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0580.jpeg",
+    "text": "a school photo of a young boy sitting on a toy plane"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0581.jpeg",
+    "text": "a school photo of a group of people standing in front of a temple"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0582.jpeg",
+    "text": "a school photo of a group of people standing in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0583.jpeg",
+    "text": "a school photo of a group of children writing on a wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0584.jpeg",
+    "text": "a school photo of a group of young children playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0586.jpeg",
+    "text": "a school photo of a large group of people sitting in red chairs"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0587.jpeg",
+    "text": "a school photo of two young girls in karate gear doing karate moves"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0588.jpeg",
+    "text": "a school photo of children painted on the side of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0589.jpeg",
+    "text": "a school photo of a group of girls sitting on the floor with their hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0590.jpeg",
+    "text": "a school photo of a girl in a yellow t - shirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0591.jpeg",
+    "text": "a school photo of a person taking a picture of a child"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0592.jpeg",
+    "text": "a school photo of a group of children sitting in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0594.jpeg",
+    "text": "a school photo of a young boy playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0595.jpeg",
+    "text": "a school photo of a group of young boys playing a game of cricket"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0596.jpeg",
+    "text": "a school photo of two young girls working on a laptop computer"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0597.jpeg",
+    "text": "a school photo of a young boy playing with a green balloon"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0598.jpeg",
+    "text": "a school photo of a little girl dressed in a white dress"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0599.jpeg",
+    "text": "a school photo of a group of young girls sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0600.jpeg",
+    "text": "a school photo of a young boy writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0603.jpeg",
+    "text": "a school photo of a young boy in a black suit standing in front of a yellow curtain"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0604.jpeg",
+    "text": "a school photo of a group of children running on a track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0605.jpeg",
+    "text": "a school photo of a young boy writing in a notebook at a desk"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0606.jpeg",
+    "text": "a school photo of a group of young boys in kilts"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0607.jpeg",
+    "text": "a school photo of a classroom with students sitting at desks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0609.jpeg",
+    "text": "a school photo of two young boys playing soccer in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0610.jpeg",
+    "text": "a school photo of a young boy in uniform holding a gun"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0611.jpeg",
+    "text": "a school photo of a group of young girls in school uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0613.jpeg",
+    "text": "a school photo of a group of young boys playing a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0614.jpeg",
+    "text": "a school photo of a group of children playing with buckets"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0615.jpeg",
+    "text": "a school photo of a group of kids running on a track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0616.jpeg",
+    "text": "a school photo of a young boy in a white shirt and tie"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0617.jpeg",
+    "text": "a school photo of two young girls giving the peace sign with their fingers"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0618.jpeg",
+    "text": "a school photo of a man speaking into a microphone in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0619.jpeg",
+    "text": "a school photo of a group of children playing with colored streams"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0620.jpeg",
+    "text": "a school photo of two young boys playing with a red ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0621.jpeg",
+    "text": "a school photo of three young girls standing in front of a mural"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0622.jpeg",
+    "text": "a school photo of three young girls sitting at a table writing"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0623.jpeg",
+    "text": "a school photo of two young girls in red and black dresses looking at their cells"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0624.jpeg",
+    "text": "a school photo of a young boy playing on a swing set"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0625.jpeg",
+    "text": "a school photo of a group of children holding up a rainbow colored kite"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0626.jpeg",
+    "text": "a school photo of a little girl looking at a stack of books"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0627.jpeg",
+    "text": "a school photo of a group of students sitting in a room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0628.jpeg",
+    "text": "a school photo of a girl getting her hair done by an indian woman"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0629.jpeg",
+    "text": "a school photo of a young girl performing a traditional dance at a school in india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0631.jpeg",
+    "text": "a school photo of a group of children playing with kites"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0632.jpeg",
+    "text": "a school photo of a group of people laying on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0633.jpeg",
+    "text": "a school photo of two boys sitting on the floor reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0634.jpeg",
+    "text": "a school photo of a group of young people performing a traditional dance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0635.jpeg",
+    "text": "a school photo of a young boy sitting at a table in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0636.jpeg",
+    "text": "a school photo of a group of women in sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0637.jpeg",
+    "text": "a school photo of a group of people dancing in the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0638.jpeg",
+    "text": "a school photo of two girls walking in front of a market"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0640.jpeg",
+    "text": "a school photo of a man working on a piece of art"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0641.jpeg",
+    "text": "a school photo of a group of people in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0642.jpeg",
+    "text": "a school photo of a group of children playing tennis on a court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0643.jpeg",
+    "text": "a school photo of a little girl sitting at a desk with her classmates"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0644.jpeg",
+    "text": "a school photo of a group of children sitting in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0646.jpeg",
+    "text": "a school photo of a group of people in yellow robes standing around a tree"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0648.jpeg",
+    "text": "a school photo of a group of children posing for a picture"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0649.jpeg",
+    "text": "a school photo of a young boy sitting on the ground reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0650.jpeg",
+    "text": "a school photo of a young girl holding a cross with the word jesus on it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0651.jpeg",
+    "text": "a school photo of a group of young dancers in blue and white outfits"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0652.jpeg",
+    "text": "a school photo of a young boy holding a stuffed animal in front of a blackboard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0653.jpeg",
+    "text": "a school photo of a young boy writing in his classroom desk"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0654.jpeg",
+    "text": "a school photo of two girls playing in the grass at the park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0655.jpeg",
+    "text": "a school photo of a group of young athletes competing in a race"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0656.jpeg",
+    "text": "a school photo of a group of children sitting at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0657.jpeg",
+    "text": "a school photo of a boy on a skateboard in a skate park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0658.jpeg",
+    "text": "a school photo of a group of young boys in school uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0659.jpeg",
+    "text": "a school photo of a group of people riding bikes in a parking"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0660.jpeg",
+    "text": "a school photo of a group of young boys in white uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0661.jpeg",
+    "text": "a school photo of a group of young people playing a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0662.jpeg",
+    "text": "a school photo of a young boy playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0663.jpeg",
+    "text": "a school photo of two young girls working on their homeworks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0666.jpeg",
+    "text": "a school photo of two young girls sitting at a table writing"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0667.jpeg",
+    "text": "a school photo of a young man running in a track race"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0668.jpeg",
+    "text": "a school photo of a young boy playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0669.jpeg",
+    "text": "a school photo of a group of people playing basketball on a court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0670.jpeg",
+    "text": "a school photo of two young boys sitting on the floor smiling"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0671.jpeg",
+    "text": "a school photo of a group of young children in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0672.jpeg",
+    "text": "a school photo of a group of kids running on a track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0673.jpeg",
+    "text": "a school photo of two young girls sitting on a pillar and talking on the phone"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0674.jpeg",
+    "text": "a school photo of a group of young boys sitting on a fence"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0675.jpeg",
+    "text": "a school photo of children playing baseball in a field with trees in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0676.jpeg",
+    "text": "a school photo of a man sitting on the ground playing a musical instrument"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0678.jpeg",
+    "text": "a school photo of a group of women in colorful sar sars"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0679.jpeg",
+    "text": "a school photo of a group of boys sitting on a wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0680.jpeg",
+    "text": "a school photo of two boys standing in front of a tree"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0681.jpeg",
+    "text": "a school photo of a group of people playing cricket in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0682.jpeg",
+    "text": "a school photo of the aftermath of a school in the town of goma, in the state of goma, mozambique, africa"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0683.jpeg",
+    "text": "a school photo of a young girl working on a sewing machine"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0684.jpeg",
+    "text": "a school photo of a young man playing with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0685.jpeg",
+    "text": "a school photo of a group of people playing in the grass"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0686.jpeg",
+    "text": "a school photo of a group of students sitting in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0687.jpeg",
+    "text": "a school photo of a young boy playing with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0688.jpeg",
+    "text": "a school photo of a group of young boys playing with balls"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0689.jpeg",
+    "text": "a school photo of children in a classroom at a rural school in kenya"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0691.jpeg",
+    "text": "a school photo of a group of children sitting in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0692.jpeg",
+    "text": "a school photo of a man sitting in a classroom with his hands on his chins"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0694.jpeg",
+    "text": "a school photo of a group of young girls holding ice creams"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0696.jpeg",
+    "text": "a school photo of a group of young children playing a game of basketball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0698.jpeg",
+    "text": "a school photo of a boy laying on the floor with his head in his hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0699.jpeg",
+    "text": "a school photo of a little girl with a flag painted on her face"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0700.jpeg",
+    "text": "a school photo of a group of young women in business attire standing in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0701.jpeg",
+    "text": "a school photo of three girls walking down a train track with a backpack on their back"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0702.jpeg",
+    "text": "a school photo of a group of young girls in white uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0703.jpeg",
+    "text": "a school photo of a group of young girls in white dresses"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0704.jpeg",
+    "text": "a school photo of a little girl with a backpack on her back"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0706.jpeg",
+    "text": "a school photo of two young boys playing with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0707.jpeg",
+    "text": "a school photo of a large group of children sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0708.jpeg",
+    "text": "a school photo of a group of children climbing up a tree"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0709.jpeg",
+    "text": "a school photo of a young man playing with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0710.jpeg",
+    "text": "a school photo of a group of men standing around a cake"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0711.jpeg",
+    "text": "a school photo of a young boy writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0712.jpeg",
+    "text": "a school photo of a group of children standing in front of a car"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0713.jpeg",
+    "text": "a school photo of a group of people standing in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0714.jpeg",
+    "text": "a school photo of two girls sitting on the floor with their laptops"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0715.jpeg",
+    "text": "a school photo of a group of people walking down a dirt road"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0716.jpeg",
+    "text": "a school photo of a group of people playing baseball in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0717.jpeg",
+    "text": "a school photo of a little girl in a blue dress and a boy in a white shirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0718.jpeg",
+    "text": "a school photo of a group of students sitting at desks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0719.jpeg",
+    "text": "a school photo of a group of children dressed in traditional indian costumes"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0720.jpeg",
+    "text": "a school photo of two boys playing tennis in the courtyard of a school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0721.jpeg",
+    "text": "a school photo of a group of children playing drums and drums"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0722.jpeg",
+    "text": "a school photo of a group of young boys playing with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0723.jpeg",
+    "text": "a school photo of a group of young children sitting on a bench"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0724.jpeg",
+    "text": "a school photo of a group of people riding on motor bikes"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0725.jpeg",
+    "text": "a school photo of a group of children holding up signs that say i love you"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0727.jpeg",
+    "text": "a school photo of a young boy smiling and holding a painting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0729.jpeg",
+    "text": "a school photo of a young girl riding a bike in a playground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0730.jpeg",
+    "text": "a school photo of a young girl raising her hand in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0731.jpeg",
+    "text": "a school photo of a group of students walking down a path lined with palm trees"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0732.jpeg",
+    "text": "a school photo of a group of young girls in school uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0733.jpeg",
+    "text": "a school photo of a young girl reading a book in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0734.jpeg",
+    "text": "a school photo of a group of children in a classroom setting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0735.jpeg",
+    "text": "a school photo of two little girls looking at something in the distance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0737.jpeg",
+    "text": "a school photo of a group of young men playing a game of basketball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0738.jpeg",
+    "text": "a school photo of a little girl playing with a colorful piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0739.jpeg",
+    "text": "a school photo of a man walking across a baseball field with a bat in his hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0740.jpeg",
+    "text": "a school photo of a group of children playing drums and singing"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0743.jpeg",
+    "text": "a school photo of a group of women sitting on a bench"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0745.jpeg",
+    "text": "a school photo of a group of young people playing a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0746.jpeg",
+    "text": "a school photo of a young boy in a classroom holding a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0747.jpeg",
+    "text": "a school photo of a woman in a green uniform speaking to a group of children"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0749.jpeg",
+    "text": "a school photo of young girls in white robes with their hands up in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0750.jpeg",
+    "text": "a school photo of a group of people dancing in a courtyard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0751.jpeg",
+    "text": "a school photo of a group of people standing in front of a house"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0752.jpeg",
+    "text": "a school photo of a group of students in india, with the indian flag on their shoulders"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0753.jpeg",
+    "text": "a school photo of a young girl sitting at a table drawing"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0754.jpeg",
+    "text": "a school photo of a child drawing on a table with colored pencils"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0755.jpeg",
+    "text": "a school photo of a group of people performing a fire dance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0756.jpeg",
+    "text": "a school photo of a group of children sitting behind a chain link fence"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0757.jpeg",
+    "text": "a school photo of a group of men in red uniforms marching in a parade"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0758.jpeg",
+    "text": "a school photo of a group of young people standing in front of trees"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0760.jpeg",
+    "text": "a school photo of a group of young boys running on a track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0761.jpeg",
+    "text": "a school photo of a young boy sitting at a desk writing"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0762.jpeg",
+    "text": "a school photo of a young man writing on a blackboard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0763.jpeg",
+    "text": "a school photo of a group of children on roller skates"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0764.jpeg",
+    "text": "a school photo of a young boy sitting on a log in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0767.jpeg",
+    "text": "a school photo of a group of people playing video games in a room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0768.jpeg",
+    "text": "a school photo of a group of young girls playing cards on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0769.jpeg",
+    "text": "a school photo of a man holding a tray of fruit at a festival"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0770.jpeg",
+    "text": "a school photo of a group of people sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0771.jpeg",
+    "text": "a school photo of a group of graduates throwing their caps in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0772.jpeg",
+    "text": "a school photo of a group of people performing on a stage"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0773.jpeg",
+    "text": "a school photo of a group of children wearing red uniforms and hats"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0774.jpeg",
+    "text": "a school photo of two young children sitting on yellow plastic chairs"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0775.jpeg",
+    "text": "a school photo of a group of children dancing in a parade"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0780.jpeg",
+    "text": "a school photo of a young girl in a red dress playing a drum"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0781.jpeg",
+    "text": "a school photo of a young girl playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0783.jpeg",
+    "text": "a school photo of a group of people dancing in the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0784.jpeg",
+    "text": "a school photo of a group of people watching a soccer game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0785.jpeg",
+    "text": "a school photo of a classroom with students sitting at desks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0786.jpeg",
+    "text": "a school photo of a group of students walking down a road"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0787.jpeg",
+    "text": "a school photo of a young boy in a white shirt with a tie around his neck"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0788.jpeg",
+    "text": "a school photo of a young boy in a blue sweater and white pants"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0790.jpeg",
+    "text": "a school photo of a man teaching a class in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0791.jpeg",
+    "text": "a school photo of a group of people dressed in red uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0792.jpeg",
+    "text": "a school photo of a man on a horse drawn by a group of people"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0793.jpeg",
+    "text": "a school photo of two young boys with their hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0794.jpeg",
+    "text": "a school photo of a group of children in school uniforms with a basket of flowers"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0795.jpeg",
+    "text": "a school photo of a boy with a medal on his neck"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0796.jpeg",
+    "text": "a school photo of a group of children in front of lanterns"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0797.jpeg",
+    "text": "a school photo of a group of students sitting in a room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0798.jpeg",
+    "text": "a school photo of a group of people standing on the beach"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0799.jpeg",
+    "text": "a school photo of two young boys running on a tennis court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0801.jpeg",
+    "text": "a school photo of a girl writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0802.jpeg",
+    "text": "a school photo of a group of people dressed in costumes on the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0803.jpeg",
+    "text": "a school photo of a young boy playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0804.jpeg",
+    "text": "a school photo of a group of young girls playing a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0805.jpeg",
+    "text": "a school photo of a group of children playing in the dirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0806.jpeg",
+    "text": "a school photo of a young boy playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0807.jpeg",
+    "text": "a school photo of two young girls dressed in colorful sars"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0808.jpeg",
+    "text": "a school photo of two young boys sitting at desks in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0809.jpeg",
+    "text": "a school photo of a child's hand holding a paintbrush"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0810.jpeg",
+    "text": "a school photo of a boy in a classroom with his hand on his chin"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0812.jpeg",
+    "text": "a school photo of a group of people serving food to each other students"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0813.jpeg",
+    "text": "a school photo of a group of children playing on a bench"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0814.jpeg",
+    "text": "a school photo of a young boy with his hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0815.jpeg",
+    "text": "a school photo of a young girl dressed in the colors of the indian national flag"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0816.jpeg",
+    "text": "a school photo of two girls riding on a scoote"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0817.jpeg",
+    "text": "a school photo of a group of women holding up posters and flags"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0819.jpeg",
+    "text": "a school photo of a group of children standing on a railing"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0820.jpeg",
+    "text": "a school photo of a group of children standing in a circle"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0821.jpeg",
+    "text": "a school photo of a group of children playing with buckets"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0823.jpeg",
+    "text": "a school photo of a young girl in a red and white dress"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0824.jpeg",
+    "text": "a school photo of a group of children playing in the dirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0826.jpeg",
+    "text": "a school photo of a group of people holding a rainbow flag"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0827.jpeg",
+    "text": "a school photo of a young girl holding a cell phone in front of a group of children"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0828.jpeg",
+    "text": "a school photo of a young girl painting on a table with a brush and palette"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0829.jpeg",
+    "text": "a school photo of a young boy walking down a dirt road"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0830.jpeg",
+    "text": "a school photo of a young boy sitting on a bench eating a piece of cake"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0831.jpeg",
+    "text": "a school photo of two boys looking out the window of a school building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0832.jpeg",
+    "text": "a school photo of a young girl dressed as a buddhist monk"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0835.jpeg",
+    "text": "a school photo of a group of people dressed in red and white"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0836.jpeg",
+    "text": "a school photo of a group of people dancing in the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0837.jpeg",
+    "text": "a school photo of a young girl with glasses on her head"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0838.jpeg",
+    "text": "a school photo of a group of young boys sitting at their desks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0839.jpeg",
+    "text": "a school photo of a group of boys sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0840.jpeg",
+    "text": "a school photo of a group of women in sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar sar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0841.jpeg",
+    "text": "a school photo of a group of children sitting on a bench"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0843.jpeg",
+    "text": "a school photo of a little girl holding a stick and smiling at the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0844.jpeg",
+    "text": "a school photo of a group of young people playing a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0845.jpeg",
+    "text": "a school photo of the entrance to a school with a mural on the wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0846.jpeg",
+    "text": "a school photo of a young boy playing baseball in the park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0847.jpeg",
+    "text": "a school photo of a group of men and women performing a dance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0848.jpeg",
+    "text": "a school photo of a group of young monks dancing in the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0849.jpeg",
+    "text": "a school photo of two young boys on a slide slide in a playground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0850.jpeg",
+    "text": "a school photo of a young girl holding a pair of scissors"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0851.jpeg",
+    "text": "a school photo of a group of people dressed in yellow and black"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0852.jpeg",
+    "text": "a school photo of a group of kids posing for a picture"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0853.jpeg",
+    "text": "a school photo of a group of people posing for a picture"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0854.jpeg",
+    "text": "a school photo of a group of girls performing a traditional dance"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0855.jpeg",
+    "text": "a school photo of a group of people playing volleyball on the beach"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0856.jpeg",
+    "text": "a school photo of a child's hands drawing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0857.jpeg",
+    "text": "a school photo of two boys sitting at a table with a cup"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0858.jpeg",
+    "text": "a school photo of a group of people in red shirts and white pants"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0859.jpeg",
+    "text": "a school photo of a group of young children behind a fence"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0861.jpeg",
+    "text": "a school photo of a young boy riding a bike with a cell in his hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0862.jpeg",
+    "text": "a school photo of a group of people in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0863.jpeg",
+    "text": "a school photo of a group of people sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0864.jpeg",
+    "text": "a school photo of two girls standing in front of a blackboard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0869.jpeg",
+    "text": "a school photo of a group of people flying kites in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0870.jpeg",
+    "text": "a school photo of a young muslim girl reading a book with her classmates in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0871.jpeg",
+    "text": "a school photo of a group of young boys playing a game of cricket"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0872.jpeg",
+    "text": "a school photo of two young boys playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0873.jpeg",
+    "text": "a school photo of two boys sitting on the floor reading books"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0874.jpeg",
+    "text": "a school photo of a group of children sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0875.jpeg",
+    "text": "a school photo of two young girls skateboarding in the rain"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0876.jpeg",
+    "text": "a school photo of a group of young girls in blue hijams"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0877.jpeg",
+    "text": "a school photo of a group of students holding hands in a circle"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0879.jpeg",
+    "text": "a school photo of a group of children playing in the dirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0880.jpeg",
+    "text": "a school photo of a group of children playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0881.jpeg",
+    "text": "a school photo of a group of young children in a village"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0882.jpeg",
+    "text": "a school photo of two children playing with a kite in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0884.jpeg",
+    "text": "a school photo of a group of young soccer players on the field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0885.jpeg",
+    "text": "a school photo of the back to school logo with scissors, rulers and rulers"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0886.jpeg",
+    "text": "a school photo of a group of people working in a craft room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0887.jpeg",
+    "text": "a school photo of a group of people standing in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0888.jpeg",
+    "text": "a school photo of a group of young children performing a song"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0889.jpeg",
+    "text": "a school photo of a young girl with glasses and a flower in her hair"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0890.jpeg",
+    "text": "a school photo of a young boy playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0892.jpeg",
+    "text": "a school photo of a group of children sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0893.jpeg",
+    "text": "a school photo of a teacher teaching a group of children in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0894.jpeg",
+    "text": "a school photo of a group of young girls singing in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0895.jpeg",
+    "text": "a school photo of a school building with trees in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0896.jpeg",
+    "text": "a school photo of two girls sitting at a table with books and pencils"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0897.jpeg",
+    "text": "a school photo of two young girls running in a track race"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0899.jpeg",
+    "text": "a school photo of a little girl on a bike with a basket"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0900.jpeg",
+    "text": "a school photo of a large group of motor scoots"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0901.jpeg",
+    "text": "a school photo of a group of kids playing with an umbrella"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0902.jpeg",
+    "text": "a school photo of a group of girls with umbrellas in the desert"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0903.jpeg",
+    "text": "a school photo of a group of children pulling a rope in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0904.jpeg",
+    "text": "a school photo of a man painting on a wall with red paint"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0905.jpeg",
+    "text": "a school photo of a group of people in front of a church"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0906.jpeg",
+    "text": "a school photo of a group of children standing in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0907.jpeg",
+    "text": "a school photo of a group of young girls dancing in the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0909.jpeg",
+    "text": "a school photo of a group of people in a classroom setting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0910.jpeg",
+    "text": "a school photo of a young boy with his head in his hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0911.jpeg",
+    "text": "a school photo of a group of people standing around a blue and orange blanket"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0912.jpeg",
+    "text": "a school photo of a group of children in a field of green grass"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0913.jpeg",
+    "text": "a school photo of a young girl writing in a classroom setting"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0914.jpeg",
+    "text": "a school photo of a group of young boys playing soccer in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0915.jpeg",
+    "text": "a school photo of a young girl with glasses and a white t - shirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0916.jpeg",
+    "text": "a school photo of a girl and a boy sitting at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0917.jpeg",
+    "text": "a school photo of a person carving a piece of wood on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0918.jpeg",
+    "text": "a school photo of a group of young people posing for a picture"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0921.jpeg",
+    "text": "a school photo of a group of girls sitting on a bus"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0922.jpeg",
+    "text": "a school photo of a group of children playing in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0923.jpeg",
+    "text": "a school photo of a group of young boys playing with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0924.jpeg",
+    "text": "a school photo of a young boy sitting on a chair surrounded by toys"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0926.jpeg",
+    "text": "a school photo of a classroom with a blackboard on the wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0927.jpeg",
+    "text": "a school photo of a man and a young boy playing tennis"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0928.jpeg",
+    "text": "a school photo of a group of young children in a rural village in india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0931.jpeg",
+    "text": "a school photo of a young boy writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0933.jpeg",
+    "text": "a school photo of a group of children dressed in bright orange"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0934.jpeg",
+    "text": "a school photo of a group of children posing for a picture"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0935.jpeg",
+    "text": "a school photo of two men walking in the rain with an umbrella"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0936.jpeg",
+    "text": "a school photo of a man speaking into a microphone in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0937.jpeg",
+    "text": "a school photo of a young boy sitting at a table writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0938.jpeg",
+    "text": "a school photo of a group of people sitting in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0939.jpeg",
+    "text": "a school photo of a little girl dressed as a king and queen"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0942.jpeg",
+    "text": "a school photo of a man standing in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0943.jpeg",
+    "text": "a school photo of a group of young men on the beach"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0944.jpeg",
+    "text": "a school photo of a little boy holding a large purple ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0945.jpeg",
+    "text": "a school photo of a group of young boys running on a track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0946.jpeg",
+    "text": "a school photo of a man in a red shirt playing with a yellow ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0949.jpeg",
+    "text": "a school photo of a little girl holding a cake in her hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0950.jpeg",
+    "text": "a school photo of three young boys sitting on a bench and looking up at the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0951.jpeg",
+    "text": "a school photo of a young boy kicking a soccer ball in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0952.jpeg",
+    "text": "a school photo of a young boy in a red shirt and orange shirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0953.jpeg",
+    "text": "a school photo of a group of children dressed up in yellow raincoats"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0954.jpeg",
+    "text": "a school photo of a group of children playing in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0955.jpeg",
+    "text": "a school photo of two young girls standing next to a water fountain"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0956.jpeg",
+    "text": "a school photo of a girl on a boat in the water"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0958.jpeg",
+    "text": "a school photo of a group of people walking down a path"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0960.jpeg",
+    "text": "a school photo of a person on a bicycle in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0961.jpeg",
+    "text": "a school photo of a man in a graduation gown speaking into a microphone"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0962.jpeg",
+    "text": "a school photo of two boys playing foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo foo"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0963.jpeg",
+    "text": "a school photo of a group of young girls in uniform standing in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0964.jpeg",
+    "text": "a school photo of a group of people standing under a tree"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0965.jpeg",
+    "text": "a school photo of a young boy holding a bird in a cage"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0966.jpeg",
+    "text": "a school photo of two girls sitting on the ground in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0967.jpeg",
+    "text": "a school photo of a young boy playing with a baseball bat"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0968.jpeg",
+    "text": "a school photo of a group of young soccer players on a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0970.jpeg",
+    "text": "a school photo of a group of young girls sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0971.jpeg",
+    "text": "a school photo of a group of children posing for the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0972.jpeg",
+    "text": "a school photo of a group of children marching in a parade"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0973.jpeg",
+    "text": "a school photo of a group of children doing yogas in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0975.jpeg",
+    "text": "a school photo of a group of boys sitting at a desk"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0976.jpeg",
+    "text": "a school photo of a group of children playing with a toy"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0977.jpeg",
+    "text": "a school photo of a group of young children reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0978.jpeg",
+    "text": "a school photo of a group of children on a basketball court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0979.jpeg",
+    "text": "a school photo of a group of children sitting around a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0980.jpeg",
+    "text": "a school photo of a basketball court with people playing on it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0981.jpeg",
+    "text": "a school photo of a group of children playing in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0982.jpeg",
+    "text": "a school photo of a group of children drawing with colored pencils"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0983.jpeg",
+    "text": "a school photo of a young girl and a young girl standing in front of a blackboard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0984.jpeg",
+    "text": "a school photo of a group of children in red shirts and white caps"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0985.jpeg",
+    "text": "a school photo of a group of children in a dance class"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0987.jpeg",
+    "text": "a school photo of a group of people sitting at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0988.jpeg",
+    "text": "a school photo of a group of people laying on a basketball court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0989.jpeg",
+    "text": "a school photo of a group of young girls wearing pink helmets"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0990.jpeg",
+    "text": "a school photo of a young girl sitting on the floor reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0991.jpeg",
+    "text": "a school photo of a young girl holding a stick and smiling at the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0992.jpeg",
+    "text": "a school photo of two young girls playing with blocks on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0993.jpeg",
+    "text": "a school photo of a man and a woman working in the woods"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0994.jpeg",
+    "text": "a school photo of a child's handprinting on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0998.jpeg",
+    "text": "a school photo of a tennis court surrounded by trees and buildings"
+  },
+  {
+    "image_path": "../../data/train_photos/image-0999.jpeg",
+    "text": "a school photo of three boys dressed in uniforms and holding a red flag"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1000.jpeg",
+    "text": "a school photo of two young boys running on a track with trees in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1002.jpeg",
+    "text": "a school photo of a group of children sitting on a bench in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1003.jpeg",
+    "text": "a school photo of a group of young boys playing with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1004.jpeg",
+    "text": "a school photo of a plate of chocolates on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1005.jpeg",
+    "text": "a school photo of a group of people in a swimming pool"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1006.jpeg",
+    "text": "a school photo of a school building through a hole in a wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1007.jpeg",
+    "text": "a school photo of a group of children playing with legos"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1008.jpeg",
+    "text": "a school photo of a person jumping off a boat into the water"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1009.jpeg",
+    "text": "a school photo of a boy and a girl playing on the stairs"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1010.jpeg",
+    "text": "a school photo of a little girl making a cupcake cake"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1012.jpeg",
+    "text": "a school photo of a man holding a baseball bat in his right hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1013.jpeg",
+    "text": "a school photo of a little girl in the mirror with a plate of food"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1014.jpeg",
+    "text": "a school photo of a row of colorful wooden bells on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1015.jpeg",
+    "text": "a school photo of a skate park with a lot of people"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1016.jpeg",
+    "text": "a school photo of a father and son reading a book together"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1017.jpeg",
+    "text": "a school photo of a man and a young boy in the woods"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1018.jpeg",
+    "text": "a school photo of a little girl with pencils in her hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1019.jpeg",
+    "text": "a school photo of a young boy and his mother sitting at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1020.jpeg",
+    "text": "a school photo of two children playing on the beach with a bucket"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1021.jpeg",
+    "text": "a school photo of a man sitting on a bench reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1022.jpeg",
+    "text": "a school photo of a git standing next to a skeleton of a git"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1024.jpeg",
+    "text": "a school photo of a young boy playing with a wooden toy"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1025.jpeg",
+    "text": "a school photo of a group of young people sitting around a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1027.jpeg",
+    "text": "a school photo of a man standing in a room with a bar in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1028.jpeg",
+    "text": "a school photo of a person playing a game of chess on a chess board"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1029.jpeg",
+    "text": "a school photo of a group of children playing baseball in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1030.jpeg",
+    "text": "a school photo of a person's hand reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1031.jpeg",
+    "text": "a school photo of a group of people standing around a camp site"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1032.jpeg",
+    "text": "a school photo of a young girl in a yellow jacket with her arms outstretched"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1033.jpeg",
+    "text": "a school photo of a young girl making a clay pot with two other children"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1034.jpeg",
+    "text": "a school photo of a girl sitting under a tree using her cell"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1036.jpeg",
+    "text": "a school photo of a bunch of white jugs and jugs on a wooden table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1037.jpeg",
+    "text": "a school photo of a group of children working in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1038.jpeg",
+    "text": "a school photo of a man in uniform holding a baseball bat"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1039.jpeg",
+    "text": "a school photo of a man and a woman on a horse"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1041.jpeg",
+    "text": "a school photo of a group of children playing on a fire pit"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1042.jpeg",
+    "text": "a school photo of a group of boys playing a musical instrument"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1043.jpeg",
+    "text": "a school photo of a group of people playing soccer on a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1045.jpeg",
+    "text": "a school photo of a yellow bike parked on the side of the road"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1046.jpeg",
+    "text": "a school photo of a green frog climbing a metal pole with a blue sky in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1047.jpeg",
+    "text": "a school photo of a sidewalk with flags and trees in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1048.jpeg",
+    "text": "a school photo of a group of people in a swimming pool"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1049.jpeg",
+    "text": "a school photo of two boys looking at a map and writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1050.jpeg",
+    "text": "a school photo of a messy desk with a bunch of tools"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1051.jpeg",
+    "text": "a school photo of a large building with a statue of a horse in the middle of the room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1052.jpeg",
+    "text": "a school photo of a young boy playing with a toy train"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1054.jpeg",
+    "text": "a school photo of two dinosaurs in a field with trees in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1055.jpeg",
+    "text": "a school photo of a young boy taking a picture with his cell phone"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1057.jpeg",
+    "text": "a school photo of people walking through the lobby of a school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1058.jpeg",
+    "text": "a school photo of a little boy riding a bike with a stuffed animal on it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1059.jpeg",
+    "text": "a school photo of a young boy drawing on a white board"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1060.jpeg",
+    "text": "a school photo of a young girl sitting on a set of stairs"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1062.jpeg",
+    "text": "a school photo of a group of people in a music class"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1063.jpeg",
+    "text": "a school photo of a crossword with a pencil on it"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1064.jpeg",
+    "text": "a school photo of a group of people sitting in a room"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1065.jpeg",
+    "text": "a school photo of eases and eases on a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1066.jpeg",
+    "text": "a school photo of a bottle of beer on a football field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1067.jpeg",
+    "text": "a school photo of a young girl painting on a canvas with a brush"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1068.jpeg",
+    "text": "a school photo of a man and woman looking at a cell"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1069.jpeg",
+    "text": "a school photo of a boy and a girl making pottery pots"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1070.jpeg",
+    "text": "a school photo of a sailboat on the water with people in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1071.jpeg",
+    "text": "a school photo of students sitting at desks in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1072.jpeg",
+    "text": "a school photo of a room with a view of the outside"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1073.jpeg",
+    "text": "a school photo of sailers in the water on a sunny day"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1074.jpeg",
+    "text": "a school photo of a group of boys playing baseball in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1075.jpeg",
+    "text": "a school photo of a young girl getting her birthday present from a young girl"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1076.jpeg",
+    "text": "a school photo of a young girl painting a picture of her mother"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1077.jpeg",
+    "text": "a school photo of a large building with a clock on the ceiling"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1078.jpeg",
+    "text": "a school photo of boys playing soccer on a field at night"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1079.jpeg",
+    "text": "a school photo of a sand castle on the beach with people in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1080.jpeg",
+    "text": "a school photo of a group of stuffed animals in a display case"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1081.jpeg",
+    "text": "a school photo of two little girls riding a tricycle bike"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1083.jpeg",
+    "text": "a school photo of a young girl on a monkey bars at a playground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1084.jpeg",
+    "text": "a school photo of a mother reading a book to her daughter"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1086.jpeg",
+    "text": "a school photo of a football player running with the ball during a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1087.jpeg",
+    "text": "a school photo of a person's hand holding a small fuzzy animal"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1089.jpeg",
+    "text": "a school photo of a little girl sitting in a rocking chair"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1090.jpeg",
+    "text": "a school photo of a girl throwing a softball ball at a baseball game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1091.jpeg",
+    "text": "a school photo of a young girl painting a picture of a woman's face"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1093.jpeg",
+    "text": "a school photo of a woman and a young girl sitting on a couch"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1094.jpeg",
+    "text": "a school photo of a man standing in front of a classroom full of students"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1096.jpeg",
+    "text": "a school photo of two young girls playing guitar in a bedroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1097.jpeg",
+    "text": "a school photo of a football game with the ball in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1098.jpeg",
+    "text": "a school photo of a group of soldiers marching through a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1099.jpeg",
+    "text": "a school photo of a softball player about to throw the ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1102.jpeg",
+    "text": "a school photo of a field with trees and buildings in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1103.jpeg",
+    "text": "a school photo of a group of boys standing in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1104.jpeg",
+    "text": "a school photo of two girls sitting on a bed playing a guitar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1107.jpeg",
+    "text": "a school photo of a man signing a book at a table with a group of people in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1109.jpeg",
+    "text": "a school photo of people in a library with books on the walls"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1110.jpeg",
+    "text": "a school photo of a person on the beach with a dog"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1111.jpeg",
+    "text": "a school photo of a female basketball player shooting the ball in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1112.jpeg",
+    "text": "a school photo of two young girls sitting on a bed playing guitar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1113.jpeg",
+    "text": "a school photo of a little girl playing with a toy truck"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1114.jpeg",
+    "text": "a school photo of a young boy climbing on a climbing wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1115.jpeg",
+    "text": "a school photo of a small kitchen with a window in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1116.jpeg",
+    "text": "a school photo of a group of people sitting around a fire pit"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1117.jpeg",
+    "text": "a school photo of a young boy climbing on a climbing wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1119.jpeg",
+    "text": "a school photo of a mother and her child preparing a salad"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1120.jpeg",
+    "text": "a school photo of a man and woman sitting on a bench"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1121.jpeg",
+    "text": "a school photo of two girls sitting on a bed playing a guitar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1123.jpeg",
+    "text": "a school photo of a man looking at fish in a large aquarium"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1124.jpeg",
+    "text": "a school photo of a man playing a guitar with a young boy"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1125.jpeg",
+    "text": "a school photo of a group of girls playing soccer on a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1128.jpeg",
+    "text": "a school photo of a group of people walking around a pyramid"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1129.jpeg",
+    "text": "a school photo of a young boy and his mother sitting on a couch"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1130.jpeg",
+    "text": "a school photo of a boy on a surfboard in the water"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1131.jpeg",
+    "text": "a school photo of a young boy walking down a snowy street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1133.jpeg",
+    "text": "a school photo of a little girl and her mother making cupcakes"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1134.jpeg",
+    "text": "a school photo of a mother and her daughter doing homework together"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1137.jpeg",
+    "text": "a school photo of a football player running with the ball during a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1138.jpeg",
+    "text": "a school photo of a man sitting on a couch playing a guitar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1139.jpeg",
+    "text": "a school photo of a young boy in a field with a camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1141.jpeg",
+    "text": "a school photo of colored pencils in a glass jar with a white background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1143.jpeg",
+    "text": "a school photo of a football game with a player running the ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1144.jpeg",
+    "text": "a school photo of a river scene with a boat on the water"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1145.jpeg",
+    "text": "a school photo of a girl looking out of a window at night"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1146.jpeg",
+    "text": "a school photo of a pear on a table with flowers and a cell"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1147.jpeg",
+    "text": "a school photo of a no entry sign on a gate with trees in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1148.jpeg",
+    "text": "a school photo of a man standing under a tent on the beach"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1149.jpeg",
+    "text": "a school photo of a dining room with a mural on the wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1150.jpeg",
+    "text": "a school photo of a baby playing with flour on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1152.jpeg",
+    "text": "a school photo of a poster on the side of a road"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1153.jpeg",
+    "text": "a school photo of two people picking up trash in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1155.jpeg",
+    "text": "a school photo of a woman reading a book on a train"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1157.jpeg",
+    "text": "a school photo of a group of children playing in the woods"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1158.jpeg",
+    "text": "a school photo of two boys looking at a geyser"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1159.jpeg",
+    "text": "a school photo of a man sitting on the steps of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1161.jpeg",
+    "text": "a school photo of a smiling young man riding a white horse"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1162.jpeg",
+    "text": "a school photo of a soccer field with a clock tower in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1164.jpeg",
+    "text": "a school photo of two girls playing soccer on a football field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1165.jpeg",
+    "text": "a school photo of a woman and a little girl in the kitchen"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1166.jpeg",
+    "text": "a school photo of a baseball player throwing the ball in a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1167.jpeg",
+    "text": "a school photo of a young boy looking at a small bird"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1168.jpeg",
+    "text": "a school photo of a group of children playing in the fog"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1169.jpeg",
+    "text": "a school photo of a group of people walking on a trail"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1170.jpeg",
+    "text": "a school photo of a wrestling match with a crowd of people watching"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1171.jpeg",
+    "text": "a school photo of a football game in black and white with a crowd in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1172.jpeg",
+    "text": "a school photo of a group of people on a field with a helicopter in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1173.jpeg",
+    "text": "a school photo of a small dog standing in the grass with its owner's hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1174.jpeg",
+    "text": "a school photo of a little girl making a dough in the kitchen"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1175.jpeg",
+    "text": "a school photo of a group of women working together at a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1176.jpeg",
+    "text": "a school photo of a group of young men playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1177.jpeg",
+    "text": "a school photo of two girls laying on a bed and reading a book"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1178.jpeg",
+    "text": "a school photo of a group of children playing with their drawings"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1179.jpeg",
+    "text": "a school photo of a young girl in uniform smiling at the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1180.jpeg",
+    "text": "a school photo of a boy shooting a gun at a target"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1182.jpeg",
+    "text": "a school photo of a group of people sitting by a pool"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1183.jpeg",
+    "text": "a school photo of a sign in the middle of a forest"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1185.jpeg",
+    "text": "a school photo of some rocks and a tree in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1186.jpeg",
+    "text": "a school photo of surfboards on the beach with palm trees in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1187.jpeg",
+    "text": "a school photo of people standing in front of a fish tank"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1188.jpeg",
+    "text": "a school photo of a young boy playing with a stuffed bear"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1190.jpeg",
+    "text": "a school photo of two young boys playing soccer on a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1191.jpeg",
+    "text": "a school photo of a group of children holding up red heart shaped paper hearts"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1192.jpeg",
+    "text": "a school photo of a young boy sitting on the ground playing with a kite"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1193.jpeg",
+    "text": "a school photo of a group of children sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1194.jpeg",
+    "text": "a school photo of a group of children in red shirts standing in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1195.jpeg",
+    "text": "a school photo of two girls sitting at their desks, one reading a book and the other writing"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1196.jpeg",
+    "text": "a school photo of a young boy running across a set of ladders"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1198.jpeg",
+    "text": "a school photo of a group of young children in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1200.jpeg",
+    "text": "a school photo of a group of girls sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1201.jpeg",
+    "text": "a school photo of a group of children raising their hands in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1202.jpeg",
+    "text": "a school photo of a group of children sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1203.jpeg",
+    "text": "a school photo of a little girl holding a kite in her hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1205.jpeg",
+    "text": "a school photo of a group of people playing drums and drums"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1206.jpeg",
+    "text": "a school photo of a group of young soccer players in blue and white uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1207.jpeg",
+    "text": "a school photo of a group of children playing with a blue ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1209.jpeg",
+    "text": "a school photo of a group of girls sitting in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1210.jpeg",
+    "text": "a school photo of a boy running on a track with a ball in his hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1212.jpeg",
+    "text": "a school photo of a young boy wearing a birthday hat with his classmates in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1214.jpeg",
+    "text": "a school photo of a boy wearing a face mask in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1215.jpeg",
+    "text": "a school photo of a girl writing on a piece of paper"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1216.jpeg",
+    "text": "a school photo of two boys walking down the street with backpacks on their shoulders"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1217.jpeg",
+    "text": "a school photo of a young boy and girl eating food at a picnic table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1218.jpeg",
+    "text": "a school photo of a group of young men in purple shirts and white shorts"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1219.jpeg",
+    "text": "a school photo of a young boy pointing his finger at the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1220.jpeg",
+    "text": "a school photo of a group of boys in suits and ties"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1221.jpeg",
+    "text": "a school photo of a little girl in a graduation gown with a flower in her hair"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1223.jpeg",
+    "text": "a school photo of a young boy writing in his classroom desk"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1224.jpeg",
+    "text": "a school photo of a girl holding an orange object in her hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1225.jpeg",
+    "text": "a school photo of a group of young people playing soccer in a park"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1226.jpeg",
+    "text": "a school photo of a group of children posing for a picture"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1227.jpeg",
+    "text": "a school photo of a football player running with the ball in his hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1228.jpeg",
+    "text": "a school photo of a group of children sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1229.jpeg",
+    "text": "a school photo of a group of children in front of a school building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1230.jpeg",
+    "text": "a school photo of two young boys playing with a kite in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1232.jpeg",
+    "text": "a school photo of a group of women walking down the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1233.jpeg",
+    "text": "a school photo of two young boys playing on a monkey bar"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1235.jpeg",
+    "text": "a school photo of children playing on a tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram tram"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1236.jpeg",
+    "text": "a school photo of a row of bowling balls in a pinball game room with neon signs and neon signs"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1237.jpeg",
+    "text": "a school photo of a group of children playing in the dirt"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1239.jpeg",
+    "text": "a school photo of a group of young girls playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1240.jpeg",
+    "text": "a school photo of young girls performing a folk dance at a school in india"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1241.jpeg",
+    "text": "a school photo of a little girl holding a pink stick in her right hand"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1243.jpeg",
+    "text": "a school photo of a group of children wearing hats and holding umbrellas"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1244.jpeg",
+    "text": "a school photo of two young boys sitting on the grass with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1245.jpeg",
+    "text": "a school photo of a group of people sitting on a stage"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1246.jpeg",
+    "text": "a school photo of a classroom with children sitting at desks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1247.jpeg",
+    "text": "a school photo of a young boy sitting at a desk with a bottle of water in front of him"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1250.jpeg",
+    "text": "a school photo of a boy jumping in the air with a backpack on his back"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1251.jpeg",
+    "text": "a school photo of a group of young women doing yoga poses"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1252.jpeg",
+    "text": "a school photo of a group of young girls with flowers in their hair"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1253.jpeg",
+    "text": "a school photo of a group of people playing a game on a court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1254.jpeg",
+    "text": "a school photo of a group of young girls playing a game"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1255.jpeg",
+    "text": "a school photo of a group of children in a play area"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1256.jpeg",
+    "text": "a school photo of a young boy playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1257.jpeg",
+    "text": "a school photo of a group of children standing in front of a door"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1258.jpeg",
+    "text": "a school photo of a young boy playing drums in a school"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1260.jpeg",
+    "text": "a school photo of a group of people doing karate in a gym"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1261.jpeg",
+    "text": "a school photo of a group of students sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1262.jpeg",
+    "text": "a school photo of a boy doing a trick on a skateboard"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1263.jpeg",
+    "text": "a school photo of two boys playing a game of basketball on a basketball court"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1264.jpeg",
+    "text": "a school photo of a young boy jumping over a set of cones"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1265.jpeg",
+    "text": "a school photo of children sitting at desks in a classroom"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1266.jpeg",
+    "text": "a school photo of a group of children posing for the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1267.jpeg",
+    "text": "a school photo of a group of young girls dressed in red and gold"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1269.jpeg",
+    "text": "a school photo of a group of students sitting at desks"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1270.jpeg",
+    "text": "a school photo of a young boy in a blue outfit holding a yellow bat"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1271.jpeg",
+    "text": "a school photo of a young boy with a moustd mustache"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1272.jpeg",
+    "text": "a school photo of a group of children in a rural area"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1273.jpeg",
+    "text": "a school photo of a group of girls sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1274.jpeg",
+    "text": "a school photo of a group of young girls posing for the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1275.jpeg",
+    "text": "a school photo of a young man playing with a frc"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1276.jpeg",
+    "text": "a school photo of a group of men standing around a table"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1277.jpeg",
+    "text": "a school photo of a group of young men running on a track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1278.jpeg",
+    "text": "a school photo of a group of children walking down a dirt road"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1279.jpeg",
+    "text": "a school photo of a group of young people dancing in the street"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1280.jpeg",
+    "text": "a school photo of a group of children playing with a ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1282.jpeg",
+    "text": "a school photo of a young man working on a piece of metal"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1283.jpeg",
+    "text": "a school photo of children playing in the apple orchards of the village"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1285.jpeg",
+    "text": "a school photo of children sitting at desks with balloons in the air"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1286.jpeg",
+    "text": "a school photo of a group of young boys running on a track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1287.jpeg",
+    "text": "a school photo of a group of children working on a project"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1289.jpeg",
+    "text": "a school photo of a fair with people walking around the fair"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1290.jpeg",
+    "text": "a school photo of a young boy playing with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1293.jpeg",
+    "text": "a school photo of two young girls dressed in white shirts and pink ties"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1294.jpeg",
+    "text": "a school photo of a group of boys in white shirts standing in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1295.jpeg",
+    "text": "a school photo of two young girls sitting on the ground, one smiling and the other sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1296.jpeg",
+    "text": "a school photo of a young boy playing with a soccer ball"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1297.jpeg",
+    "text": "a school photo of a young boy holding a book in his hands"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1300.jpeg",
+    "text": "a school photo of a young girl in a red and yellow dress"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1301.jpeg",
+    "text": "a school photo of two young boys wearing face masks and looking at the camera"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1302.jpeg",
+    "text": "a school photo of a group of people sitting on the floor"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1304.jpeg",
+    "text": "a school photo of a group of young boys running on a track"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1305.jpeg",
+    "text": "a school photo of a group of young boys in white uniforms"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1307.jpeg",
+    "text": "a school photo of a little girl writing at a desk with two other children in the background"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1312.jpeg",
+    "text": "a school photo of two men playing cricket in front of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1313.jpeg",
+    "text": "a school photo of a group of young boys running in a field"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1315.jpeg",
+    "text": "a school photo of a group of young girls in white shirts"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1317.jpeg",
+    "text": "a school photo of a group of children in the balcony of a building"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1321.jpeg",
+    "text": "a school photo of two young girls sitting at a table with books and pencils"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1325.jpeg",
+    "text": "a school photo of a group of people sitting on a wall"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1327.jpeg",
+    "text": "a school photo of a group of boys sitting on the ground"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1328.jpeg",
+    "text": "a school photo of a group of young boys sitting in chairs"
+  },
+  {
+    "image_path": "../../data/train_photos/image-1330.jpeg",
+    "text": "a school photo of a group of people standing on the beach"
+  }
+]

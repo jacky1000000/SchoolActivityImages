@@ -4,6 +4,8 @@ __pycache__/
 data/activity_photos/
 data/facility_images/
 data/corrupted_activity_photos/
+data/test_photos/
+data/train_photos/
 ckpt/
 my_checkpoints/
 tests/
