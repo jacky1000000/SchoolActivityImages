@@ -6,6 +6,7 @@ import torch.nn.functional as F
 from imagebind.models import imagebind_model
 from imagebind.models.imagebind_model import ModalityType
 from imagebind import data as imagebind_data
+import shutil
 
 def compute_ap(ranked_filenames, relevance_dict):
     """計算單一查詢的 Average Precision (AP)"""
@@ -82,7 +83,20 @@ def evaluate_single_model(model_name, checkpoint_path, test_photo_dir, eval_json
         similarities = torch.matmul(photo_matrix, text_embed.T).squeeze(-1)
         sorted_indices = torch.argsort(similarities, descending=True).tolist()
         ranked_filenames = [test_filenames[idx] for idx in sorted_indices]
-
+        print("First 10 ranked filenames:", ranked_filenames[:10])
+        # check if using base or tuned model
+        if "Original" in model_name:
+            result_folder = "../../output/MatchingResultsObtained/base"
+        else:
+            result_folder = "../../output/MatchingResultsObtained/tuned"
+        # create folder for the query, the name should be query_id
+        query_folder = os.path.join(result_folder, q["query_id"])
+        os.makedirs(query_folder, exist_ok=True)
+        # copy the first 10 ranked photos to the query folder
+        for rank, filename in enumerate(ranked_filenames[:10], start=1):
+            src_path = os.path.join(test_photo_dir, filename)
+            dst_path = os.path.join(query_folder, f"Top {rank}_{filename}")
+            shutil.copy(src_path, dst_path)
         ap_scores.append(compute_ap(ranked_filenames, rel_dict))
         ndcg5_scores.append(compute_ndcg(ranked_filenames, rel_dict, k=5))
         ndcg10_scores.append(compute_ndcg(ranked_filenames, rel_dict, k=10))
@@ -106,6 +120,11 @@ if __name__ == "__main__":
 
     base_ckpt = "../../my_checkpoints/imagebind_huge.pth"
     tuned_ckpt = "../../ckpt_updated/imagebind_campus_tuned/imagebind_campus_finetuned.pth"
+
+    os.makedirs("../../output/MatchingResultsObtained", exist_ok=True)
+    # make 2 folders for storing results of base and tuned models
+    os.makedirs("../../output/MatchingResultsObtained/base", exist_ok=True)
+    os.makedirs("../../output/MatchingResultsObtained/tuned", exist_ok=True)
 
     # 分別評估微調前與微調後模型
     base_res = evaluate_single_model("1. Original ImageBind (Zero-Shot)", base_ckpt, test_photos_folder, eval_queries_file, device)
