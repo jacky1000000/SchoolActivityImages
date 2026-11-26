@@ -1,5 +1,10 @@
 # use vicuna checkpoints without training
 
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
 import torch
 from models.nextgpt_arch import NextGPTImageGenModel
 from transformers import AutoTokenizer, StoppingCriteria, StoppingCriteriaList
@@ -105,8 +110,8 @@ def generate_facility_image(expanded_keywords):
     image.save(output_filename)
     print(f"🎉 設施圖像已成功生成並儲存至: {output_filename}")
 
-# if __name__ == "__main__":
-#     # 測試一個開放式的設施生成請求
-#     test_prompt = "blue computer lab"
-#     expanded_keywords = do_inference(test_prompt)
-#     generate_facility_image(expanded_keywords)
+if __name__ == "__main__":
+    # 測試一個開放式的設施生成請求
+    test_prompt = "blue computer lab"
+    expanded_keywords = do_inference(test_prompt)
+    generate_facility_image(expanded_keywords)

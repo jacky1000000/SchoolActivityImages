@@ -83,6 +83,7 @@ def evaluate_single_model(model_name, checkpoint_path, test_photo_dir, eval_json
         similarities = torch.matmul(photo_matrix, text_embed.T).squeeze(-1)
         sorted_indices = torch.argsort(similarities, descending=True).tolist()
         ranked_filenames = [test_filenames[idx] for idx in sorted_indices]
+        print('Size of ranked filenames:', len(ranked_filenames))
         print("First 10 ranked filenames:", ranked_filenames[:10])
         # check if using base or tuned model
         if "Original" in model_name:
@@ -132,7 +133,7 @@ if __name__ == "__main__":
 
     # 列印最終對比報告
     print("\n" + "=" * 76)
-    print("🏆 校園活動相片檢索（測試集 N=270）：mAP 與 nDCG 量化評估對比報告")
+    print("🏆 校園活動相片檢索（測試集 N=266）：mAP 與 nDCG 量化評估對比報告")
     print("=" * 76)
     print(f"{'模型版本 (Model Version)':<38} | {'mAP':<10} | {'nDCG@5':<10} | {'nDCG@10':<10}")
     print("-" * 76)

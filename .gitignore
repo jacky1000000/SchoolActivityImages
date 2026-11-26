@@ -6,6 +6,7 @@ data/facility_images/
 data/corrupted_activity_photos/
 data/test_photos/
 data/train_photos/
+data/facility_images_training_SD/
 ckpt/
 ckpt_updated/
 my_checkpoints/
